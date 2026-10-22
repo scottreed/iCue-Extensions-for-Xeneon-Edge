@@ -4,8 +4,8 @@ Custom HTML widgets for the Corsair XENEON EDGE touchscreen, built with the iCUE
 
 | Widget | Version | What it does | Size |
 |---|---|---|---|
-| [Now Playing](#now-playing) | 1.0.4 | Current track, album art and touch media controls for any app | Small, Medium, Large, XL |
-| [Player for Spotify](#player-for-spotify) | 0.4.5 | Full-screen Spotify library, queue and now playing | **Extra Large only** |
+| [Now Playing](#now-playing) | 1.0.5 | Current track, album art and touch media controls for any app | Small, Medium, Large, XL |
+| [Player for Spotify](#player-for-spotify) | 0.4.6 | Full-screen Spotify library, queue and now playing | **Extra Large only** |
 
 ## Contents
 - [Requirements](#requirements)
@@ -44,7 +44,7 @@ icuewidget package widgets/spotify-library
 
 - Title, artist and album, with album art that crossfades between tracks (a colour tile when there is no art)
 - Previous, play/pause and next touch buttons, dimmed when nothing is playing
-- Custom text, accent and background colours
+- Follows your Edge page theme: text, accent and background colour and the background transparency come from the page's personalization, so the wallpaper shows through. Switch on **Custom Style** in the widget's settings to set your own
 - Responsive layout: side by side on wide slots (Small, Large, XL) and stacked on squarer slots (Medium)
 - Works with anything that appears in Windows media controls (Spotify, Apple Music, browsers and so on) through iCUE's Media Data Provider, so **no account or setup is needed**
 
@@ -119,7 +119,7 @@ Codes are single use and expire within minutes. If sign-in fails, tap **Connect*
 - **Playlists you follow but don't own** may show **Play only**: Spotify only lets developer apps read the songs of playlists you own or collaborate on, but you can still press **Play**.
 - **Artists:** Spotify no longer gives apps an artist's top tracks, so the widget searches Spotify for that artist's songs. Tap a song to play it inside its album, or press **Play** to play the artist.
 - **Up next:** tap a queued song and it plays straight away. Spotify has no "play this queue entry" call, so the widget starts that song inside the playlist or album it came from (a song you queued yourself plays in its own album). The queue then continues from there, so it is rebuilt from that playlist or album rather than your old queue.
-- **Appearance:** text, accent and background colours, and background transparency, in the widget's settings.
+- **Appearance:** follows your Edge page theme (text, accent and background colour, and background transparency), so the wallpaper shows through. Switch on **Custom Style** in the widget's settings to set your own.
 - **Request rate:** while the widget is on screen it asks Spotify what's playing every 4 seconds (about 15 requests a minute), plus a few more when you change song or tap something. The progress bar and clock are worked out on your PC, with no requests. iCUE pauses widgets on Edge pages you aren't looking at, so nothing is sent while you're on another page.
 
 ### Troubleshooting

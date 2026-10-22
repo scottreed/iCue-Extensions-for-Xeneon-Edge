@@ -9,7 +9,9 @@ function applyStyle() {
   const s = document.documentElement.style;
   s.setProperty("--text", prop("textColor", "#FFFFFF"));
   s.setProperty("--accent", prop("accentColor", "#1DB954"));
-  s.setProperty("--bg", prop("bgColor", "#14141C"));
+  s.setProperty("--bg", prop("backgroundColor", "#000000"));
+  const tr = Number(prop("transparency", 80));
+  s.setProperty("--bg-opacity", String(Number.isFinite(tr) ? Math.max(0, Math.min(100, tr)) / 100 : 0.8));
 }
 
 function media() { return window.plugins && window.plugins.Mediadataprovider; }

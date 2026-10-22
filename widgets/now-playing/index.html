@@ -9,14 +9,17 @@
         data-label="tr('Text Color')" data-type="color" data-default="'#FFFFFF'" />
   <meta name="x-icue-property" content="accentColor"
         data-label="tr('Accent Color')" data-type="color" data-default="'#1DB954'" />
-  <meta name="x-icue-property" content="bgColor"
-        data-label="tr('Background Color')" data-type="color" data-default="'#14141C'" />
+  <meta name="x-icue-property" content="backgroundColor"
+        data-label="tr('Background Color')" data-type="color" data-default="'#000000'" />
+  <meta name="x-icue-property" content="transparency"
+        data-label="tr('Background Transparency')" data-type="slider" data-default="80" data-min="0" data-max="100" data-step="1" data-unit-label="'%'" />
   <script type="application/json" id="x-icue-groups">
-    [{ "title": "tr('Appearance')", "properties": ["textColor", "accentColor", "bgColor"] }]
+    [{ "title": "tr('Widget Personalization')", "properties": ["textColor", "accentColor", "backgroundColor", "transparency"] }]
   </script>
 </head>
 <body>
   <link rel="stylesheet" href="style.css" />
+  <div id="bg"></div>
   <div id="app" class="idle">
     <div id="art"><span class="note">&#9835;</span><img id="img" alt=""></div>
     <div id="info">

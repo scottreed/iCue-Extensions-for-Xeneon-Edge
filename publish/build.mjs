@@ -78,7 +78,8 @@ window.plugins = { Mediadataprovider: {
   songNameChanged: sig(), artistChanged: sig(), albumChanged: sig(), thumbnailChanged: sig(), isPlayingChanged: sig(),
   triggerPlayPause() {}, triggerNextTrack() {}, triggerPreviousTrack() {},
 } };
-["textColor", "accentColor", "bgColor"].forEach((k) => { if (q.get(k)) window[k] = q.get(k); });
+window.backgroundColor = "#14141c"; window.transparency = 100; // opaque in listing images
+["textColor", "accentColor", "backgroundColor", "transparency"].forEach((k) => { if (q.get(k)) window[k] = q.get(k); });
 window.iCUE_initialized = true;
 </script>
 <script src="../../widgets/now-playing/app.js"></script>
@@ -109,8 +110,8 @@ window.iCUE_initialized = true;
       <h2>Make it yours</h2>
       <div style="display:flex;gap:40px">
         <div>${dev(W, 696, 0.6, { art: 1, accentColor: "#1db954" })}<p class="cap">Accent colour</p></div>
-        <div>${dev(W, 696, 0.6, { art: 2, accentColor: "#38bdf8", bgColor: "#0b1220", title: "Aurora Drive", artist: "Glass Harbour", album: "Low Tide" })}<p class="cap">Background colour</p></div>
-        <div>${dev(W, 696, 0.6, { art: 3, accentColor: "#f472b6", textColor: "#fde68a", bgColor: "#1a0b2e", title: "Midnight Tape", artist: "Violet Static", album: "Side B" })}<p class="cap">Text colour</p></div>
+        <div>${dev(W, 696, 0.6, { art: 2, accentColor: "#38bdf8", backgroundColor: "#0b1220", title: "Aurora Drive", artist: "Glass Harbour", album: "Low Tide" })}<p class="cap">Background colour</p></div>
+        <div>${dev(W, 696, 0.6, { art: 3, accentColor: "#f472b6", textColor: "#fde68a", backgroundColor: "#1a0b2e", title: "Midnight Tape", artist: "Violet Static", album: "Side B" })}<p class="cap">Text colour</p></div>
       </div></div>`),
   };
   for (const [name, html] of Object.entries(pages)) shoot(name, html, join(here, "now-playing"));
@@ -129,9 +130,9 @@ function buildSpotify() {
     h = h.replace("<head>", `<head>\n<base href="${baseHref}" />`).replace('<script src="js/sha256.js"></script>', pre + '<script src="js/sha256.js"></script>');
     writeFileSync(join(src, file), h);
   }
-  variant("sp-default.html", {});
-  variant("sp-pink.html", { accentColor: "#f472b6", textColor: "#fde68a", backgroundColor: "#1a0b2e" });
-  variant("sp-blue.html", { accentColor: "#38bdf8", backgroundColor: "#0b1220" });
+  variant("sp-default.html", { backgroundColor: "#121212", transparency: 100 });
+  variant("sp-pink.html", { accentColor: "#f472b6", textColor: "#fde68a", backgroundColor: "#1a0b2e", transparency: 100 });
+  variant("sp-blue.html", { accentColor: "#38bdf8", backgroundColor: "#0b1220", transparency: 100 });
 
   const xl = (file, extra, scale) => dev(2536, 696, scale, { mock: 1, ...extra }, file);
   const S = 0.72; // 2536 x 0.72 = 1826 px wide, fits the 1920 canvas

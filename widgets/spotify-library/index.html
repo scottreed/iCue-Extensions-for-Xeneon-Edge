@@ -18,9 +18,9 @@
   <meta name="x-icue-property" content="accentColor"
         data-label="'Accent Color'" data-type="color" data-default="'#1DB954'" />
   <meta name="x-icue-property" content="backgroundColor"
-        data-label="'Background Color'" data-type="color" data-default="'#121212'" />
+        data-label="'Background Color'" data-type="color" data-default="'#000000'" />
   <meta name="x-icue-property" content="transparency"
-        data-label="'Background Transparency'" data-type="slider" data-default="100" data-min="0" data-max="100" data-step="1" />
+        data-label="'Background Transparency'" data-type="slider" data-default="80" data-min="0" data-max="100" data-step="1" data-unit-label="'%'" />
   <script type="application/json" id="x-icue-groups">
     [
       { "title": "'Spotify connection'", "properties": ["spotifyClientId", "spotifyRedirectUri", "spotifyAuthCode"] },
@@ -31,6 +31,7 @@
 </head>
 <body>
   <link rel="stylesheet" href="style.css" />
+  <div id="bg"></div>
   <div id="app">
     <section id="now" aria-label="Now playing">
       <div id="art"><img id="img" alt="" /></div>

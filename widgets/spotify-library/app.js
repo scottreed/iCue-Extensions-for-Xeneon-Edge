@@ -31,19 +31,13 @@ const S = {
 
 /* ---------- properties and boot ---------- */
 
-function withAlpha(color, pct) {
-  const m = /^#?([0-9a-f]{6})$/i.exec(String(color).trim());
-  const a = Math.max(0, Math.min(100, Number(pct))) / 100;
-  if (!m || isNaN(a) || a >= 1) return color;
-  const n = parseInt(m[1], 16);
-  return "rgba(" + (n >> 16) + "," + ((n >> 8) & 255) + "," + (n & 255) + "," + a + ")";
-}
-
 function applyStyle() {
   const s = document.documentElement.style;
   s.setProperty("--text", prop("textColor", "#FFFFFF"));
   s.setProperty("--accent", prop("accentColor", "#1DB954"));
-  s.setProperty("--bg", withAlpha(prop("backgroundColor", "#121212"), prop("transparency", 100)));
+  s.setProperty("--bg", prop("backgroundColor", "#000000"));
+  const tr = Number(prop("transparency", S.mock ? 100 : 80)); // browser preview (?mock) is opaque so it is readable on a white page
+  s.setProperty("--bg-opacity", String(Number.isFinite(tr) ? Math.max(0, Math.min(100, tr)) / 100 : 0.8));
 }
 
 function onProps() {
