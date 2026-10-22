@@ -6,6 +6,7 @@ Custom HTML widgets for the Corsair XENEON EDGE touchscreen, built with the iCUE
 | Widget | Version | Description |
 |---|---|---|
 | [Now Playing](widgets/now-playing) | 1.0.4 | Current track, album art and touch media controls |
+| [Library Player](widgets/spotify-library) | 0.1.0 (untested on hardware) | Browse your Spotify playlists and songs, see the queue, now playing with controls. [Setup guide](docs/SPOTIFY_SETUP.md) |
 
 ## Now Playing
 - Title, artist and album, with album art that crossfades between tracks (colour tile when there is no art)
@@ -27,7 +28,7 @@ npm install -g icuewidget-cli
 icuewidget validate widgets/now-playing
 icuewidget package widgets/now-playing
 ```
-This creates `now-playing.icuewidget` in the current folder. In iCUE, open Widgets, click **+**, and select the file (or double-click it).
+This creates `now-playing.icuewidget` in the `widgets/` folder. In iCUE, open Widgets, click **+**, and select the file (or double-click it).
 
 ## Project layout
 ```
@@ -38,7 +39,13 @@ widgets/
     style.css
     app.js
     resources/icon.svg
+  spotify-library/   (Library Player: js/, app.js, style.css, index.html, manifest.json)
+docs/                (setup guide and the GitHub Pages callback page)
+publish/             (Marketplace listing images)
 ```
+
+## Marketplace images
+`publish/` holds the listing images (1920x960 PNG) rendered from the real widget with mock data: `node publish/build.mjs` (needs Edge or Chrome).
 
 ## Documentation
 - [iCUE Widgets docs](https://docs.elgato.com/icue/widgets/)
@@ -47,3 +54,6 @@ widgets/
 
 ## Notes
 This is an independent implementation written from the public iCUE documentation. It is not affiliated with Corsair, Elgato or the authors of any Marketplace widget.
+
+## Library Player
+Full-screen Spotify companion for the XENEON EDGE: your library, the songs inside each playlist, the current queue, and now playing with controls. Layouts adapt from Small to Extra Large. Requires Spotify Premium and your own free Spotify developer app; see the [setup guide](docs/SPOTIFY_SETUP.md). It is an independent project and is not affiliated with or endorsed by Spotify.

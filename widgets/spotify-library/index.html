@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>'Library Player'</title>
+  <link rel="icon" type="image/svg+xml" href="resources/icon.svg" />
+
+  <meta name="x-icue-property" content="spotifyClientId"
+        data-label="'Spotify Client ID'" data-type="textfield" data-default="''" />
+  <meta name="x-icue-property" content="spotifyRedirectUri"
+        data-label="'Redirect page URL'" data-type="textfield" data-default="''" />
+  <meta name="x-icue-property" content="spotifyAuthCode"
+        data-label="'Paste code here'" data-type="textfield" data-default="''" />
+  <meta name="x-icue-property" content="textColor"
+        data-label="'Text Color'" data-type="color" data-default="'#FFFFFF'" />
+  <meta name="x-icue-property" content="accentColor"
+        data-label="'Accent Color'" data-type="color" data-default="'#1DB954'" />
+  <meta name="x-icue-property" content="backgroundColor"
+        data-label="'Background Color'" data-type="color" data-default="'#121212'" />
+  <script type="application/json" id="x-icue-groups">
+    [
+      { "title": "'Spotify connection'", "properties": ["spotifyClientId", "spotifyRedirectUri", "spotifyAuthCode"] },
+      { "title": "'Widget Personalization'", "properties": ["textColor", "accentColor", "backgroundColor"] }
+    ]
+  </script>
+</head>
+<body>
+  <link rel="stylesheet" href="style.css" />
+  <div id="app" data-tab="lib" data-view="now">
+    <section id="now" aria-label="Now playing">
+      <button id="browse" class="chip" data-act="browse" type="button">Browse</button>
+      <div id="art"><img id="img" alt="" /></div>
+      <div id="meta">
+        <div id="title">Nothing playing</div>
+        <div id="artist"></div>
+        <div id="bar"><i id="fill"></i></div>
+        <div id="times"><span id="tcur"></span><span id="tdur"></span></div>
+        <div id="controls">
+          <button class="rnd" data-act="prev" type="button" aria-label="Previous"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5h2.5v14H6zM20 5v14L9.5 12z"/></svg></button>
+          <button class="rnd big" data-act="play" type="button" aria-label="Play or pause"><svg viewBox="0 0 24 24" aria-hidden="true"><path class="i-play" d="M7 4.5v15l13-7.5z"/><path class="i-pause" d="M6 4.5h4.5v15H6zM13.5 4.5H18v15h-4.5z"/></svg></button>
+          <button class="rnd" data-act="next" type="button" aria-label="Next"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15.5 5H18v14h-2.5zM4 5l10.5 7L4 19z"/></svg></button>
+        </div>
+        <a id="brand" data-act="openspotify">Play on Spotify</a>
+      </div>
+    </section>
+    <div id="side">
+      <div id="tabs">
+        <button class="tab" data-act="tab" data-tab="lib" type="button">Library</button>
+        <button class="tab" data-act="tab" data-tab="queue" type="button">Queue</button>
+        <button id="backnow" class="chip" data-act="now" type="button">Now playing</button>
+      </div>
+      <section id="lib" class="list" aria-label="Library"></section>
+      <section id="queue" class="list" aria-label="Queue"></section>
+    </div>
+    <div id="msg" role="status"></div>
+  </div>
+
+  <script src="js/sha256.js"></script>
+  <script src="js/auth.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/mock.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

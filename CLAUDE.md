@@ -11,7 +11,7 @@ implementation from the public docs; we do not copy the marketplace package.
 
 ## Commands (CLI: `npm i -g icuewidget-cli`, v0.5.1)
 - `icuewidget validate widgets/now-playing`
-- `icuewidget package widgets/now-playing` (writes `.icuewidget` in cwd; run from repo root or move it)
+- `icuewidget package widgets/now-playing` (writes `<widget-name>.icuewidget` in the PARENT of the widget folder, i.e. `widgets/`; move it to the repo root)
 - Install: iCUE > Widgets > "+" > pick the `.icuewidget` (or double-click it)
 
 ## Hard-won rules (validator-enforced; docs are partly stale)
@@ -39,7 +39,7 @@ README.md is public-facing: keep it free of session logs, personal paths and too
 ## Controls gotcha (2026-10-22)
 First build bound button `onclick` only inside the plugin `onInitialized` path; on hardware the buttons did nothing.
 Now buttons are wired at load, listen to pointerup/touchend/click (350ms debounce), look up `window.plugins.Mediadataprovider` at press time,
-and surface errors in the album line. `icuewidget package` writes the file to the CWD, so run it from the repo root.
+and surface errors in the album line. `icuewidget package` writes the file into the parent of the widget folder (`widgets/`), not the CWD.
 
 ## Touch needs `"interactive": true` (2026-10-22)
 Manifest key `interactive` (boolean, default false) enables click handling on touch devices. Without it widget buttons silently do nothing
@@ -64,3 +64,23 @@ Small 840x344 H / 696x416 V; Medium 840x696 H / 696x840 V; Large 1688x696 H / 69
 ## Defaults for every new widget
 - Manifest `author` is always `"Scott Reed Development"`.
 - Bump the manifest `version` on every repackage so iCUE treats the import as new.
+
+## Marketplace images (`publish/`)
+Elgato Marketplace upload rules: thumbnail png/jpg <=5MB, 1920x960 (2:1); gallery min 3 items, png/jpg <=10MB at 1920x960 or mp4 <=50MB at 1920x1080.
+`node publish/build.mjs` regenerates thumbnail + 3 gallery PNGs by rendering the real widget (mock media plugin, fictional artwork) through headless Edge.
+Re-run after any visual change. `publish/src/` is generated and gitignored. Replace with real hardware photos if preferred.
+
+## Library Player (`widgets/spotify-library`, started 2026-10-22)
+Scope (user-confirmed): library playlists, songs inside a playlist, current queue, now playing + controls. NOT liked songs, search or add-to-queue.
+Spotify rules that shaped it (docs checked 2026-10-22): Premium needed for control and for the dev-app owner; Dev Mode = 5 users, so users bring their own Client ID;
+`localhost` redirects banned (HTTPS or 127.0.0.1 only); Feb 2026 changes: `/playlists/{id}/items` replaces `/tracks`, items only for playlists the user owns or collaborates on,
+`/me/tracks`-style library endpoints and batch fetches changed, search limit 10. Spotify design rules: show Spotify attribution (currently a text "Play on Spotify" link; replace with official logo asset),
+unaltered artwork, informational-only progress bar, no "Spotify" in the app name (display name is "Library Player").
+Auth = Authorization Code + PKCE via a static GitHub Pages callback (`docs/callback/`), code pasted into a textfield setting; see `docs/SPOTIFY_SETUP.md`.
+Own SHA-256 in `js/sha256.js` because `crypto.subtle` may be unavailable in a non-secure widget context (verified against Node's sha256).
+Gotchas found: do NOT use `"use strict"` in app.js (bare `icueEvents = ...` assignment throws); textfield props arrive as globals like other properties;
+CSS layout switches by aspect ratio AND width (Small and Large share a ~2.44:1 ratio, so width splits them): XL >=3:1 three panes, Large (<=3:1, >=1300px) now playing + tabs,
+Small (<1300px, >=9:5) now playing + Browse button, Medium/vertical (<9:5) stacked.
+Mock mode: open `index.html?mock=1` (also `&open=p1`, `&tab=queue`, `&view=browse`, `&paused=1`) to render sample data in a normal browser or headless Edge.
+Status: UI verified in headless renders at all slot sizes and the PKCE/token logic unit-tested offline; NOT yet tried against real Spotify or on the Edge.
+Spike still to verify on hardware: `fetch` to Spotify hosts under the `url` permissions (incl. token endpoint CORS), artwork loading, localStorage persistence, followed-playlist songs ("Play only" case).
