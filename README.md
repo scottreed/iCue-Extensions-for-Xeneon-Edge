@@ -5,7 +5,7 @@ Custom HTML widgets for the Corsair XENEON EDGE touchscreen, built with the iCUE
 | Widget | Version | What it does | Size |
 |---|---|---|---|
 | [Now Playing](#now-playing) | 1.0.4 | Current track, album art and touch media controls for any app | Small, Medium, Large, XL |
-| [Player for Spotify](#player-for-spotify) | 0.4.4 | Full-screen Spotify library, queue and now playing | **Extra Large only** |
+| [Player for Spotify](#player-for-spotify) | 0.4.5 | Full-screen Spotify library, queue and now playing | **Extra Large only** |
 
 ## Contents
 - [Requirements](#requirements)
@@ -40,7 +40,7 @@ icuewidget package widgets/spotify-library
 ---
 
 ## Now Playing
-![Now Playing](publish/thumbnail.png)
+![Now Playing](publish/now-playing/thumbnail.png)
 
 - Title, artist and album, with album art that crossfades between tracks (a colour tile when there is no art)
 - Previous, play/pause and next touch buttons, dimmed when nothing is playing
@@ -51,6 +51,8 @@ icuewidget package widgets/spotify-library
 ---
 
 ## Player for Spotify
+![Player for Spotify](publish/spotify-library/thumbnail.png)
+
 A full-screen Spotify companion for the Edge, in three panes:
 
 - **Library:** your playlists and the artists you follow, most recently played first. Tap a playlist to see its songs with artwork, tap an artist to see their popular songs, and tap a song to play it. A **Play** button plays the whole playlist or artist.
@@ -118,6 +120,7 @@ Codes are single use and expire within minutes. If sign-in fails, tap **Connect*
 - **Artists:** Spotify no longer gives apps an artist's top tracks, so the widget searches Spotify for that artist's songs. Tap a song to play it inside its album, or press **Play** to play the artist.
 - **Up next:** tap a queued song and it plays straight away. Spotify has no "play this queue entry" call, so the widget starts that song inside the playlist or album it came from (a song you queued yourself plays in its own album). The queue then continues from there, so it is rebuilt from that playlist or album rather than your old queue.
 - **Appearance:** text, accent and background colours, and background transparency, in the widget's settings.
+- **Request rate:** while the widget is on screen it asks Spotify what's playing every 4 seconds (about 15 requests a minute), plus a few more when you change song or tap something. The progress bar and clock are worked out on your PC, with no requests. iCUE pauses widgets on Edge pages you aren't looking at, so nothing is sent while you're on another page.
 
 ### Troubleshooting
 | What you see | What to do |
@@ -161,10 +164,13 @@ widgets/
   spotify-library/    Player for Spotify: manifest.json, index.html, style.css, app.js, js/, resources/
 docs/
   callback/           the static sign-in page you host (see setup step 1)
-publish/              Marketplace listing images (1920x960 PNG)
+publish/
+  now-playing/        Marketplace listing images for Now Playing (1920x960 PNG)
+  spotify-library/    Marketplace listing images for Player for Spotify (1920x960 PNG)
+  build.mjs           renders the images from the real widgets
 ```
 - **Preview without iCUE or Spotify:** open `widgets/spotify-library/index.html?mock=1` in a browser at 2536 x 696. Add `&open=p1` for a playlist, `&open=a1` for an artist, `&paused=1` for the paused state, or `&pinned=Focus` to test pinned names.
-- **Listing images:** `node publish/build.mjs` renders the thumbnail and gallery images from the real widget with mock data (needs Edge or Chrome).
+- **Listing images:** `node publish/build.mjs` renders the thumbnail and gallery images for both widgets from the real widget code with sample data (needs Edge or Chrome). Run `node publish/build.mjs now-playing` or `node publish/build.mjs spotify-library` for just one. Re-run it after any visual change.
 - **Checks:** `icuewidget validate widgets/<name>` checks the manifest, head markup and the declared permissions against the code.
 
 ## Documentation

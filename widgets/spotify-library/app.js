@@ -26,7 +26,7 @@ const S = {
   playlists: null, open: null, tracks: {}, trackState: "", // trackState: "" | loading | denied | error
   libKey: "", err: "", msgTimer: 0, pollTimer: 0, polling: false,
   cfgKey: "", media: null,
-  artists: null, recent: {}, recentLocal: null, recentAt: 0, needScope: false,
+  again: false, artists: null, recent: {}, recentLocal: null, recentAt: 0, needScope: false,
 };
 
 /* ---------- properties and boot ---------- */
@@ -114,10 +114,17 @@ async function poll() {
     else say(friendly(e));
   }
   S.polling = false;
-  S.pollTimer = setTimeout(poll, delay);
+  clearTimeout(S.pollTimer); // never leave a second pending timer behind: that used to start an extra polling loop
+  S.pollTimer = setTimeout(poll, S.again ? 700 : delay);
+  S.again = false;
 }
 
-function pollSoon() { clearTimeout(S.pollTimer); S.pollTimer = setTimeout(poll, 700); }
+// Ask for an early refresh. If a request is already in flight, refresh right after it instead of starting a second loop.
+function pollSoon() {
+  if (S.polling) { S.again = true; return; }
+  clearTimeout(S.pollTimer);
+  S.pollTimer = setTimeout(poll, 700);
+}
 
 // This widget is music only: queue entries that are not tracks (podcast episodes) are ignored.
 const isMusic = (t) => !!t && typeof t.uri === "string" && t.uri.indexOf("spotify:track:") === 0;
