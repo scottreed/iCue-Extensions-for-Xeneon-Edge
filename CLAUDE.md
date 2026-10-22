@@ -60,3 +60,7 @@ Repo root is this folder, branch `main`. `.icuewidget` builds are gitignored (pu
 ## Verified Edge slot sizes (from icue-widget-builder docs)
 Small 840x344 H / 696x416 V; Medium 840x696 H / 696x840 V; Large 1688x696 H / 696x1688 V; XL 2536x696 H / 696x2536 V.
 `interactive: true` limits a widget to dashboard_lcd only (fine here). Skill confirmed loading in the Claude Code desktop app (2026-10-22).
+
+## Defaults for every new widget
+- Manifest `author` is always `"Scott Reed Development"`.
+- Bump the manifest `version` on every repackage so iCUE treats the import as new.

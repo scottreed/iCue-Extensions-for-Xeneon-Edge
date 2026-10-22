@@ -5,7 +5,7 @@ Custom HTML widgets for the Corsair XENEON EDGE touchscreen, built with the iCUE
 ## Widgets
 | Widget | Version | Description |
 |---|---|---|
-| [Now Playing](widgets/now-playing) | 1.0.3 | Current track, album art and touch media controls |
+| [Now Playing](widgets/now-playing) | 1.0.4 | Current track, album art and touch media controls |
 
 ## Now Playing
 - Title, artist and album, with album art that crossfades between tracks (colour tile when there is no art)

@@ -1,9 +1,9 @@
 {
-  "author": "Scott Reed",
+  "author": "Scott Reed Development",
   "id": "com.scottreed.nowplaying",
   "name": "Now Playing",
   "description": "Shows the current track, album art and touch media controls",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "interactive": true,
   "preview_icon": "resources/icon.svg",
   "min_framework_version": "1.0.0",
