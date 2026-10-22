@@ -34,7 +34,7 @@ https://docs.elgato.com/icue/widgets/ (+ /references/plugins/media-data-provider
 https://www.corsair.com/uk/en/explorer/diy-builder/accessories/how-to-create-a-custom-widget-for-the-xeneon-edge/
 
 ## Working agreement
-Update README.md and the memory files (`~/.claude/projects/C--Development-Projects-iCue/memory/`) after each meaningful step.
+README.md is public-facing: keep it free of session logs, personal paths and tooling/skill setup. Put working notes here in CLAUDE.md and update the assistant memory files after each meaningful step.
 
 ## Controls gotcha (2026-10-22)
 First build bound button `onclick` only inside the plugin `onInitialized` path; on hardware the buttons did nothing.

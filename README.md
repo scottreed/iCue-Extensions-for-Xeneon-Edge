@@ -1,30 +1,49 @@
 # iCUE Widgets for XENEON EDGE
 
-## Status
-| Widget | State |
-|---|---|
-| Now Playing (`widgets/now-playing`) | v1.0.0: imports and displays on hardware; buttons confirmed working; v1.0.3 fixes Medium layout, awaiting retest. |
+Custom HTML widgets for the Corsair XENEON EDGE touchscreen, built with the iCUE Widget API.
+
+## Widgets
+| Widget | Version | Description |
+|---|---|---|
+| [Now Playing](widgets/now-playing) | 1.0.3 | Current track, album art and touch media controls |
 
 ## Now Playing
-Features implemented (matching the marketplace description): title/artist/album, album art with crossfade,
-placeholder tile when no art, prev / play-pause / next touch buttons (dimmed when idle), custom text/accent/background colours.
-Data comes from iCUE's Media Data Provider plugin (Windows media session: Spotify, Apple Music, browsers, etc.).
+- Title, artist and album, with album art that crossfades between tracks (colour tile when there is no art)
+- Previous, play/pause and next touch buttons, dimmed when nothing is playing
+- Custom text, accent and background colours
+- Responsive layout: side by side on wide slots (Small, Large, XL), stacked on squarer slots (Medium)
+- Works with any app that appears in Windows media controls (Spotify, Apple Music, browsers, and so on) via iCUE's Media Data Provider plugin
 
-Not yet done: themes (Glass, Terminal, Cozy, Cyberpunk, Retro), effects, text-size setting, transparent background,
-separate Small/Medium layouts, translation.json.
+Planned: themes and effects, text-size setting, transparent background, translations.
 
-## Build
+## Requirements
+- XENEON EDGE
+- iCUE 5.44 or later (Windows)
+- Node.js, for the [iCUE Widget CLI](https://www.npmjs.com/package/icuewidget-cli)
+
+## Build and install
 ```bash
 npm install -g icuewidget-cli
 icuewidget validate widgets/now-playing
 icuewidget package widgets/now-playing
 ```
-Install: iCUE > Widgets > "+" > select `now-playing.icuewidget`. Requires iCUE 5.44+ and a XENEON EDGE.
+This creates `now-playing.icuewidget` in the current folder. In iCUE, open Widgets, click **+**, and select the file (or double-click it).
 
-## Log
-- 2026-10-22: Researched docs; wrote now-playing widget; fixed validator issues (see CLAUDE.md); packaged.
-- 2026-10-22: User imported v1: widget displayed but buttons did nothing and looked poor. Rebuilt buttons (round SVG icons, large primary play button) and rewired controls (bound at load, pointer+touch+click with debounce, lazy plugin lookup, on-screen error). Cause of dead buttons unconfirmed - awaiting retest.
-- 2026-10-22 (v1.0.1): Root cause of dead buttons: manifest `interactive: true` was missing (default false disables touch clicks). Added it, and centred text+controls beside the art with wider spacing. Awaiting retest.
-- 2026-10-22: Buttons confirmed working with `interactive: true`. Medium slot was broken (art sized to full height squeezed text). v1.0.3 adds stacked layout via `@media (max-aspect-ratio: 11/5)` and caps art width at 46%. Awaiting retest on Medium.
-- 2026-10-22: Initialised git (branch `main`), added .gitignore (ignores `.icuewidget` builds and local AI files; CLAUDE.md is tracked) and .gitattributes (LF endings).
-- 2026-10-22: Installed Corsair's `icue-widget-builder` skill (github.com/Corsair-Labs/icue-widget-builder) to `~/.claude/skills/` (user level, not in this repo). Restart Claude Code to load it.
+## Project layout
+```
+widgets/
+  now-playing/
+    manifest.json
+    index.html
+    style.css
+    app.js
+    resources/icon.svg
+```
+
+## Documentation
+- [iCUE Widgets docs](https://docs.elgato.com/icue/widgets/)
+- [Media Data Provider plugin](https://docs.elgato.com/icue/widgets/references/plugins/media-data-provider)
+- [How to create a custom widget for the XENEON EDGE](https://www.corsair.com/uk/en/explorer/diy-builder/accessories/how-to-create-a-custom-widget-for-the-xeneon-edge/)
+
+## Notes
+This is an independent implementation written from the public iCUE documentation. It is not affiliated with Corsair, Elgato or the authors of any Marketplace widget.
