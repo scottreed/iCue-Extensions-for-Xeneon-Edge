@@ -1,0 +1,34 @@
+# Build output (attach .icuewidget files to GitHub Releases instead)
+*.icuewidget
+dist/
+build/
+
+# Node (icuewidget-cli is installed globally, but just in case)
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# AI assistant local files (CLAUDE.md is intentionally tracked)
+.claude/
+.claude-mem/
+.cursor/
+.aider*
+.continue/
+.windsurf/
+.github/copilot-instructions.local.md
+*.local.md
+settings.local.json
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp
+*.log
+tmp/
+.env
+.env.*

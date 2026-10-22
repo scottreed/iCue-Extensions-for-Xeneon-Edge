@@ -1,0 +1,44 @@
+:root { --text:#fff; --accent:#1db954; --bg:#14141c; }
+* { box-sizing: border-box; margin: 0; }
+html, body { width: 100%; height: 100%; overflow: hidden; background: var(--bg); color: var(--text);
+             font-family: "Segoe UI", sans-serif; }
+#app { display: flex; align-items: center; gap: 8vh; height: 100%; padding: 6vh 8vh 6vh 6vh; }
+#art { position: relative; height: 100%; max-width: 46%; aspect-ratio: 1; border-radius: 2vh; overflow: hidden;
+       background: var(--accent); flex: none; display: grid; place-items: center; }
+#art img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0;
+           transition: opacity .5s; }
+#art img.show { opacity: 1; }
+#art .note { font-size: 18vh; opacity: .6; }
+#info { flex: 1; min-width: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2vh; text-align: center; }
+#title { max-width: 100%; font-size: 11vh; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+#artist { max-width: 100%; font-size: 7vh; opacity: .85; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+#album { max-width: 100%; font-size: 5vh; opacity: .55; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+#controls { display: flex; align-items: center; justify-content: center; gap: 4vh; margin-top: 3vh; }
+button { display: grid; place-items: center; width: 24vh; height: 24vh; padding: 0; border: 0; border-radius: 50%;
+         color: var(--text); background: rgba(255,255,255,.10); box-shadow: inset 0 0 0 .5vh rgba(255,255,255,.14);
+         cursor: pointer; transition: transform .12s, background .12s; touch-action: manipulation;
+         -webkit-tap-highlight-color: transparent; }
+button svg { width: 46%; height: 46%; fill: currentColor; pointer-events: none; }
+button.primary { width: 30vh; height: 30vh; background: var(--accent); color: #fff; box-shadow: 0 1.2vh 3vh rgba(0,0,0,.35); }
+button.primary svg { width: 44%; height: 44%; }
+button.pressed { transform: scale(.9); background: var(--accent); }
+.i-pause { display: none; }
+#app.playing .i-play { display: none; }
+#app.playing .i-pause { display: inline; }
+#app.idle #controls { opacity: .4; }
+/* wider slots: more room for text, same layout */
+@media (min-width: 1600px) { #title { font-size: 14vh; } }
+
+/* Squarer slots (e.g. Medium): stack art above text and controls, all centred */
+@media (max-aspect-ratio: 11/5) {
+  #app { flex-direction: column; justify-content: center; gap: 3vh; padding: 4vh 5vw; }
+  #art { height: 38vh; max-width: none; }
+  #art .note { font-size: 14vh; }
+  #info { flex: none; width: 100%; gap: 1vh; }
+  #title { font-size: 9vh; }
+  #artist { font-size: 6vh; }
+  #album { font-size: 4.5vh; }
+  #controls { margin-top: 2vh; gap: 4vh; }
+  button { width: 17vh; height: 17vh; }
+  button.primary { width: 21vh; height: 21vh; }
+}

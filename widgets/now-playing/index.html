@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>'Now Playing'</title>
+  <link rel="icon" href="resources/icon.svg" />
+
+  <meta name="x-icue-property" content="textColor"
+        data-label="tr('Text Color')" data-type="color" data-default="'#FFFFFF'" />
+  <meta name="x-icue-property" content="accentColor"
+        data-label="tr('Accent Color')" data-type="color" data-default="'#1DB954'" />
+  <meta name="x-icue-property" content="bgColor"
+        data-label="tr('Background Color')" data-type="color" data-default="'#14141C'" />
+  <script type="application/json" id="x-icue-groups">
+    [{ "title": "tr('Appearance')", "properties": ["textColor", "accentColor", "bgColor"] }]
+  </script>
+</head>
+<body>
+  <link rel="stylesheet" href="style.css" />
+  <div id="app" class="idle">
+    <div id="art"><span class="note">&#9835;</span><img id="img" alt=""></div>
+    <div id="info">
+      <div id="title">Nothing playing</div>
+      <div id="artist"></div>
+      <div id="album"></div>
+      <div id="controls">
+        <button id="prev" type="button" aria-label="Previous"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5h2.5v14H6zM20 5v14L9.5 12z"/></svg></button>
+        <button id="play" type="button" aria-label="Play/Pause" class="primary"><svg viewBox="0 0 24 24" aria-hidden="true"><path class="i-play" d="M7 4.5v15l13-7.5z"/><path class="i-pause" d="M6 4.5h4.5v15H6zM13.5 4.5H18v15h-4.5z"/></svg></button>
+        <button id="next" type="button" aria-label="Next"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15.5 5H18v14h-2.5zM4 5l10.5 7L4 19z"/></svg></button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
