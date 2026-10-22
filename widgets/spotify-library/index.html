@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8" />
-  <title>'Library Player'</title>
+  <title>'Player for Spotify'</title>
   <link rel="icon" type="image/svg+xml" href="resources/icon.svg" />
 
   <meta name="x-icue-property" content="spotifyClientId"
@@ -11,24 +11,28 @@
         data-label="'Redirect page URL'" data-type="textfield" data-default="''" />
   <meta name="x-icue-property" content="spotifyAuthCode"
         data-label="'Paste code here'" data-type="textfield" data-default="''" />
+  <meta name="x-icue-property" content="pinnedPlaylists"
+        data-label="'Pinned playlists (names, comma separated)'" data-type="textfield" data-default="''" />
   <meta name="x-icue-property" content="textColor"
         data-label="'Text Color'" data-type="color" data-default="'#FFFFFF'" />
   <meta name="x-icue-property" content="accentColor"
         data-label="'Accent Color'" data-type="color" data-default="'#1DB954'" />
   <meta name="x-icue-property" content="backgroundColor"
         data-label="'Background Color'" data-type="color" data-default="'#121212'" />
+  <meta name="x-icue-property" content="transparency"
+        data-label="'Background Transparency'" data-type="slider" data-default="100" data-min="0" data-max="100" data-step="1" />
   <script type="application/json" id="x-icue-groups">
     [
       { "title": "'Spotify connection'", "properties": ["spotifyClientId", "spotifyRedirectUri", "spotifyAuthCode"] },
-      { "title": "'Widget Personalization'", "properties": ["textColor", "accentColor", "backgroundColor"] }
+      { "title": "'Library'", "properties": ["pinnedPlaylists"] },
+      { "title": "'Widget Personalization'", "properties": ["textColor", "accentColor", "backgroundColor", "transparency"] }
     ]
   </script>
 </head>
 <body>
   <link rel="stylesheet" href="style.css" />
-  <div id="app" data-tab="lib" data-view="now">
+  <div id="app">
     <section id="now" aria-label="Now playing">
-      <button id="browse" class="chip" data-act="browse" type="button">Browse</button>
       <div id="art"><img id="img" alt="" /></div>
       <div id="meta">
         <div id="title">Nothing playing</div>
@@ -43,17 +47,11 @@
         <a id="brand" data-act="openspotify">Play on Spotify</a>
       </div>
     </section>
-    <div id="side">
-      <div id="tabs">
-        <button class="tab" data-act="tab" data-tab="lib" type="button">Library</button>
-        <button class="tab" data-act="tab" data-tab="queue" type="button">Queue</button>
-        <button id="backnow" class="chip" data-act="now" type="button">Now playing</button>
-      </div>
-      <section id="lib" class="list" aria-label="Library"></section>
-      <section id="queue" class="list" aria-label="Queue"></section>
-    </div>
+    <section id="lib" class="list" aria-label="Library"></section>
+    <section id="queue" class="list" aria-label="Queue"></section>
     <div id="msg" role="status"></div>
   </div>
+  <div id="xlonly"><b>Player for Spotify needs the full screen</b><span>Set this widget to the Extra Large size on your XENEON EDGE.</span><span id="xlsize"></span></div>
 
   <script src="js/sha256.js"></script>
   <script src="js/auth.js"></script>

@@ -1,13 +1,13 @@
 {
   "author": "Scott Reed Development",
   "id": "com.scottreed.libraryplayer",
-  "name": "Library Player",
-  "description": "Browse your playlists and songs, see the queue, and control what is playing",
-  "version": "0.1.0",
+  "name": "Player for Spotify",
+  "description": "Full-screen library, queue and now playing controls (Extra Large slot only)",
+  "version": "0.4.4",
   "interactive": true,
   "preview_icon": "resources/icon.svg",
   "min_framework_version": "1.0.0",
-  "min_app_version": "5.44.0",
+  "min_app_version": "5.52",
   "os": [{ "platform": "windows" }],
   "supported_devices": [{ "type": "dashboard_lcd" }],
   "required_plugins": [

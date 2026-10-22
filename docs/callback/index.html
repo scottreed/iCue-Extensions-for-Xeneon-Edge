@@ -30,7 +30,7 @@
     var h = document.getElementById("h"), p = document.getElementById("p"), box = document.getElementById("code"), btn = document.getElementById("copy");
     if (code) {
       h.textContent = "Copy this code";
-      p.textContent = "Paste it into the \"Paste code here\" setting of the Library Player widget in iCUE.";
+      p.textContent = "Paste it into the \"Paste code here\" setting of the Player for Spotify widget in iCUE.";
       box.value = code; box.hidden = false; btn.hidden = false;
       btn.onclick = function () { box.select(); (navigator.clipboard ? navigator.clipboard.writeText(code) : Promise.resolve(document.execCommand("copy"))).then(function () { btn.textContent = "Copied"; }); };
     } else {

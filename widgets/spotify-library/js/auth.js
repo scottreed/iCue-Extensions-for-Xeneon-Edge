@@ -1,6 +1,6 @@
 // Spotify Authorization Code + PKCE, no client secret. Tokens live in this widget's localStorage entry.
 const Auth = (() => {
-  const SCOPES = "playlist-read-private user-read-playback-state user-read-currently-playing user-modify-playback-state";
+  const SCOPES = "playlist-read-private user-read-playback-state user-read-currently-playing user-modify-playback-state user-read-recently-played user-follow-read";
   const AUTHORIZE = "https://accounts.spotify.com/authorize";
   const TOKEN = "https://accounts.spotify.com/api/token";
   let cfg = { clientId: "", redirectUri: "" };

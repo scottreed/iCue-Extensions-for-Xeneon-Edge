@@ -22,6 +22,9 @@ const Mock = (() => {
   playlists.forEach((p, k) => { tracks[p.id] = Array.from({ length: 12 }, (_, i) => track(i + k)); });
   return {
     playlists, tracks, track,
+    artists: [["a1", "Violet Static", 0], ["a2", "Glass Harbour", 2], ["a3", "Aurora Drive", 4], ["a4", "The Midnight Tapes", 1]].map((a) => ({
+      id: a[0], name: a[1], type: "artist", uri: "spotify:artist:" + a[0], images: [{ url: art(a[2]) }],
+    })),
     player: { is_playing: true, progress_ms: 84000, item: track(1), device: { name: "This PC" }, context: { uri: "spotify:playlist:p1" } },
     queue: { currently_playing: track(1), queue: [2, 3, 4, 5, 6, 7].map(track) },
   };
