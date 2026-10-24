@@ -6,6 +6,7 @@ Custom HTML widgets for the Corsair XENEON EDGE touchscreen, built with the iCUE
 |---|---|---|---|
 | [Now Playing](#now-playing) | 1.0.5 | Current track, album art and touch media controls for any app | Small, Medium, Large, XL |
 | [Player for Spotify](#player-for-spotify) | 0.4.6 | Full-screen Spotify library, queue and now playing | **Extra Large only** |
+| [Game Guide](#game-guide) | 1.0.0 | Full-screen game guides with checklists, maps, skill trees and progress tracking | **Extra Large only** |
 
 ## Contents
 - [Requirements](#requirements)
@@ -18,11 +19,18 @@ Custom HTML widgets for the Corsair XENEON EDGE touchscreen, built with the iCUE
   - [Troubleshooting](#troubleshooting)
   - [Permissions and privacy](#permissions-and-privacy)
   - [Limitations](#limitations)
+- [Game Guide](#game-guide)
+  - [What you need](#what-you-need-1)
+  - [Using it](#using-it-1)
+  - [Troubleshooting](#troubleshooting-1)
+  - [Permissions and privacy](#permissions-and-privacy-1)
+  - [Limitations](#limitations-1)
+  - [Make your own guides](#make-your-own-guides)
 - [Development](#development)
 - [Documentation](#documentation)
 
 ## Requirements
-- A XENEON EDGE and iCUE 5 on Windows (Now Playing: iCUE 5.44 or later; Player for Spotify: iCUE 5.52 or later)
+- A XENEON EDGE and iCUE 5 on Windows (Now Playing: iCUE 5.44 or later; Player for Spotify: iCUE 5.52 or later; Game Guide: iCUE 5.47 or later)
 - [Node.js](https://nodejs.org/), only to build the packages yourself
 
 ## Build and install
@@ -32,8 +40,10 @@ icuewidget validate widgets/now-playing
 icuewidget package widgets/now-playing
 icuewidget validate widgets/spotify-library
 icuewidget package widgets/spotify-library
+icuewidget validate widgets/game-guide
+icuewidget package widgets/game-guide
 ```
-`icuewidget package` writes `now-playing.icuewidget` and `player-for-spotify.icuewidget` into the `widgets/` folder (next to the widget folders). In iCUE open **Widgets**, click **+** and select the file, or double-click it.
+`icuewidget package` writes `now-playing.icuewidget`, `player-for-spotify.icuewidget` and `game-guide.icuewidget` into the `widgets/` folder (next to the widget folders). In iCUE open **Widgets**, click **+** and select the file, or double-click it.
 
 **Updating a widget:** if you import a newer package over a widget that is already on an Edge page, iCUE keeps the old placement and size. If sizes or layout look wrong after an update, remove the widget from the page and add it again.
 
@@ -157,27 +167,97 @@ Your Spotify sign-in token is kept in iCUE's local storage for this widget on yo
 
 ---
 
+## Game Guide
+![Game Guide](publish/game-guide/thumbnail.png)
+
+A full-screen reader for game guides, for when you want a walkthrough, checklist or map beside your game. It does not come with guides for particular games: you import guide files (`.ggp`) and keep as many as you like. A small sample guide for a fictional game is installed the first time so you can try everything straight away.
+
+- **Pages and lists:** a contents list with folders, and pages made of text, numbered steps, callouts (tip, warning, missable, boss), pictures, tables and key facts. Links jump to other pages, checklists, maps, skill trees or tables.
+- **Checklists:** tick items off with a tap, with counts per group and an overall progress bar. Items can carry **Missable** and **Needs** notes, steps in a page can tick a checklist item, and **Hide completed** removes finished items.
+- **Maps:** drag, pinch with two fingers (or use + / -), **Fit** to see the whole map. Pins open a card and can be marked found, which ticks the matching checklist item; checklist items have a **Map** button that jumps to their pin. Legend and layer chips hide or show kinds of pins, **Hide found** clears collected ones, and routes and regions are drawn on top. **Full screen** gives a map the whole widget.
+- **Skill trees:** tap a skill, then + or - to spend points. Skills stay locked until the ones they need have a point, a skill you still depend on cannot be removed, and preset builds load with one tap.
+- **Pictures:** tap any picture in a page to see it full screen and zoom in.
+- **Two equal panes:** show a page, checklist, table, map or skill tree in either half. **Open in: Left / Right** above the list sets where the next thing you tap opens. A link opens in the same half, except links to a map or skill tree, which open in the other half so you keep reading.
+- **Back:** every pane has a **Back** button that returns to what it showed before (including how far you had scrolled), remembering the last 10 steps per pane.
+- **Follows your Edge page theme:** text, accent and background colour and the background transparency come from the page's personalization. Switch on **Custom Style** in the widget's settings to set your own.
+- Works **fully offline**, with no account, sign-in or internet connection.
+
+It is designed for the **Extra Large (full screen) slot only**. In a smaller slot it shows a message asking for the full screen, along with the size it was given.
+
+### What you need
+- A XENEON EDGE with iCUE 5.47 or later on Windows, and the widget in the Extra Large slot of an Edge page.
+- At least one `.ggp` guide file (the sample is built in). See [Make your own guides](#make-your-own-guides) below.
+
+### Using it
+1. Add the widget to an empty Edge page and set the size to **Extra Large**. The sample guide is installed the first time.
+2. Tap **Library**, then **Import guide**, and pick a `.ggp` file. The file chooser opens on the Edge screen. You can keep as many guides as you like.
+3. In the library, **Open** starts a guide, **Hide** takes it out of the quick switcher, **Show** brings it back, and **Delete** removes it and its progress (tap twice).
+4. Tap the guide title at the top to switch guides, or **Manage guides** to return to the library.
+5. Use the list on the left to open pages, checklists, tables, maps and skill trees. Tap **Two panes** in the top bar to see two things side by side; **One pane** goes back, and **Two panes** again brings back what each half was showing.
+6. Tick items off in a checklist (or in a walkthrough step that is linked to one). Progress is remembered per guide, and importing a newer version of a guide you already have keeps it.
+7. **Credits** shows who made the guide, its version, licence and sources.
+
+### Troubleshooting
+| What you see | What to do |
+|---|---|
+| "needs the full screen" and a slot size | The widget only supports the XL slot. Set the size to XL on an empty Edge page. If XL won't select after an update, remove the widget from the page and add it again. |
+| "This is not a guide file" or "This guide file is damaged" | The file is not a valid `.ggp`, or was cut short while copying. Copy it again, or rebuild it with `ggp validate` and `ggp pack`. |
+| "larger than 60 MB" or "too large" | The guide exceeds the size limits (see Limitations). Shrink its images and rebuild it. |
+| "made for a different format version" | The guide was built for another version of the format. Build it again with the current `ggp-guide-builder` tool. |
+| "That guide is no longer stored. Import it again." | The guide's data is missing from the widget's storage, usually after the widget was deleted and re-added. Import the file again. |
+| "Progress could not be saved (storage is full)" | The widget's small progress storage (about 4.75 MB) is full. Delete guides you no longer use. |
+| A map shows no pins | The guide's author supplied no pin coordinates for that map. The checklist still describes where things are in words. |
+| No Back button | A pane only shows Back once it has something to go back to. |
+| A big map picture takes a moment to appear | Pictures are decoded when you open them, so a large image can take a second the first time. |
+
+### Permissions and privacy
+This widget declares **no permissions** and uses **no plugins**. The only file access is the file chooser you open yourself with **Import guide**, and it makes no network requests at all.
+
+Guides are stored inside the widget (IndexedDB) and your progress in its local storage. They survive restarts of iCUE but are lost if you delete the widget from the Edge page. Nothing is sent anywhere.
+
+### Limitations
+- **Extra Large slot only**, Windows only.
+- Guide file limits: 60 MB for the file, 5 MB of guide data, images up to 8 MB and 4096 pixels on a side, up to 2000 pins per map.
+- Maps show pins only where the guide author supplied coordinates. Text in guides is plain (bold, italic and links to other parts of the guide); there are no external links.
+- The Edge screen supports two touches at once, so you cannot press two buttons at the same moment.
+- Guides and progress live in the widget on this PC; they are not synced between PCs.
+
+### Make your own guides
+`skills/ggp-guide-builder` is a Claude Code skill that builds comprehensive guides: it turns your notes, wiki text, checklists, map coordinates or skill-tree data into a validated `.ggp`, with step-by-step walkthroughs, every collectible type, areas, tips and trophies where your sources allow. It writes in its own words, records credits and sources, and never guesses map coordinates. To use it, copy the folder (without `evals/` and `test/` if you like) to `~/.claude/skills/ggp-guide-builder` and run `npm install` inside it once, then ask Claude to make a guide, for example "Make a Game Guide for [game] from these notes, with a checklist of every collectible".
+
+It also contains the format spec (`references/format.md`), a command-line tool (`ggp validate | pack | inspect | init`) and an example guide. By hand: `node scripts/ggp.mjs init my-guide`, edit, then `validate` and `pack`.
+
+---
+
 ## Development
 ```
 widgets/
   now-playing/        manifest.json, index.html, style.css, app.js, resources/
   spotify-library/    Player for Spotify: manifest.json, index.html, style.css, app.js, js/, resources/
+  game-guide/         Game Guide: manifest.json, index.html, style.css, app.js, js/, resources/
+skills/
+  ggp-guide-builder/  the Claude Code skill and command-line tool that build .ggp guides (format spec, example, tests)
+tools/                embed-sample.mjs packs the example guide into Game Guide's built-in sample
 docs/
-  callback/           the static sign-in page you host (see setup step 1)
+  callback/           the static sign-in page you host (see Player for Spotify setup step 1)
 publish/
   now-playing/        Marketplace listing images for Now Playing (1920x960 PNG)
   spotify-library/    Marketplace listing images for Player for Spotify (1920x960 PNG)
+  game-guide/         Marketplace listing images and listing text for Game Guide
   build.mjs           renders the images from the real widgets
 ```
 - **Preview without iCUE or Spotify:** open `widgets/spotify-library/index.html?mock=1` in a browser at 2536 x 696. Add `&open=p1` for a playlist, `&open=a1` for an artist, `&paused=1` for the paused state, or `&pinned=Focus` to test pinned names.
-- **Listing images:** `node publish/build.mjs` renders the thumbnail and gallery images for both widgets from the real widget code with sample data (needs Edge or Chrome). Run `node publish/build.mjs now-playing` or `node publish/build.mjs spotify-library` for just one. Re-run it after any visual change.
+- **Preview Game Guide without iCUE:** serve the folder over http (for example `npx serve widgets/game-guide`) and open `index.html?mock=1` at 2536 x 696. Add `&mem=1` to keep guides in memory only, `&page=<id>&type=page|collection|table|map|tree` to open something, `&split=0|1`, `&active=0|1` and `&full=map:<id>` for other states.
+- **Listing images:** `node publish/build.mjs` renders the thumbnail and gallery images for all three widgets from the real widget code with sample data (needs Edge or Chrome). Run `node publish/build.mjs now-playing`, `spotify-library` or `game-guide` for just one. Re-run it after any visual change.
+- **Guide tool tests:** `npm install` then `npm test` inside `skills/ggp-guide-builder`. After changing the example guide, re-run `node tools/embed-sample.mjs` to refresh Game Guide's built-in sample.
 - **Checks:** `icuewidget validate widgets/<name>` checks the manifest, head markup and the declared permissions against the code.
 
 ## Documentation
 - [iCUE Widgets docs](https://docs.elgato.com/icue/widgets/)
-- [Media Data Provider plugin](https://docs.elgato.com/icue/widgets/references/plugins/media-data-provider)
+- [Media Data Provider plugin](https://docs.elgato.com/icue/widgets/references/plugins/media-data-provider) (Now Playing)
+- [Game Guide Pack (.ggp) format](skills/ggp-guide-builder/references/format.md) (Game Guide)
 - [How to create a custom widget for the XENEON EDGE](https://www.corsair.com/uk/en/explorer/diy-builder/accessories/how-to-create-a-custom-widget-for-the-xeneon-edge/)
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api) and its [design guidelines](https://developer.spotify.com/documentation/design)
 
 ## Notes
-These are independent projects written from the public iCUE and Spotify documentation. They are not affiliated with or endorsed by Corsair, Elgato or Spotify. Spotify is a trademark of Spotify AB.
+These are independent projects written from the public iCUE and Spotify documentation. They are not affiliated with or endorsed by Corsair, Elgato or Spotify. Spotify is a trademark of Spotify AB. Game Guide ships no guides for real games; game names, artwork and trademarks in guides you make or import belong to their owners.

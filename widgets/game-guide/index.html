@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>'Game Guide'</title>
+  <link rel="icon" type="image/svg+xml" href="resources/icon.svg" />
+
+  <meta name="x-icue-property" content="textColor"
+        data-label="'Text Color'" data-type="color" data-default="'#FFFFFF'" />
+  <meta name="x-icue-property" content="accentColor"
+        data-label="'Accent Color'" data-type="color" data-default="'#3B82F6'" />
+  <meta name="x-icue-property" content="backgroundColor"
+        data-label="'Background Color'" data-type="color" data-default="'#000000'" />
+  <meta name="x-icue-property" content="transparency"
+        data-label="'Background Transparency'" data-type="slider" data-default="80" data-min="0" data-max="100" data-step="1" data-unit-label="'%'" />
+  <script type="application/json" id="x-icue-groups">
+    [
+      { "title": "'Widget Personalization'", "properties": ["textColor", "accentColor", "backgroundColor", "transparency"] }
+    ]
+  </script>
+</head>
+<body data-view="boot">
+  <link rel="stylesheet" href="style.css" />
+  <div id="bg"></div>
+  <div id="app">
+    <div id="top">
+      <button class="chip" data-act="library" type="button">Library</button>
+      <button id="gtitle" data-act="switcher" type="button" aria-label="Switch guide"><b id="gt"></b><small id="gs"></small></button>
+      <div id="prog" title="Overall progress"><span id="pbar"><i id="pfill"></i></span><span id="ptxt"></span></div>
+      <button id="splitbtn" class="chip" data-act="split" type="button">Two panes</button>
+      <button class="chip" data-act="credits" type="button">Credits</button>
+    </div>
+    <div id="main">
+      <nav id="nav" class="pane" aria-label="Guide contents"></nav>
+      <div id="pane0" class="pane slot" data-pane="0" aria-live="polite">
+        <div class="phead"><button class="pick" data-act="activate" data-pane="0" type="button"><span class="pk"></span></button><button class="chip back none" data-act="back" data-pane="0" type="button" aria-label="Back">&#8249; Back</button></div>
+        <div class="pbody"></div>
+      </div>
+      <div id="pane1" class="pane slot" data-pane="1" aria-live="polite">
+        <div class="phead"><button class="pick" data-act="activate" data-pane="1" type="button"><span class="pk"></span></button><button class="chip back none" data-act="back" data-pane="1" type="button" aria-label="Back">&#8249; Back</button></div>
+        <div class="pbody"></div>
+      </div>
+    </div>
+    <div id="library" class="pane" aria-label="Guide library"></div>
+    <div id="full"><div class="fbg"></div><div class="fbody"></div></div>
+    <div id="switcher" aria-label="Switch guide"></div>
+    <div id="msg" role="status"></div>
+  </div>
+  <div id="xlonly"><b>Game Guide needs the full screen</b><span>Set this widget to the Extra Large size on your XENEON EDGE.</span><span id="xlsize"></span></div>
+  <input id="file" type="file" accept=".ggp,.zip" />
+
+  <script src="js/fflate.js"></script>
+  <script src="js/ggp.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/sample.js"></script>
+  <script src="js/render.js"></script>
+  <script src="js/viewer.js"></script>
+  <script src="js/side.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

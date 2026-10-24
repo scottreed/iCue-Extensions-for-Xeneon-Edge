@@ -1,7 +1,7 @@
 // Renders the Marketplace listing images (1920x960 PNG) for every widget from the real widget code with mock data.
 // Output: publish/now-playing/*.png and publish/spotify-library/*.png
-// Usage: node publish/build.mjs            (both widgets)
-//        node publish/build.mjs now-playing | spotify-library
+// Usage: node publish/build.mjs            (all widgets)
+//        node publish/build.mjs now-playing | spotify-library | game-guide
 // Needs Microsoft Edge or Chrome installed.
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import { execFileSync } from "node:child_process";
@@ -164,5 +164,48 @@ function buildSpotify() {
   for (const [name, html] of Object.entries(pages)) shoot(name, html, join(here, "spotify-library"));
 }
 
+/* ---------- Game Guide (Extra Large, 2536 x 696, rendered from the widget's own mock mode with the built-in sample guide) ---------- */
+function buildGameGuide() {
+  const widget = join(here, "..", "widgets", "game-guide");
+  const baseHref = pathToFileURL(widget).href + "/";
+  function variant(file, globals) {
+    let h = readFileSync(join(widget, "index.html"), "utf8");
+    const pre = "<script>" + Object.entries(globals).map(([k, v]) => `window.${k}=${JSON.stringify(v)};`).join("") + "</script>\n";
+    h = h.replace("<head>", `<head>\n<base href="${baseHref}" />`).replace('<script src="js/fflate.js"></script>', pre + '<script src="js/fflate.js"></script>');
+    writeFileSync(join(src, file), h);
+  }
+  variant("gg-default.html", { backgroundColor: "#0e1116", transparency: 100 });
+  variant("gg-amber.html", { accentColor: "#f5a524", textColor: "#fff3d6", backgroundColor: "#1c1208", transparency: 100 });
+  variant("gg-green.html", { accentColor: "#34d399", backgroundColor: "#06180f", transparency: 100 });
+
+  const xl = (file, extra, scale) => dev(2536, 696, scale, { mock: 1, mem: 1, ...extra }, file);
+  const S = 0.72;
+  const page = pageWith(baseCss("#10223d") + ".sub2{font-size:30px;opacity:.7;text-align:center}");
+  const centred = (heading, inner, sub) => page(`
+    <div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:44px">
+      <h2>${heading}</h2>${inner}${sub ? `<p class="sub2">${sub}</p>` : ""}</div>`);
+
+  const pages = {
+    thumbnail: page(`
+    <div style="position:absolute;left:70px;top:64px;width:1780px">
+      <span class="tag">XENEON EDGE widget &middot; full screen</span>
+      <h1 style="font-size:96px;white-space:nowrap">Game Guide</h1>
+      <p class="sub" style="margin-top:22px;font-size:32px">Walkthroughs, checklists and maps beside your game. Import any guide, tick things off, tap a pin.</p></div>
+    <div style="position:absolute;left:35px;top:396px">${xl("gg-default.html", { page: "ch1" }, S)}</div>`),
+    "gallery-1-two-panes": centred("Read and look, side by side", xl("gg-default.html", { page: "ch1" }, S), "Two equal panes: a page, a checklist, a table, a map or a skill tree in either"),
+    "gallery-2-checklist-map": centred("Tick it off, find it on the map", xl("gg-default.html", { page: "lanterns", type: "collection" }, S), "Checklists with missable warnings and requirements, linked to pins on the map"),
+    "gallery-3-skill-tree": centred("Plan your build", xl("gg-default.html", { active: 1, page: "skills", type: "tree" }, S), "Skill trees with requirements and preset builds"),
+    "gallery-4-fullscreen": centred("Maps at full size", xl("gg-default.html", { full: "map:island" }, S), "Drag, pinch to zoom, and open any map or picture full screen"),
+    "gallery-5-colours": page(`
+    <div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:30px">
+      <h2>Make it yours</h2>
+      ${xl("gg-amber.html", { page: "ch2" }, 0.48)}
+      ${xl("gg-green.html", { page: "lanterns", type: "collection" }, 0.48)}
+    </div>`),
+  };
+  for (const [name, html] of Object.entries(pages)) shoot(name, html, join(here, "game-guide"));
+}
+
 if (!only || only === "now-playing") buildNowPlaying();
 if (!only || only === "spotify-library") buildSpotify();
+if (!only || only === "game-guide") buildGameGuide();

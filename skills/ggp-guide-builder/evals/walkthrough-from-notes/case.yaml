@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: walkthrough-from-notes
+expected_outcome: |
+  A valid .ggp with one walkthrough page per chapter (3), the missable ledger flagged as a missable callout, the coal requirement and bosses captured, credits naming the user as author with a personal-use licence, no external links or HTML, and a closing summary of assumptions.

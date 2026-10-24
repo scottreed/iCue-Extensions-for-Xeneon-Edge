@@ -1,0 +1,493 @@
+{
+  "navigation": [
+    {
+      "id": "nav-start",
+      "title": "Start here",
+      "type": "page",
+      "ref": "start"
+    },
+    {
+      "id": "nav-story",
+      "title": "Walkthrough",
+      "type": "group",
+      "children": [
+        {
+          "id": "nav-ch1",
+          "title": "Chapter 1: The Shore",
+          "type": "page",
+          "ref": "ch1"
+        },
+        {
+          "id": "nav-ch2",
+          "title": "Chapter 2: The Lighthouse",
+          "type": "page",
+          "ref": "ch2"
+        }
+      ]
+    },
+    {
+      "id": "nav-map",
+      "title": "Island map",
+      "type": "map",
+      "ref": "island"
+    },
+    {
+      "id": "nav-lanterns",
+      "title": "Lanterns",
+      "type": "collection",
+      "ref": "lanterns"
+    },
+    {
+      "id": "nav-skills",
+      "title": "Skills",
+      "type": "tree",
+      "ref": "skills"
+    },
+    {
+      "id": "nav-shops",
+      "title": "Shop prices",
+      "type": "table",
+      "ref": "shops"
+    }
+  ],
+  "pages": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "summary": "How to use this example guide.",
+      "tags": [
+        "intro"
+      ],
+      "spoilerLevel": 0,
+      "minutes": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Welcome to **Lantern Isle**. Begin with [Chapter 1](page:ch1), then open the [island map](map:island)."
+        },
+        {
+          "type": "callout",
+          "kind": "tip",
+          "title": "Tip",
+          "text": "Tick lanterns off in the [lantern list](collection:lanterns) as you find them."
+        },
+        {
+          "type": "image",
+          "asset": "lighthouse",
+          "caption": "The lighthouse you are heading for."
+        }
+      ]
+    },
+    {
+      "id": "ch1",
+      "title": "Chapter 1: The Shore",
+      "summary": "Get off the beach and find your first lantern.",
+      "tags": [
+        "walkthrough"
+      ],
+      "area": "shore",
+      "spoilerLevel": 1,
+      "minutes": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Leaving the beach",
+          "level": 2
+        },
+        {
+          "type": "steps",
+          "items": [
+            {
+              "text": "Walk north along the water until you reach the pier."
+            },
+            {
+              "text": "Pick up the shore lantern by the broken boat.",
+              "itemRef": "lantern-shore"
+            },
+            {
+              "text": "Talk to the ferryman and take the path inland."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "missable",
+          "text": "The shore lantern disappears once you talk to the ferryman."
+        },
+        {
+          "type": "mapLink",
+          "map": "island",
+          "pin": "pin-shore",
+          "label": "Show the shore lantern on the map"
+        },
+        {
+          "type": "pageLink",
+          "page": "ch2",
+          "label": "Next: the lighthouse"
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2: The Lighthouse",
+      "summary": "Climb the lighthouse and light the lamp.",
+      "tags": [
+        "walkthrough",
+        "boss"
+      ],
+      "area": "lighthouse",
+      "spoilerLevel": 2,
+      "minutes": 8,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "The keeper guards the top floor. Bring a [lantern](collection:lanterns) or the lamp will not light."
+        },
+        {
+          "type": "callout",
+          "kind": "boss",
+          "title": "The Keeper",
+          "text": "Dodge the sweeping beam, then strike while the lamp recharges."
+        },
+        {
+          "type": "keyValue",
+          "items": [
+            {
+              "key": "Weak to",
+              "value": "Water"
+            },
+            {
+              "key": "Reward",
+              "value": "Keeper's key"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Floor",
+            "Enemy"
+          ],
+          "rows": [
+            [
+              "1",
+              "Crab"
+            ],
+            [
+              "2",
+              "Gull"
+            ],
+            [
+              "3",
+              "The Keeper"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "lanterns",
+      "title": "Lanterns",
+      "kind": "collectibles",
+      "groupBy": "area",
+      "items": [
+        {
+          "id": "lantern-shore",
+          "label": "Shore lantern",
+          "detail": "By the broken boat. **Missable.**",
+          "area": "shore",
+          "missable": true,
+          "pageRef": "ch1",
+          "pins": [
+            {
+              "mapId": "island",
+              "pinId": "pin-shore"
+            }
+          ]
+        },
+        {
+          "id": "lantern-cave",
+          "label": "Cave lantern",
+          "detail": "Hidden behind the waterfall.",
+          "area": "cave",
+          "requires": [
+            "lantern-shore"
+          ],
+          "pins": [
+            {
+              "mapId": "island",
+              "pinId": "pin-cave"
+            }
+          ]
+        },
+        {
+          "id": "lantern-top",
+          "label": "Lighthouse lantern",
+          "detail": "Dropped by the keeper.",
+          "area": "lighthouse",
+          "pointOfNoReturn": true,
+          "pageRef": "ch2",
+          "pins": [
+            {
+              "mapId": "island",
+              "pinId": "pin-light"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "id": "island",
+      "title": "Lantern Isle",
+      "coordinateSystem": "pixel-top-left",
+      "image": {
+        "asset": "island-map"
+      },
+      "size": {
+        "w": 1200,
+        "h": 800
+      },
+      "layers": [
+        {
+          "id": "surface",
+          "title": "Surface"
+        }
+      ],
+      "legend": [
+        {
+          "typeId": "lantern",
+          "label": "Lantern",
+          "colour": "#F5C542",
+          "defaultVisible": true
+        },
+        {
+          "typeId": "boss",
+          "label": "Boss",
+          "colour": "#E5484D",
+          "defaultVisible": true
+        }
+      ],
+      "pins": [
+        {
+          "id": "pin-shore",
+          "x": 380,
+          "y": 560,
+          "type": "lantern",
+          "title": "Shore lantern",
+          "description": "By the broken boat.",
+          "itemId": "lantern-shore",
+          "pageRef": "ch1",
+          "layer": "surface"
+        },
+        {
+          "id": "pin-cave",
+          "x": 820,
+          "y": 300,
+          "type": "lantern",
+          "title": "Cave lantern",
+          "itemId": "lantern-cave",
+          "layer": "surface"
+        },
+        {
+          "id": "pin-light",
+          "x": 620,
+          "y": 140,
+          "type": "boss",
+          "title": "The Keeper",
+          "description": "Top of the lighthouse.",
+          "itemId": "lantern-top",
+          "pageRef": "ch2",
+          "layer": "surface"
+        }
+      ],
+      "routes": [
+        {
+          "id": "route-main",
+          "title": "Main path",
+          "points": [
+            [
+              380,
+              560
+            ],
+            [
+              500,
+              400
+            ],
+            [
+              620,
+              140
+            ]
+          ],
+          "pageRef": "ch1"
+        }
+      ],
+      "regions": [
+        {
+          "id": "region-shore",
+          "title": "The shore",
+          "points": [
+            [
+              200,
+              500
+            ],
+            [
+              560,
+              500
+            ],
+            [
+              560,
+              700
+            ],
+            [
+              200,
+              700
+            ]
+          ]
+        }
+      ],
+      "initialView": {
+        "x": 600,
+        "y": 400,
+        "zoom": 1
+      }
+    }
+  ],
+  "trees": [
+    {
+      "id": "skills",
+      "title": "Skills",
+      "nodes": [
+        {
+          "id": "swim",
+          "label": "Swim",
+          "x": 100,
+          "y": 100,
+          "maxPoints": 3,
+          "description": "Swim **faster**."
+        },
+        {
+          "id": "dive",
+          "label": "Dive",
+          "x": 300,
+          "y": 100,
+          "maxPoints": 1,
+          "description": "Hold your breath longer.",
+          "requires": [
+            "swim"
+          ]
+        },
+        {
+          "id": "float",
+          "label": "Float",
+          "x": 300,
+          "y": 240,
+          "maxPoints": 2,
+          "description": "Rest on the water to **recover** stamina.",
+          "requires": [
+            "swim"
+          ]
+        },
+        {
+          "id": "current",
+          "label": "Ride currents",
+          "x": 500,
+          "y": 100,
+          "maxPoints": 1,
+          "description": "Use sea currents to travel quickly.",
+          "requires": [
+            "dive"
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "from": "swim",
+          "to": "dive"
+        },
+        {
+          "from": "swim",
+          "to": "float"
+        },
+        {
+          "from": "dive",
+          "to": "current"
+        }
+      ],
+      "presets": [
+        {
+          "id": "explorer",
+          "title": "Explorer",
+          "allocations": {
+            "swim": 3,
+            "dive": 1,
+            "current": 1
+          }
+        },
+        {
+          "id": "relaxed",
+          "title": "Relaxed",
+          "allocations": {
+            "swim": 1,
+            "float": 2
+          }
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "shops",
+      "title": "Shop prices",
+      "columns": [
+        {
+          "id": "item",
+          "label": "Item",
+          "type": "text"
+        },
+        {
+          "id": "price",
+          "label": "Price",
+          "type": "number"
+        },
+        {
+          "id": "stock",
+          "label": "Always in stock",
+          "type": "bool"
+        }
+      ],
+      "rows": [
+        [
+          "Rope",
+          12,
+          true
+        ],
+        [
+          "Oil",
+          5,
+          true
+        ],
+        [
+          "Lantern glass",
+          40,
+          false
+        ]
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Keeper",
+      "definition": "The boss at the top of the [lighthouse](page:ch2).",
+      "pageRefs": [
+        "ch2"
+      ]
+    }
+  ]
+}

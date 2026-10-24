@@ -1,0 +1,24 @@
+{
+  "formatVersion": "1.0",
+  "guide": {
+    "id": "mini-guide",
+    "title": "Lantern Isle: Mini Guide",
+    "subtitle": "Example guide for a fictional game",
+    "version": "1.0.0",
+    "language": "en",
+    "spoilerPolicy": "all",
+    "cover": "lighthouse",
+    "replaces": []
+  },
+  "game": { "title": "Lantern Isle (fictional)", "platforms": ["PC"] },
+  "credits": {
+    "authors": ["Example Author"],
+    "license": "CC0-1.0",
+    "sources": [{ "title": "Written for this example; no real game", "licence": "CC0-1.0" }],
+    "attribution": "Example content, free to use."
+  },
+  "assets": [
+    { "id": "island-map", "path": "assets/island-map.png", "alt": "Top-down map of Lantern Isle with a grid" },
+    { "id": "lighthouse", "path": "assets/lighthouse.png", "alt": "Blue gradient picture standing in for a lighthouse" }
+  ]
+}

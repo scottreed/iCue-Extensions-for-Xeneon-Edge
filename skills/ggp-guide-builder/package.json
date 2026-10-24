@@ -1,0 +1,11 @@
+{
+  "name": "ggp-guide-builder",
+  "version": "1.0.0",
+  "description": "Validate, pack and inspect Game Guide Pack (.ggp) files",
+  "type": "module",
+  "license": "MIT",
+  "bin": { "ggp": "scripts/ggp.mjs" },
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "fflate": "^0.8.2" }
+}

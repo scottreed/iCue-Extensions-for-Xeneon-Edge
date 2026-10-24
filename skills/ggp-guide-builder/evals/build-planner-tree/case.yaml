@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: build-planner-tree
+expected_outcome: |
+  A valid .ggp with a skill tree of 8 nodes with the right max points and requirements, and two presets (Fire build, Runner build). The notes contain an inconsistency (the Fire build gives Ignite 3 points but Ignite's maximum is 2, and the Fire build then totals 10; the Runner build totals 11) that must be reported to the user rather than silently changed; the preset must not exceed max points.

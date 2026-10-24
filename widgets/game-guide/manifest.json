@@ -1,0 +1,13 @@
+{
+  "author": "Scott Reed Development",
+  "id": "com.scottreed.gameguide",
+  "name": "Game Guide",
+  "description": "Full-screen game guides with navigation, checklists and progress tracking (Extra Large slot only)",
+  "version": "1.0.0",
+  "interactive": true,
+  "preview_icon": "resources/icon.svg",
+  "min_framework_version": "1.0.0",
+  "min_app_version": "5.47",
+  "os": [{ "platform": "windows" }],
+  "supported_devices": [{ "type": "dashboard_lcd" }]
+}
