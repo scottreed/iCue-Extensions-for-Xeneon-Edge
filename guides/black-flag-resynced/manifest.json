@@ -1,0 +1,513 @@
+{
+  "formatVersion": "1.0",
+  "guide": {
+    "id": "black-flag-resynced",
+    "title": "Black Flag Resynced",
+    "subtitle": "Walkthrough, collectibles, areas, ships, gear and tips",
+    "version": "0.2.0",
+    "language": "en",
+    "spoilerPolicy": "all",
+    "replaces": []
+  },
+  "game": {
+    "title": "Assassin's Creed IV: Black Flag Resynced",
+    "platforms": [
+      "PC"
+    ]
+  },
+  "credits": {
+    "authors": [
+      "Scott Reed"
+    ],
+    "license": "All rights reserved; free to use unmodified, not for resale or republishing",
+    "sources": [
+      {
+        "title": "ConsolePulse: guide sequence 1 walkthrough",
+        "url": "https://www.consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-guide-sequence-1-walkthrough",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "ConsolePulse: guide sequence 2 walkthrough",
+        "url": "https://www.consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-guide-sequence-2-walkthrough",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "ConsolePulse: guide sequence 3 walkthrough",
+        "url": "https://www.consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-guide-sequence-3-walkthrough",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "ConsolePulse: guide sequence 4 walkthrough",
+        "url": "https://www.consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-guide-sequence-4-walkthrough",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "ConsolePulse: sequence 5 walkthrough",
+        "url": "https://consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-sequence-5-walkthrough",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "ConsolePulse: sequence 6 walkthrough",
+        "url": "https://consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-sequence-6-walkthrough",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "ConsolePulse: sequence 7 walkthrough",
+        "url": "https://consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-sequence-7-walkthrough",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "ConsolePulse: sequence 8 walkthrough",
+        "url": "https://consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-sequence-8-walkthrough",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "ConsolePulse: sequence 9 walkthrough",
+        "url": "https://consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-sequence-9-walkthrough",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "ConsolePulse: sequence 10 walkthrough",
+        "url": "https://consolepulse.com/multiplatform/assassins-creed/rumors/assassins-creed-black-flag-resynced-sequence-10-walkthrough",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "ConsolePulse: sequence 11 walkthrough",
+        "url": "https://consolepulse.com/multiplatform/assassins-creed/rumors/assassins-creed-black-flag-resynced-sequence-11-walkthrough",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "ConsolePulse: sequence 12 walkthrough",
+        "url": "https://consolepulse.com/multiplatform/assassins-creed/rumors/assassins-creed-black-flag-resynced-sequence-12-walkthrough",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all viewpoint locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-viewpoint-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all shanty song sheet locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-shanty-song-sheet-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all treasure map locations solutions",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-treasure-map-locations-solutions/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all mayan stelae locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-mayan-stelae-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all secrets locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-secrets-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all chest locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-chest-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all underwater shipwreck treasure chests locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-underwater-shipwreck-treasure-chests-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all friendly animal locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-friendly-animal-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all character portrait locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-character-portrait-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all paintings locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-paintings-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all art collection art pieces locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-art-collection-art-pieces-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all cartographer locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-cartographer-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all warehouse locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-warehouse-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all tavern locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-tavern-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: assassin s creed black flag resynced all data files.html",
+        "url": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/checklists/data-file-locations",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: assassin s creed black flag resynced all data files.html",
+        "url": "https://mapmaster.io/games/assassin-s-creed-black-flag-resynced/guides/Vault%20Data%20File",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: assassin s creed black flag resynced all data files.html",
+        "url": "https://vandal.elespanol.com/en/assassin-s-creed-black-flag-resynced/assassin-s-creed-black-flag-resynced-all-data-files.html",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: Buried%20Treasure%20Chest",
+        "url": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/checklists/buried-treasure-locations",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: Buried%20Treasure%20Chest",
+        "url": "https://mapmaster.io/games/assassin-s-creed-black-flag-resynced/guides/Buried%20Treasure%20Chest",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all assassin contract locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-assassin-contract-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all officer locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-officer-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all naval contract locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-naval-contract-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all fort locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-fort-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all legendary ship locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-legendary-ship-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all ship model locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-ship-model-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all ultimate upgrade plan locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-ultimate-upgrade-plan-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all sword locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-sword-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all pistol locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-pistol-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all outfit locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-outfit-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: all trinket locations",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-trinket-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: trophy guide roadmap",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-trophy-guide-roadmap/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: ship and crafting upgrades",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-jackdaw-ship-upgrades/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: ship and crafting upgrades",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-crafting-upgrades/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Tips sources",
+        "url": "https://allthings.how/how-naval-combat-works-in-assassin-s-creed-black-flag-resynced/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Tips sources",
+        "url": "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Tips sources",
+        "url": "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Tips sources",
+        "url": "https://mp1st.com/news/assassins-creed-black-flag-upcoming-update-fixes-outlined-known-issues",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Tips sources",
+        "url": "https://mp1st.com/title-updates-and-patches/assassins-creed-black-flag-resynced-first-update-1-0-4-fixes-a-boatload-of-bugs-via-patch-1-003-028",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Tips sources",
+        "url": "https://techwiser.com/assassins-creed-black-flag-resynced-fast-travel-viewpoints/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Tips sources",
+        "url": "https://www.gfinityesports.com/article/assassins-creed-black-flag-resynced-beginner-tips-tricks",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Tips sources",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-collectibles-guide-100-completion/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Tips sources",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-how-to-skip-time/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Tips sources",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-wiki-strategy-guide/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Tips sources",
+        "url": "https://www.redbull.com/au-en/assassins-creed-black-flag-resynced-guide",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Tips sources",
+        "url": "https://www.redbull.com/us-en/assassins-creed-black-flag-resynced-tips-tricks",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Templar hunt: all templar hunts walkthrough",
+        "url": "https://games.gg/assassins-creed-black-flag-resynced/guides/ac-black-flag-resynced-rhona-dinsmore-templar-hunt-walkthrough/ ; https://gamingpromax.com/assassins-creed-black-flag-resynced-all-templar-hunts-walkthrough/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Templar hunt: all templar hunts walkthrough",
+        "url": "https://games.gg/assassins-creed-black-flag-resynced/guides/ac-black-flag-resynced-anto-templar-hunt-walkthrough/ ; https://gamingpromax.com/assassins-creed-black-flag-resynced-all-templar-hunts-walkthrough/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Templar hunt: all templar hunts walkthrough",
+        "url": "https://allthings.how/black-flag-resynced-upton-travers-templar-hunt-walkthrough/ ; https://games.gg/assassins-creed-black-flag-resynced/guides/ac-black-flag-resynced-upton-travers-templar-hunt-full-walkthrough/ ; https://gamingpromax.com/assassins-creed-black-flag-resynced-all-templar-hunts-walkthrough/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Templar hunt: all templar hunts walkthrough",
+        "url": "https://games.gg/assassins-creed-black-flag-resynced/guides/ac-black-flag-resynced-opia-apito-templar-hunt-walkthrough/ ; https://gamingpromax.com/assassins-creed-black-flag-resynced-all-templar-hunts-walkthrough/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Side quest: former glories",
+        "url": "https://guides4gamers.com/assassins-creed-black-flag-resynced/quests/former-glories/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Side quest: damn fine gear",
+        "url": "https://techwiser.com/assassins-creed-black-flag-resynced-damn-fine-gear/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Side quest: art lover where to find all art pieces",
+        "url": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/side-quests/art-lover-where-to-find-all-art-pieces",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Side quest: mayan mysteries all mayan stelae locations",
+        "url": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/side-quests/mayan-mysteries-all-mayan-stelae-locations",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Side quest: blackbeards treasure where to find thatchs treasure",
+        "url": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/side-quests/blackbeards-treasure-where-to-find-thatchs-treasure",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Side quest: captain stede bonnet what happened to the gentleman pirate",
+        "url": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/side-quests/captain-stede-bonnet-what-happened-to-the-gentleman-pirate",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Side quest: cat distribution system find soot the cat",
+        "url": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/side-quests/cat-distribution-system-find-soot-the-cat",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Side quest: monkey business find albert the monkey",
+        "url": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/side-quests/monkey-business-find-albert-the-monkey",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Side quest: lucy baldwin shipwright quests",
+        "url": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/officer-quests/lucy-baldwin-shipwright-quests",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Side quest: abel padre galvao master at arms questline",
+        "url": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/officer-quests/abel-padre-galvao-master-at-arms-questline",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Side quest: deadman officer quests guide",
+        "url": "https://consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-deadman-officer-quests-guide",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Rifts sources",
+        "url": "https://consolepulse.com/multiplatform/assassins-creed/guides/all-animus-rifts-walkthrough-ac-black-flag-resynced",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Rifts sources",
+        "url": "https://www.videogameschronicle.com/guide/ac-black-flag-resynced-dark-animus-locations/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Rifts sources",
+        "url": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/animus-hub/rifts",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Rifts sources",
+        "url": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/animus-hub",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Rifts sources",
+        "url": "https://guides4gamers.com/assassins-creed-black-flag-resynced/pois/rifts/",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "Rifts sources",
+        "url": "https://vandal.elespanol.com/en/assassin-s-creed-black-flag-resynced/assassin-s-creed-black-flag-resynced-all-animus-rifts.html",
+        "licence": "All rights reserved; facts only, wording rewritten",
+        "retrieved": "2026-10-24"
+      },
+      {
+        "title": "PowerPyx: the Caribbean map picture",
+        "url": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-full-world-map/",
+        "licence": "All rights reserved; picture used unaltered",
+        "retrieved": "2026-10-24"
+      }
+    ],
+    "attribution": "Written by the guide author. Every step, location and tip is a fact gathered from the sources listed, restated in the author's own words; where a source did not say something it is left out and listed under Known gaps. The Caribbean map picture is game artwork by Ubisoft, taken from the PowerPyx page listed under Sources and included unaltered; all rights in it remain with their owners. Game names and artwork belong to Ubisoft. Not affiliated with or endorsed by Ubisoft. Free to use unmodified; please do not resell or republish.",
+    "generator": {
+      "tool": "ggp-guide-builder",
+      "version": "1.0.0"
+    }
+  },
+  "assets": [
+    {
+      "id": "caribbean-map",
+      "path": "assets/caribbean-map.jpg",
+      "alt": "In-game map of the Caribbean for Black Flag Resynced",
+      "credit": "Map image from PowerPyx (https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-full-world-map/), game artwork by Ubisoft. Personal use only."
+    }
+  ]
+}

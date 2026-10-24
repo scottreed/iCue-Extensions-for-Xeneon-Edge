@@ -26,6 +26,7 @@ Custom HTML widgets for the Corsair XENEON EDGE touchscreen, built with the iCUE
   - [Permissions and privacy](#permissions-and-privacy-1)
   - [Limitations](#limitations-1)
   - [Make your own guides](#make-your-own-guides)
+- [Guides](#guides)
 - [Development](#development)
 - [Documentation](#documentation)
 
@@ -229,6 +230,17 @@ It also contains the format spec (`references/format.md`), a command-line tool (
 
 ---
 
+## Guides
+Ready-made guides for the Game Guide widget live in [`guides/`](guides/README.md). Download a `.ggp` file and import it from the widget's Library.
+
+| Guide | Game | Download |
+|---|---|---|
+| Black Flag Resynced | Assassin's Creed IV: Black Flag Resynced (PC) | [black-flag-resynced.ggp](guides/black-flag-resynced.ggp) |
+
+Guides are written in their authors' own words from public sources, which each guide credits. Game names and artwork belong to their owners; the guides are not affiliated with or endorsed by the publishers.
+
+---
+
 ## Development
 ```
 widgets/
@@ -237,6 +249,7 @@ widgets/
   game-guide/         Game Guide: manifest.json, index.html, style.css, app.js, js/, resources/
 skills/
   ggp-guide-builder/  the Claude Code skill and command-line tool that build .ggp guides (format spec, example, tests)
+guides/               published guides for Game Guide: <game>.ggp plus its source folder (see guides/README.md)
 tools/                embed-sample.mjs packs the example guide into Game Guide's built-in sample
 docs/
   callback/           the static sign-in page you host (see Player for Spotify setup step 1)

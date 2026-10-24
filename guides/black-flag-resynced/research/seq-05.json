@@ -1,0 +1,91 @@
+{
+  "sequence": 5,
+  "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-sequence-5-walkthrough",
+  "retrieved": "2026-10-24",
+  "memories": [
+    {
+      "name": "The Forts",
+      "objective": "Edward learns how fort sieges work by taking Fort Punta Guarico and confronting Torres.",
+      "steps": [
+        "Go to the Old Avery Tavern in Nassau and meet Thatch.",
+        "Return to the Jackdaw and sail south to Fort Punta Guarico.",
+        "Clear the enemy fleet first, repairing the Jackdaw with damaged ships if needed.",
+        "Avoid the orange rings in the water that mark incoming mortar shots.",
+        "Hit the two defence towers with cannons, then use the swivel gun once in range.",
+        "Dock and assault the fort, breaking morale by killing soldiers and igniting red powder barrels or crates.",
+        "Break down the War Room door at the top to face Torres.",
+        "Zipline south to the Jackdaw and enter the cabin to unlock Kenway's Fleet."
+      ],
+      "optional": [],
+      "tips": [
+        "Clearing the fleet first makes the second tower easier.",
+        "Treat this fort as a template, since later forts are harder.",
+        "Stealth is not an option here.",
+        "The page says early fort captures clear map fog, open fast travel and unlock Kenway's Fleet regions."
+      ],
+      "gaps": [
+        "The page gives coordinates 745,379 for the fort but no further map guidance.",
+        "Cannon, swivel gun and ram controls are not described.",
+        "The page does not say how many defenders there are."
+      ]
+    },
+    {
+      "name": "Traveling Salesman",
+      "objective": "Edward follows Kidd through Kingston to learn where the Sage is and how Torres and Prins connect.",
+      "steps": [
+        "Sail southwest to Kingston and follow Kidd to the auction yard.",
+        "When Kidd stops on a rooftop, cross the beam and drop into the leaves below.",
+        "Take out the three patrolling guards quietly using the bushes.",
+        "Check the note to the east and investigate the bloodstain further north.",
+        "Continue north, clear two guards, loot a chest and read the letter from Torres on the desk.",
+        "Go to the cemetery where Kidd waits, with an optional detour west to sync a viewpoint.",
+        "Dive off and find Kidd on a rooftop to the southwest.",
+        "Follow him into the grass and watch Prins and Torres talk, then fight the guards when it goes wrong.",
+        "Chase Kidd after his Smoke Bomb escape and tackle him."
+      ],
+      "optional": [
+        "Sync the windmill-area and cemetery viewpoints.",
+        "Collect the data file by climbing the cemetery from the east side."
+      ],
+      "tips": [
+        "Use bushes to deal with the three guards quietly."
+      ],
+      "gaps": [
+        "The page gives no exact coordinates for the notes, bloodstain or chest.",
+        "It does not say how to tackle Kidd or what happens if he is not caught.",
+        "The page says no per-mission optional objectives exist in Resynced."
+      ]
+    },
+    {
+      "name": "Unmanned",
+      "objective": "The longest memory of the sequence: Edward infiltrates the guarded plantation manor in Kingston to assassinate Laurens Prins.",
+      "steps": [
+        "Go to the western side of Kingston, climb the Windmill, sync its viewpoint and talk to Kidd.",
+        "Sabotage the first alarm bell after tagging guards, dropping into the haystack and following Kidd for a double takedown.",
+        "Sabotage the second bell by heading west, clearing the tower gunner and the guards below.",
+        "Sabotage the third bell by heading north, prioritising the watchtower gunner and dealing with the brute at the bell.",
+        "Regroup with Kidd, enter the manor gate and tag all guards before picking a route.",
+        "Clear two patrol guards, climb the ladder and deal with two roof gunners.",
+        "Assassinate a guard on the south side of the roof, then a brute to the north.",
+        "Jump through the window to find the Laurens Prins Portrait, a trinket and loot.",
+        "Climb outside to clear two guards in a separate room and take a letter and a chest.",
+        "Work down the corridor floor by floor, clearing guards and looting.",
+        "Clear the guards near the final bell and assassinate Prins.",
+        "After the cutscene, outrun the soldiers southeast to the Windmill and meet Kidd."
+      ],
+      "optional": [
+        "Collect the data files and letters found in the auction yard, cemetery and manor."
+      ],
+      "tips": [
+        "Tag guards with Eagle Vision before every route.",
+        "Staying with Kidd works as well as splitting up."
+      ],
+      "gaps": [
+        "The page does not say how many bells are required beyond describing three, and does not say how to sabotage a bell.",
+        "No exact manor floor layout or room names beyond the portrait.",
+        "The page says the data file tracker shows 0 of 4, but does not list all four locations."
+      ]
+    }
+  ],
+  "notes": "Slug for this site differs from the brief: the working URL has no 'guide' word ('...black-flag-resynced-sequence-5-walkthrough'); the brief's URL (with and without www) returned 404, found via one web search. Page says Resynced has no per-mission optional objectives. Page not thin (about 2,500-3,000 words). Mentioned in the page: eleven forts exist; Kingston viewpoints are Cemetery and Windmill."
+}

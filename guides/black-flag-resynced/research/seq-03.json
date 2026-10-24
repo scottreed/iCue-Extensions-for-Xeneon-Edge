@@ -1,0 +1,188 @@
+{
+  "sequence": 3,
+  "source": "https://www.consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-guide-sequence-3-walkthrough",
+  "retrieved": "2026-10-24",
+  "memories": [
+    {
+      "name": "This Tyro Captain",
+      "objective": "Sail to Abaco Island to find a shipwright and get a pistol holster for Edward.",
+      "steps": [
+        "Sail to Abaco Island, using Pathfinder or steering by hand.",
+        "Pick up loot and stranded crew on the way.",
+        "Anchor and slide down a rope into the water.",
+        "Synchronize the island's single Viewpoint and go to the camp.",
+        "Investigate the camp, which points to local Ocelots as the cause of the damage.",
+        "Track the Ocelots east using your vision.",
+        "Skin the Ocelots for 2 Ocelot Pelts.",
+        "Craft a Pistol Holster in the crafting menu.",
+        "Return to the ship and talk to Adewale, who gives Edward a second pistol."
+      ],
+      "optional": [
+        "Let the Ocelots attack and parry on the blue flash; two quick parries earn the Double Tap trophy."
+      ],
+      "tips": [
+        "Pathfinder: hold up on the D-pad, then press triangle/Y.",
+        "Abaco is small enough to clear in one visit, a good early stop for location completion."
+      ],
+      "gaps": [
+        "The shipwright is named in the objective but how or where he is found is not explained.",
+        "Where the Pelts are skinned from (which Ocelots, how many) beyond the 2 pelts is not detailed.",
+        "Island collectibles are only in the page's summary table (1 Viewpoint, 2 Chests, 3 Secrets, Iguana and Ocelot)."
+      ]
+    },
+    {
+      "name": "Now Hiring",
+      "objective": "Free captured pirates in Nassau to build up the crew.",
+      "steps": [
+        "In September 1715 sail to Nassau and dock at the Old Avery tavern.",
+        "Follow Anne Bonny toward the gallows.",
+        "Head southeast to free nearby pirates and climb the tower for Nassau's Viewpoint.",
+        "Fight the two soldiers guarding the gallows, which teaches quickfire.",
+        "After freeing that pair, go north where a woman points out a man about to be hanged.",
+        "Shoot the rope, clear the soldiers and revive him.",
+        "Return to the Old Avery and talk to James Kidd about the Observatory."
+      ],
+      "optional": [],
+      "tips": [
+        "Quickfire uses R2/RT and triangle/Y.",
+        "A data file sits on the south side of the tavern."
+      ],
+      "gaps": [
+        "How many pirates must be freed is not stated.",
+        "What the data file contains is not stated.",
+        "Nassau collectibles appear only in the summary table (6 Viewpoints, 5 Chests, 5 Song Sheets, 5 Secrets)."
+      ]
+    },
+    {
+      "name": "Prizes and Plunder",
+      "objective": "Learn from Benjamin Hornigold how to plunder ships.",
+      "steps": [
+        "Speak with Hornigold at the campfire on Nassau's northern edge.",
+        "Learn the spyglass and use it to scout schooners.",
+        "Open with a cannon volley, then use the swivel gun on the red markers.",
+        "Disable the schooner rather than sink it, close in and board.",
+        "Learn the wall takedown, which kicks enemies off ship and structure edges during boarding.",
+        "Sail southwest to Salt Key Bank and pay 1,000 Reales at the Harbour Master to upgrade the Jackdaw's hull.",
+        "Synchronize the Viewpoint near the Harbour Master."
+      ],
+      "optional": [],
+      "tips": [
+        "Spyglass is held R3 / F; the swivel gun is aimed then fired with R1/RB.",
+        "Slowing down helps when closing in to board."
+      ],
+      "gaps": [
+        "No optional objectives listed.",
+        "How many schooners must be taken is not stated.",
+        "Salt Key Bank collectibles appear only in the summary table (1 Viewpoint, 1 Chest, 1 Song Sheet, 2 Secrets)."
+      ]
+    },
+    {
+      "name": "Raise the Black Flag",
+      "objective": "Hunt brigs for Metal and upgrade the Jackdaw's cannons.",
+      "steps": [
+        "Talk to Hornigold again in Salt Key Bank.",
+        "Hunt brigs, marking targets with the spyglass; at least two ships must go down to collect the 70 Metal.",
+        "Return to Salt Key Bank and pay the local officer 400 Reales to lower your bounty.",
+        "Upgrade the cannons at the Harbour Master."
+      ],
+      "optional": [],
+      "tips": [
+        "Strong winds can damage the Jackdaw, so steer against them.",
+        "Brigs ram; open the sails to outrun them or brace to cut damage.",
+        "Lower speed and sails to tighten the turn in close fights.",
+        "Throw powder barrels from the stern and shoot them; dropping one while fleeing can catch a chasing brig.",
+        "The swivel gun works well on barrels or for hull damage.",
+        "Cutting the enemy flag during boarding lowers their morale faster.",
+        "Attacking brigs raises your Wanted Level and draws Pirate Hunters."
+      ],
+      "gaps": [
+        "No optional objectives listed.",
+        "Where to find brigs is not stated.",
+        "Cannon upgrade cost is not stated."
+      ]
+    },
+    {
+      "name": "Sugarcane and Its Yields",
+      "objective": "Rob a plantation on Cat Island together with James Kidd.",
+      "steps": [
+        "Meet Kidd on the western shore of Andreas Island and get new gear.",
+        "Synchronize the Viewpoint to the southwest.",
+        "Try hanging soldiers from tree branches, a preview of the Rope Dart.",
+        "Follow Beckford's agent to the south into the trees and deal with the guard there (hang or assassinate).",
+        "Kill the agent and loot the Endeavour Cargo Manifest from him.",
+        "Sail southeast to Cat Island.",
+        "Clear the plantation; the key is south of the main warehouse. Suggested route: eavesdrop on the warehouse guards, sabotage the northern bell, loot the chest outside, lure and assassinate guards on the eastern beach and southwestern grass, climb to the southern Viewpoint and sabotage the western bell, clear the watchtower.",
+        "Double assassinate the pair outside, climb to the balcony chest, then from the roof pickpocket Beckford for the key or double assassinate from above.",
+        "Clear the rest of the guards, collect Cat Island collectibles and plunder the warehouse."
+      ],
+      "optional": [
+        "Collect all Cat Island collectibles before plundering (summary table: 1 Viewpoint, 2 Chests, 1 Secret, Howler Monkey)."
+      ],
+      "tips": [
+        "The warehouse resets after plundering.",
+        "The Rope Dart trophy The Hangman needs 10 Rope Dart kills."
+      ],
+      "gaps": [
+        "Reward from plundering the warehouse is not stated.",
+        "Andreas Island collectibles are only in the summary table (1 Viewpoint, 2 Chests, 3 Secrets, Iguana).",
+        "Whether the bells must both be sabotaged is not clear; the page lists them as part of a suggested route."
+      ]
+    },
+    {
+      "name": "Proper Defenses",
+      "objective": "Answer Thatch's worry about crew defenses by stealing a Galleon.",
+      "steps": [
+        "Sail south from Cat Island to Salt Lagoon in the Gibara region.",
+        "Synchronize the Viewpoint at the far end of the nearby shipwreck, which reveals a Treasure Map and an underwater chest.",
+        "Speak with Kidd and Thatch to the east.",
+        "Receive Heated Shot for the Jackdaw and test it on nearby wrecks.",
+        "Find El Arca del Maestro to the northeast near Eleuthera.",
+        "Do not attack the galleon directly; tail it from a distance.",
+        "Fight off the smaller Spanish ships that attack afterward, using Heated Shot and explosive barrels.",
+        "Pay down your raised Wanted Level."
+      ],
+      "optional": [],
+      "tips": [
+        "Switch ammo with triangle/Y and fire with R2/RT.",
+        "Bad weather can disrupt Pathfinder, so use the spyglass.",
+        "Wanted Level can be paid off at Havana, Salt Key Bank, Andreas Island or Nassau."
+      ],
+      "gaps": [
+        "No optional objectives listed.",
+        "How the galleon is finally captured is not described beyond tailing it and surviving the attack.",
+        "Salt Lagoon collectibles only in the summary table (1 Viewpoint, 1 Chest, 1 Secret, Deer)."
+      ]
+    },
+    {
+      "name": "A Single Madman",
+      "objective": "Track down and kill Julien du Casse on Great Inagua.",
+      "steps": [
+        "Sail to Great Inagua and go north through broken bridges, ruins and soldier patrols, using bushes and the Rope Dart.",
+        "Both forks of the path meet near soldiers questioning a prisoner.",
+        "Continue north past a camp of easily distracted soldiers toward a distant house.",
+        "From a nearby branch tag as many guards as you can, then take them down one at a time.",
+        "Go through a broken window and a portrait room.",
+        "Head to the wheel where a chest waits.",
+        "Loop back and free the captive pirates guarded by one soldier; a Viewpoint is just behind them.",
+        "Board the ship where du Casse hides.",
+        "Stealth kill him or fight him."
+      ],
+      "optional": [
+        "A Perfumed Note and a letter titled \"Standards are Slipping\" can be found in the portrait room."
+      ],
+      "tips": [
+        "Ignite red barrels and lure him close.",
+        "Distract him to flank instead of approaching head-on.",
+        "Use ranged attacks and the ammunition on the ship; his movement makes pure melee unreliable.",
+        "Dodge or roll when the loading icon above his head fills, because he fires both pistols.",
+        "Smoke Bombs help close the distance."
+      ],
+      "gaps": [
+        "No optional objectives listed.",
+        "Reward on the page: Edward gets The Cove and a Templar Key, and Naval Contracts unlock; details of these are not given.",
+        "Whether the two path forks differ in difficulty is not stated."
+      ]
+    }
+  ],
+  "notes": "Page fully fetched, appeared complete (about 4500 words); all seven memories match the expected names. Page says this remake has no per-mission optional sync objectives. It also has a collectibles table by location (Abaco, Nassau, Salt Key Bank, Andreas, Cat Island, Salt Lagoon); counts are mentioned per memory in gaps. Some collectibles stay locked until later chapters. Related trophies on the page: Double Tap, Owned (complete every activity in one location), The Hangman. Adewale spelled without accent."
+}

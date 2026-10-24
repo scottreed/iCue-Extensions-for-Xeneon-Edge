@@ -1,0 +1,79 @@
+{
+  "sequence": 6,
+  "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-sequence-6-walkthrough",
+  "retrieved": "2026-10-24",
+  "memories": [
+    {
+      "name": "Diving for Medicines",
+      "objective": "Nassau has a medicine shortage, so Edward gets a Diving Bell and explores his first underwater shipwreck.",
+      "steps": [
+        "Return to Nassau and hear Hornigold and Blackbeard explain the shortage.",
+        "Visit the nearest Harbourmaster and buy the Diving Bell for 5,000 Reales.",
+        "Sail to the San Ignacio Wreck in the Dry Tortuga region, where Thatch waits.",
+        "Dive with the Diving Bell and collect floating air barrels to manage the air meter.",
+        "Get carried by currents into a cave with a shark, watching the threat indicator.",
+        "Collect the medicine.",
+        "Return to the Diving Bell and surface."
+      ],
+      "optional": [
+        "Grab the Hull Armor Ultimate Ship Plan from a chest."
+      ],
+      "tips": [
+        "Stay close to air barrels in the cave section.",
+        "Completing this memory unlocks all seven Underwater Shipwrecks, so there is no rush to do them."
+      ],
+      "gaps": [
+        "The page gives coordinates 348, 744 for the wreck but no route inside the wreck or cave.",
+        "It does not say where the medicine or the chest is.",
+        "No diving controls described."
+      ]
+    },
+    {
+      "name": "Devil's Advocate",
+      "objective": "Blackbeard attacks a British Man o' War alone, and Edward must rescue him and help win the fight.",
+      "steps": [
+        "Find Hornigold's damaged schooner and learn Blackbeard has gone after a Man o' War.",
+        "Sail toward Mariguana Island, handling the Jackdaw in strong winds.",
+        "Find Blackbeard's ship, Queen Anne's Revenge, docked nearby and rescue survivors in the water.",
+        "Dock at the island and clear the soldiers around Blackbeard.",
+        "Board the Queen Anne's Revenge and take command.",
+        "Fight the Man o' War, closing to a tight angle and using chain shot to slow it.",
+        "Ram when chances come up.",
+        "Defeat the enemy captain to finish."
+      ],
+      "optional": [
+        "Rescue survivors in the water.",
+        "Capture Royal Navy frigates in the area for Kenway's Fleet."
+      ],
+      "tips": [
+        "Close the distance and use chain shot rather than trading fire at range.",
+        "Smoke Bombs help against grouped soldiers on the island."
+      ],
+      "gaps": [
+        "The page does not give the Man o' War's health or captain's name.",
+        "Ship weapon controls are not described.",
+        "No coordinates for Mariguana Island or the schooner."
+      ]
+    },
+    {
+      "name": "The Siege of Charles-Towne",
+      "objective": "Edward goes to Charles-Towne, South Carolina, to get the key to the medical stockpile for Nassau.",
+      "steps": [
+        "Sail into Charles-Towne's harbour and follow a rowboat, keeping clear of the watchtowers.",
+        "Follow the rowboat to its landing point.",
+        "Find and kill the Charles-Towne Captain before he raises the alarm.",
+        "Take the key to the medical stockpile and secure the medicine."
+      ],
+      "optional": [],
+      "tips": [
+        "Keep a careful distance while tailing the rowboat so you are not detected."
+      ],
+      "gaps": [
+        "Thin on detail: the page gives only four broad steps.",
+        "No locations, guard counts or route for finding the Captain or the stockpile.",
+        "No coordinates for Charles-Towne."
+      ]
+    }
+  ],
+  "notes": "Slug differs from the brief: no 'guide' word in the working URL (brief's URL with and without www returned 404). Page says Resynced has no per-mission optional objectives. The Siege of Charles-Towne is clearly thin on the page; no extra source was consulted. Page outcome note: Blackbeard does not return with Edward, which ends the sequence. Progress notes: Diving Bell is needed for all Underwater Shipwrecks; Seven Deadly Seas trophy needs every chest in all seven shipwrecks."
+}

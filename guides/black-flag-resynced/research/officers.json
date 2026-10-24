@@ -1,0 +1,45 @@
+{
+  "category": "Officers",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-officer-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 5,
+  "items": [
+    {
+      "name": "Adewale (1st Quartermaster)",
+      "region": "Not specified",
+      "where": "Joins automatically through the story.",
+      "gate": "Story: Sequence 03 Mission 01 (This Tyro Captain). Replaced by Anne Bonny in Sequence 12.",
+      "reward": "None stated"
+    },
+    {
+      "name": "Lucy Baldwin (Shipwright)",
+      "region": "Salt Key Bank (quest 1), Great Inagua (quest 2)",
+      "where": "Finish \"A Proper Shipwright\" at Salt Key Bank (map 446, 620), then \"The One With the Gun\" at Great Inagua (818, 445); she joins part way through the second quest.",
+      "gate": "Available after Sequence 04 Mission 01. Only her first two quests are needed.",
+      "reward": "Perfect Brace: Jackdaw takes no incoming damage"
+    },
+    {
+      "name": "The Padre (Master-at-Arms)",
+      "region": "Caracol (quest 1), Cumberland Bay (quest 2)",
+      "where": "Finish \"A Second Chance\" at Caracol (918, 340), then \"Loyalty, Discipline, and Courage\" at Cumberland Bay (648, 348); he joins after the second quest.",
+      "gate": "Available after Sequence 04 Mission 01. Only his first two quests are needed.",
+      "reward": "Ram-Dash for the Jackdaw (L1+R1 / LB+RB) with heavy ram damage"
+    },
+    {
+      "name": "Anne Bonny (2nd Quartermaster)",
+      "region": "Not specified",
+      "where": "Joins automatically through the story.",
+      "gate": "Story: start of Sequence 12 Mission 01 (A Governor No Longer).",
+      "reward": "None stated"
+    },
+    {
+      "name": "Tobias \"Deadman\" Smith (Master Gunner)",
+      "region": "Great Inagua (quests 1 and 4), Kingston (quest 2), Cat Island area (quest 3)",
+      "where": "Finish the first four quests of \"A World Without Gold\": \"That Bastard Maynard\" (Great Inagua, 818, 446), \"Not Even a Real Captain\" (Kingston, 616, 154), \"What the Devil!\" (near Cat Island, 728, 705), \"It's a Start\" (Great Inagua, 825, 444), which recruits him.",
+      "gate": "Available after Sequence 11 Mission 03 (Everything Is Permitted). \"It's a Start\" needs Lucy and the Padre recruited first.",
+      "reward": "Broadside cannons fire an extra salvo"
+    }
+  ],
+  "gaps": [],
+  "notes": "Recruiting all five gives the All Hands On Deck trophy. Lucy and the Padre can still be recruited after the story. Once Tobias is recruited, their remaining quests are hidden until A World Without Gold is done. A reader comment reports a glitch: if Lucy's \"The One With the Gun\" is unfinished at story end it can restart and become impossible, blocking Tobias; workaround was reloading an earlier save."
+}

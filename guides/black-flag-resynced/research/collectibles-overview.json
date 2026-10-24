@@ -1,0 +1,171 @@
+{
+ "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-collectibles-guide-100-completion/",
+ "retrieved": "2026-10-24",
+ "types": [
+  {
+   "type": "Viewpoints",
+   "total": 61,
+   "reward": "",
+   "advice": "Syncing viewpoints marks nearby collectibles on the map."
+  },
+  {
+   "type": "Treasure Maps and Solutions",
+   "total": 30,
+   "reward": "",
+   "advice": "Solutions are on a separate page."
+  },
+  {
+   "type": "Taverns",
+   "total": 11,
+   "reward": "",
+   "advice": "Listed per island."
+  },
+  {
+   "type": "Assassin Contracts",
+   "total": 30,
+   "reward": "",
+   "advice": "Listed per island."
+  },
+  {
+   "type": "Naval Contracts",
+   "total": 15,
+   "reward": "",
+   "advice": "Listed per island."
+  },
+  {
+   "type": "Mayan Stelae",
+   "total": 16,
+   "reward": "",
+   "advice": "Listed per island."
+  },
+  {
+   "type": "Shanty Song Sheets",
+   "total": 28,
+   "reward": "",
+   "advice": "Listed per island."
+  },
+  {
+   "type": "Chests",
+   "total": 84,
+   "reward": "",
+   "advice": "Count includes underwater shipwreck chests per the page."
+  },
+  {
+   "type": "Secrets",
+   "total": 105,
+   "reward": "",
+   "advice": "Largest category; listed per island."
+  },
+  {
+   "type": "Warehouses",
+   "total": 9,
+   "reward": "",
+   "advice": "Covered on a separate page."
+  },
+  {
+   "type": "Forts",
+   "total": 11,
+   "reward": "Silver trophy King of the Castle",
+   "advice": "Top priority; conquering forts unfogs the sea map."
+  },
+  {
+   "type": "Underwater Shipwrecks",
+   "total": 7,
+   "reward": "Bronze trophy Seven Deadly Seas",
+   "advice": "Unlock after Sequence 06, Mission 01 (Diving for Medicines); do them after fast travel is available."
+  },
+  {
+   "type": "Legendary Ships",
+   "total": 5,
+   "reward": "Silver trophy Devil Of The Caribbean",
+   "advice": "Leave for near the end."
+  },
+  {
+   "type": "Portraits",
+   "total": 11,
+   "reward": "Bronze trophy The Memory of My Enemy",
+   "advice": "Need story progress; only marked when you are near them."
+  },
+  {
+   "type": "Officers",
+   "total": 5,
+   "reward": "Bronze trophy All Hands On Deck",
+   "advice": "Covered on a separate page."
+  },
+  {
+   "type": "Friendly Animals",
+   "total": 8,
+   "reward": "Bronze trophy Friend To All",
+   "advice": "Listed per island."
+  },
+  {
+   "type": "Ultimate Upgrade Plans",
+   "total": 12,
+   "reward": "Silver trophy Ship This",
+   "advice": "Covered on a separate page."
+  },
+  {
+   "type": "Question-mark Locations (islands)",
+   "total": 57,
+   "reward": "Silver trophy Cartographer",
+   "advice": "Covered on a separate page."
+  },
+  {
+   "type": "Art Pieces",
+   "total": 41,
+   "reward": "Silver trophy Dilettante (shared with paintings, ship models, swords, pistols)",
+   "advice": "Trophies only need the counts given in the intro."
+  },
+  {
+   "type": "Paintings",
+   "total": 12,
+   "reward": "Counts toward Dilettante",
+   "advice": "Trophy needs 9."
+  },
+  {
+   "type": "Ship Models",
+   "total": 20,
+   "reward": "Counts toward Dilettante",
+   "advice": "Trophy needs all 20."
+  },
+  {
+   "type": "Swords",
+   "total": 28,
+   "reward": "Counts toward Dilettante",
+   "advice": "Trophy needs any 18."
+  },
+  {
+   "type": "Pistols",
+   "total": 19,
+   "reward": "Counts toward Dilettante",
+   "advice": "Trophy needs any 12."
+  },
+  {
+   "type": "Outfits",
+   "total": 38,
+   "reward": "",
+   "advice": "Not needed for trophies."
+  },
+  {
+   "type": "Trinkets",
+   "total": 24,
+   "reward": "",
+   "advice": "Not needed for trophies."
+  }
+ ],
+ "general_advice": [
+  "Start with the forts; they open up the sea map and give a trophy.",
+  "Sail to all islands to unlock fast travel.",
+  "Do the 7 underwater shipwrecks once story progress allows diving.",
+  "Do the cleanup, then finish the legendary ships.",
+  "Sync viewpoints on each island to reveal collectibles on the map.",
+  "Use the map filter (D-Pad Down) to show one collectible type at a time.",
+  "Each of the 46 named locations has its own tracker.",
+  "Nothing is missable. Story gates: shipwrecks after Sequence 06 Mission 01; northern Tulum after Sequence 04 Mission 03; Isla Providencia during or after Sequence 08 Mission 03; Principe during or after Sequence 09 Mission 02; Long Bay during or after Sequence 10 Mission 03; portraits need story progress.",
+  "Free roam continues after the story, so skipped things can be done later."
+ ],
+ "gaps": [
+  "Rewards for most non-trophy types are not stated."
+ ],
+ "notes": "The intro and the type list give different counts for paintings, swords and pistols; the lower intro numbers are the trophy requirements."
+}

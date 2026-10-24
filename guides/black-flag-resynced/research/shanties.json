@@ -1,0 +1,206 @@
+{
+ "category": "Shanties",
+ "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-shanty-song-sheet-locations/",
+ "retrieved": "2026-10-24",
+ "stated_total": 28,
+ "items": [
+  {
+   "name": "#1 \"So Early In The Morning\"",
+   "region": "Dry Tortuga region - Cape Bonavista",
+   "where": "Perched between two branches; it flies off when approached, so chase it until it settles.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#2 \"Darby Ram\"",
+   "region": "Dry Tortuga region - Havana",
+   "where": "On the beams linking the ships at the dock.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#3 \"Billy Reily\"",
+   "region": "Dry Tortuga region - Havana",
+   "where": "On a rooftop near the Tavern.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#4 \"Dead Horse\"",
+   "region": "Dry Tortuga region - Havana",
+   "where": "On a rooftop toward the south.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#5 \"Bully In The Alley\"",
+   "region": "Dry Tortuga region - Havana",
+   "where": "On a clothesline spanning two buildings.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#6 \"Running Down To Cuba\"",
+   "region": "Dry Tortuga region - Havana",
+   "where": "On a clothesline spanning two buildings.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#7 \"Spanish Ladies\"",
+   "region": "Dry Tortuga region - Havana",
+   "where": "On top of a building.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#8 \"The Coasts of High Barbary\"",
+   "region": "Dry Tortuga region - Havana",
+   "where": "On a clothesline spanning two buildings.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#9 \"Fish In The Sea\"",
+   "region": "Dry Tortuga region - Salt Key Bank",
+   "where": "On a clothesline spanning two buildings.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#10 \"Leave Her, Johnny\"",
+   "region": "Eleuthera region - Nassau",
+   "where": "On the ground near the collapsed trees.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#11 \"Stormalong John\"",
+   "region": "Eleuthera region - Nassau",
+   "where": "On the ground beside the tents.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#12 \"Drunken Sailor\"",
+   "region": "Eleuthera region - Nassau",
+   "where": "On a building roof.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#13 \"Paddy Doyle's Boots\"",
+   "region": "Eleuthera region - Nassau",
+   "where": "On a building roof.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#14 \"Randy Dandy-O\"",
+   "region": "Eleuthera region - Nassau",
+   "where": "On a building roof.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#15 \"The Rio Grande\"",
+   "region": "Eleuthera region - Cat Island",
+   "where": "On one of the tree stumps.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#16 \"Whiskey Johnny\"",
+   "region": "Gibara region - Great Inagua",
+   "where": "In one of the trees.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#17 \"The Wild Goose\"",
+   "region": "Gibara region - Great Inagua",
+   "where": "Between two branches next to the Mayan stele.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#18 \"Reuben Ranzo\"",
+   "region": "Gibara region - Great Inagua",
+   "where": "Obtained from a marked local event by taking the paper from the table.",
+   "gate": "Does not count toward the area tracker, so easy to miss.",
+   "reward": ""
+  },
+  {
+   "name": "#19 \"Captain Kidd\"",
+   "region": "Cruz region - Grand Cayman",
+   "where": "On a tree between the Assassins' Contract and the Tavern; it flies off when approached, so chase it until it settles.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#20 \"A Long Time Ago\"",
+   "region": "Castillo de Jagua region - Arroyos",
+   "where": "On top of the middle house; it flies off when approached, so chase it until it settles.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#21 \"Roll and Go\"",
+   "region": "Navassa region - Kingston",
+   "where": "Just off the shore in the south.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#22 \"Hi-Ho Come Roll Me Over\"",
+   "region": "Navassa region - Kingston",
+   "where": "On a rooftop southwest of the church.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#23 \"Good Morning Ladies All\"",
+   "region": "Navassa region - Kingston",
+   "where": "On a rooftop west of the church.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#24 \"Handy Me Boys\"",
+   "region": "Navassa region - Kingston",
+   "where": "On a rooftop north of the church, across the street.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#25 \"The Sailboat Malarkey\"",
+   "region": "Navassa region - Kingston",
+   "where": "Just east of the church in the town centre.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#26 \"Cheerly Man\"",
+   "region": "Navassa region - Kingston",
+   "where": "On a rooftop southeast of the church in the middle of town.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "#27 \"Blow The Man Down\"",
+   "region": "Principe region - Principe",
+   "where": "On a beam between two buildings.",
+   "gate": "Only reachable during or after Sequence 09, Mission 02 (Trust is Earned).",
+   "reward": ""
+  },
+  {
+   "name": "#28 \"The Wellerman\"",
+   "region": "Listed under Principe by the page; earned via the Restored Yellowed Map",
+   "where": "Hardest sheet. Rebuild the Treasure Dealer at the Great Inagua docks (available in Sequence 4); the Restored Yellowed Map hunt gives it.",
+   "gate": "Needs 10 Yellowed Map Pieces and 100 Aloe. Pieces are random rewards from schooner trade missions in Kenway's Fleet (tip: save before accepting fleet reports and reload to reroll). Aloe sometimes comes from fleet piracy missions in the southwest.",
+   "reward": ""
+  }
+ ],
+ "gaps": [],
+ "notes": "Page lists all 28. Entry 28 is grouped under Principe by the page but is earned via the Restored Yellowed Map (treasure at Black Island per the treasure map page). Reward for 28 is not explicitly stated."
+}

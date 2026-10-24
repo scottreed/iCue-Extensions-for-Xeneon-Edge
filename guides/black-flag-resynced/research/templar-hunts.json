@@ -1,0 +1,280 @@
+{
+  "retrieved": "2026-10-24",
+  "hunts": [
+    {
+      "name": "Rhona Dinsmore",
+      "start": "Unlocks after the main mission This Old Cove. Rhona is at the Assassin's Bureau on the southeast edge of Havana; you hear fighting before the marker appears. Speaking to her starts the first mission.",
+      "reward": "One Templar Key, dropped by the final target Hilary Flint. The last mission ends with a report back to Rhona at the Bureau.",
+      "source": "https://games.gg/assassins-creed-black-flag-resynced/guides/ac-black-flag-resynced-rhona-dinsmore-templar-hunt-walkthrough/ ; https://gamingpromax.com/assassins-creed-black-flag-resynced-all-templar-hunts-walkthrough/",
+      "missions": [
+        {
+          "name": "Bureau Under Attack",
+          "steps": [
+            "Defend the Bureau against three waves of soldiers coming through three entrances.",
+            "Before a wave, pick up the powder kegs in the courtyard and carry them to the entrances.",
+            "Shoot a keg when guards bunch up at an entrance to clear several at once.",
+            "Finish off survivors with swords and pistols.",
+            "Survive all three waves to complete the mission."
+          ],
+          "tips": [
+            "Health and ammo sit on the tables in front of the Bureau.",
+            "Kegs are optional, but one shot can kill several soldiers.",
+            "Sources differ on whether Rhona places a keg every round or only between waves."
+          ],
+          "gaps": ["Pages do not describe what each wave contains."]
+        },
+        {
+          "name": "A Thief in the Market",
+          "steps": [
+            "Find Rhona on a stone pergola roof in northwest Havana and talk to her.",
+            "Go northeast to the market and use Eagle Vision to spot two glowing merchants; talk to both.",
+            "Sit on a nearby bench until the thief appears and runs.",
+            "Chase him; he ends up at a dead end near stairs and a patio and fights.",
+            "Defeat him and loot the body for the Pickpocketed Map, which reveals three gunpowder stores.",
+            "Clear any wanted level, then report back to Rhona at the Bureau."
+          ],
+          "tips": [
+            "He is slow, so catching him is easy; wait at the dead end if you fall behind.",
+            "The mission will not complete while you are wanted."
+          ],
+          "gaps": ["No exact map coordinates for the market."]
+        },
+        {
+          "name": "Arms Race",
+          "steps": [
+            "Destroy three gunpowder reserves shown on the map.",
+            "Reserve 1 (northeast, between buildings): deal with the rooftop sniper, then shoot the barrel from a rooftop; the other source says to double-assassinate the two guards in front and ignite it.",
+            "Reserve 2 (northwest, under a pergola): remove the two rooftop snipers with rooftop takedowns or the Rope Dart, double-assassinate the guards at the barrel, then ignite it.",
+            "Reserve 3 (further northwest, in an alcove): guards and snipers cover it; whistle guards over one at a time from bushes, or drop in behind the awning, then ignite it.",
+            "If there is no clean approach, detonate a barrel by hand and run clear."
+          ],
+          "tips": [
+            "Stealth is not required.",
+            "Blast damage close to a barrel is heavy, so get away after igniting.",
+            "The Jackdaw can take damage in the missions before Flint's End."
+          ],
+          "gaps": ["The two pages describe the layout and order of reserves 1 and 2 differently."]
+        },
+        {
+          "name": "Flint's End",
+          "steps": [
+            "Find Rhona on a dockside rooftop and follow her across the rooftops to the docks.",
+            "She drops down and draws the guards around Hilary Flint.",
+            "Once guards converge on her, drop down and mark Flint with Eagle Vision.",
+            "Flint retreats to the pier and shoots from range; close in and fight with swords.",
+            "Hold the interact button beside his body to confirm the kill (Templar Key).",
+            "Watch the cutscene and return to Rhona at the Bureau to close the hunt."
+          ],
+          "tips": ["An explosive barrel on the pier next to him gives a faster kill."],
+          "gaps": []
+        }
+      ],
+      "gaps": [
+        "Sources disagree on this key's number (one calls it key 2, another says four keys in total).",
+        "Mobalytics pages returned 403 and were not read.",
+        "gamingpromax suggests doing this hunt first (shortest, no sailing); not confirmed elsewhere."
+      ]
+    },
+    {
+      "name": "Anto",
+      "start": "Anto is inside the Assassin's Bureau in Kingston; speak to him to begin. gamingpromax says the hunt only unlocks after the main mission A Governor No Longer; games.gg lists no prerequisite.",
+      "reward": "One Templar Key, dropped by the final target Kenneth Abraham; return to Anto at the Bureau to close the hunt.",
+      "source": "https://games.gg/assassins-creed-black-flag-resynced/guides/ac-black-flag-resynced-anto-templar-hunt-walkthrough/ ; https://gamingpromax.com/assassins-creed-black-flag-resynced-all-templar-hunts-walkthrough/",
+      "missions": [
+        {
+          "name": "The Maroon Assassin",
+          "steps": [
+            "Enter the Kingston tavern and take the Notice of Dismissal from the desk.",
+            "It points to a nearby church; listen to the guards there, who then scatter.",
+            "One guard walks off alone to the left, two go right; follow the lone one.",
+            "Catch and tackle him, then question him.",
+            "Report back to Anto at the Bureau."
+          ],
+          "tips": ["Going left at the church is easier than chasing the pair."],
+          "gaps": ["Exact tavern and church locations are not given."]
+        },
+        {
+          "name": "Recruiting Maroons",
+          "steps": [
+            "Follow Anto to the area before entering the guarded zones.",
+            "Optionally hire the nearby drunkards for 150 Reales so they draw guards' attention.",
+            "Visit the three green markers and kill the guards holding each group of prisoners; aerial assassinations from rooftops work.",
+            "After all three are freed, spot the guard officer with Eagle Vision (green marker over his head).",
+            "Hide in a haystack and whistle guards over one by one, saving the officer for last.",
+            "Go south to the cemetery to meet Anto, then return to the Bureau."
+          ],
+          "tips": ["Stealth is not required.", "The drunkards pull several guards away from you."],
+          "gaps": ["games.gg spells the currency 'Reules', gamingpromax 'Reales'; the amount is 150 on both."]
+        },
+        {
+          "name": "Under Attack",
+          "steps": [
+            "Talk to Anto at the Bureau; soldiers attack at once.",
+            "Hold the Bureau through three waves (the second harder, the third the final push).",
+            "Use the healing items and ammo stocked inside between waves.",
+            "Check the rooftop, since the last enemy of the final wave tends to stay there.",
+            "Afterwards speak to Anto; he sends you to meet him at the marketplace for the final mission."
+          ],
+          "tips": ["Look at the rooftops before assuming a wave is over."],
+          "gaps": []
+        },
+        {
+          "name": "The Commander's Ruse",
+          "steps": [
+            "Tail the officers in the marketplace to a restricted party area.",
+            "Listen to the officers at the entrance: Kenneth Abraham is near the buffet in the north.",
+            "Sit in a bush, whistle a guard over, kill him, then move to the next bush, working north.",
+            "Use the same trick to lure Kenneth into a bush and kill him there to avoid a full alert.",
+            "If you lose him, use Eagle Vision near the buffet to reveal his marker.",
+            "Collect the Templar Key and return to Anto at the Bureau."
+          ],
+          "tips": ["Stealth is easiest here but not required."],
+          "gaps": []
+        }
+      ],
+      "gaps": [
+        "The prerequisite (A Governor No Longer) is stated by only one source.",
+        "Sources call this key either the fourth key or one of four.",
+        "Mobalytics pages returned 403 and were not read."
+      ]
+    },
+    {
+      "name": "Vance Travers",
+      "start": "Unlocks after This Old Cove. The hunt is listed as Upton Travers, but it begins when you speak to his brother Vance, outside a small wooden house on the south coast of Eleuthera, Nassau.",
+      "reward": "Third Templar Key per the sources, dropped by the final target Jing Lang; report to Upton to close the hunt.",
+      "source": "https://allthings.how/black-flag-resynced-upton-travers-templar-hunt-walkthrough/ ; https://games.gg/assassins-creed-black-flag-resynced/guides/ac-black-flag-resynced-upton-travers-templar-hunt-full-walkthrough/ ; https://gamingpromax.com/assassins-creed-black-flag-resynced-all-templar-hunts-walkthrough/",
+      "missions": [
+        {
+          "name": "Oh Brother...",
+          "steps": [
+            "Head north to the market and enter the marked Explore area.",
+            "Use Eagle Vision to spot Upton's men (green).",
+            "Tail them to the hideout, or fight them; killing them shrinks the search area.",
+            "Follow the marker west to the hideout, where Upton is in a courtyard.",
+            "Approach through grass or from the rooftops and try to kill him.",
+            "A cutscene stops it: Upton runs the local Assassin Bureau and Vance lied to you. Go to Upton at the Bureau."
+          ],
+          "tips": ["Fighting the men is fine and makes the hideout easier to find."],
+          "gaps": []
+        },
+        {
+          "name": "The Other Brother",
+          "steps": [
+            "Meet Upton at the Nassau Bureau and follow him to a vantage point.",
+            "Hide in nearby bushes and eavesdrop on Upton and Vance; follow Upton afterwards.",
+            "Kill Jing Lang's men around a house, garden guards first, then the pair at the entrance.",
+            "Search the house for Jing Lang's letter on a wooden crate; it says Vance took his half of the map to meet her.",
+            "Go to the tavern and eavesdrop on Vance and Jing Lang unseen; hiding under the wooden stairs beside it works.",
+            "Learn that Vance hired killers for Upton; return to the hideout, beat the soldiers and defend Upton.",
+            "Talk to Upton, who then heads to the tavern."
+          ],
+          "tips": ["The next mission starts as soon as you speak to Upton, so do not linger."],
+          "gaps": ["Pages disagree on where the letter lies (right side of the house vs north side under an awning)."]
+        },
+        {
+          "name": "Upton's Sorrow",
+          "steps": [
+            "Meet drunk Upton at the tavern; he starts a brawl.",
+            "Beat the attackers while keeping Upton safe.",
+            "Escort him home; when he stops for dancers, pay them 100 Reales.",
+            "Kill the guards drawn by Upton relieving himself in the street.",
+            "Talk to Upton to finish."
+          ],
+          "tips": ["Carry at least 100 Reales first; the payment is required."],
+          "gaps": ["gamingpromax splits the tavern part into a separate mission named A Grave Error, so mission names and boundaries differ by source."]
+        },
+        {
+          "name": "Queen of Pirates, King of Fools",
+          "steps": [
+            "Find sober Upton in the eastern swamp; he asks you to kill Vance and recover the key.",
+            "Move through the trees to bypass guards, killing those loading a boat if you wish.",
+            "Use Eagle Vision and look north for a green marker beside a white tent.",
+            "Clear guards near the tent and assassinate Vance; a sleep dart can knock him out first.",
+            "After the cutscene Jing Lang flees into the swamp; chase her until she stops to fight with two guards.",
+            "Defeat the guards, then kill Jing Lang to get the Templar Key.",
+            "Report back to Upton."
+          ],
+          "tips": ["Jing Lang takes no damage while running, so save ammo."],
+          "gaps": ["gamingpromax calls the last mission A Governor No Longer and describes only Jing Lang as the target."]
+        }
+      ],
+      "gaps": [
+        "Mission names conflict between sources (Upton's Sorrow / A Grave Error; Queen of Pirates, King of Fools / A Governor No Longer).",
+        "Mobalytics pages returned 403 and were not read."
+      ]
+    },
+    {
+      "name": "Opia Anito",
+      "start": "Opia is at Castillo de Jagua on Cayman Sound. The sources spell her name Apito. Hostile ships patrol the approach: sink them, or leave the Jackdaw 200 to 300 metres out and swim in.",
+      "reward": "Digested Map Piece (mission 1) and the final Templar Key (fifth per the sources) from Lucia Marquez; completes all four hunts and the Damn Fine Gear side quest.",
+      "source": "https://games.gg/assassins-creed-black-flag-resynced/guides/ac-black-flag-resynced-opia-apito-templar-hunt-walkthrough/ ; https://gamingpromax.com/assassins-creed-black-flag-resynced-all-templar-hunts-walkthrough/",
+      "missions": [
+        {
+          "name": "The Taino Assassin",
+          "steps": [
+            "Greet Opia and follow her into the camp.",
+            "Use Eagle Vision on the tree with claw marks and the blood puddle; talk to Opia.",
+            "Follow the trail to the dead guards and take the right branch at the fork.",
+            "Kill the White Jaguar.",
+            "Watch the cutscene, then go to the docks in the far east of Castillo de Jagua near Grand Cayman."
+          ],
+          "tips": ["Sleep dart then assassinate for a one-move kill.", "Without darts use heavy attacks and dodge its charges."],
+          "gaps": []
+        },
+        {
+          "name": "Templar Ships",
+          "steps": [
+            "Follow Opia to the Grand Cayman docks; she asks you to investigate the Templar presence.",
+            "Sit on the bench at the marker and listen to two locals talk about the King of Fishermen.",
+            "Go west to the Viewpoint and use Eagle Vision in the search zone to spot the King.",
+            "Tail him and pickpocket the Bill of Sale from behind.",
+            "Meet Opia east of Grand Cayman near the Viewpoint and hand it over."
+          ],
+          "tips": ["If he sees you he turns hostile and you must fight him."],
+          "gaps": ["gamingpromax mentions naval combat in this mission; games.gg does not."]
+        },
+        {
+          "name": "Right-Hand Man",
+          "steps": [
+            "Opia explains that Vargas is Lucia Marquez's right hand and takes you to his house.",
+            "Hide in the hay bale across from his door; when Opia knocks, Vargas runs.",
+            "Chase him on foot; he escapes by ship, so pursue in the Jackdaw.",
+            "Damage his ship enough to board without sinking it.",
+            "Board and kill Vargas."
+          ],
+          "tips": [
+            "Too much cannon fire fails the objective.",
+            "Clearing the whole crew first can trigger a marker bug with no target; reload your last save.",
+            "Repair the Jackdaw before heading to Pinos Isle."
+          ],
+          "gaps": ["gamingpromax describes this only as tracking Vargas and killing him and his guards, without the ship chase."]
+        },
+        {
+          "name": "The Trail of Lucia Marquez",
+          "steps": [
+            "Meet Opia on the Pinos Isle beach and wait until night.",
+            "Go through the Templar camp with her, using bushes and shared takedowns on guards.",
+            "At the ziggurat ruins, kill all seven of Lucia's men; a second wave follows, so keep Opia safe.",
+            "Use Eagle Vision to find Lucia east of the ruins; she runs with two guards.",
+            "Clear her guards and kill her; hold the interact button to confirm.",
+            "Watch the cutscene and talk to Opia to close the hunt (final key)."
+          ],
+          "tips": ["Sleep darts thrown at clustered groups keep the ziggurat fight quiet."],
+          "gaps": ["Pinos Isle docks are guarded; sink the ships or swim in."]
+        }
+      ],
+      "gaps": [
+        "Name spelling: the brief says Anito, the sources say Apito.",
+        "Mobalytics pages returned 403 and were not read.",
+        "Map coordinates for the start (304, 311) come from one source only."
+      ]
+    }
+  ],
+  "gaps": [
+    "Mobalytics pages returned 403; Vulkk and Gamerguides Resynced pages were not fetched.",
+    "Key numbering conflicts: the suit cage needs five keys, the first from the story mission, so the hunts give keys 2 to 5, but some pages say four keys in total.",
+    "Per-mission reales rewards were only found for the original game (Prima), not Resynced, so none are recorded.",
+    "Mission names and splits differ between sources for the Vance Travers hunt."
+  ],
+  "notes": "Reconciled from games.gg, gamingpromax and allthings.how (Resynced pages). Rewritten in own words; conflicts are listed in gaps."
+}

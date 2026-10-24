@@ -1,0 +1,222 @@
+{
+ "category": "Treasure Maps",
+ "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-treasure-map-locations-solutions/",
+ "retrieved": "2026-10-24",
+ "stated_total": 30,
+ "items": [
+  {
+   "name": "#1 Havana map",
+   "region": "Dry Tortuga - Havana",
+   "where": "Map obtained: In a gutter in the south of Havana. Treasure: Havana, southern shore below a tower.",
+   "gate": "",
+   "reward": "Queen Anne's Figurehead Design Plan, 3000 Reales"
+  },
+  {
+   "name": "#2 Havana Warehouse map",
+   "region": "Dry Tortuga - Havana",
+   "where": "Map obtained: Loot the warehouse. Treasure: Anotto Bay: through an underwater tunnel past a broken diving bell, then a cave room with pirates and explosive barrels; dig in front of the middle barrel near the exit.",
+   "gate": "Diving; explosive barrels",
+   "reward": "Crimson Cloak (Rare Outfit), 2000 Reales"
+  },
+  {
+   "name": "#3 Map of Shipwreck",
+   "region": "Dry Tortuga - Havana",
+   "where": "Map obtained: From the Smelly Sailors event note at the docks. Treasure: Unmarked island northeast of Havana (named Dry Tortuga); two underwater chests mid-island, nothing to dig; the map stays in inventory.",
+   "gate": "Diving",
+   "reward": "Guardian Beast Trinket (Legendary), 1000 Reales"
+  },
+  {
+   "name": "#4 Cape Bonavista map",
+   "region": "Dry Tortuga - Cape Bonavista",
+   "where": "Map obtained: In a cave reached from a scaffold (page sentence is cut off). Treasure: Cape Bonavista: big cave entered from the south beach, at its end in a small puddle.",
+   "gate": "",
+   "reward": "1500 Reales"
+  },
+  {
+   "name": "#5 Nassau Warehouse map",
+   "region": "Eleuthera - Nassau",
+   "where": "Map obtained: Loot the warehouse. Treasure: Isla Providencia: sand south of the southernmost viewpoint, below three palms.",
+   "gate": "Isla Providencia unlocks after Sequence 08, Mission 03",
+   "reward": "Governor's Outfit (Rare), 2000 Reales"
+  },
+  {
+   "name": "#6 Andreas Island map",
+   "region": "Eleuthera - Andreas Island",
+   "where": "Map obtained: Southern shoreline, from a skeleton. Treasure: Abaco Island: between palms beside a large shipwreck.",
+   "gate": "",
+   "reward": "Earth Monster Relief (art piece), 2500 Reales"
+  },
+  {
+   "name": "#7 Abaco Island map",
+   "region": "Eleuthera - Abaco Island",
+   "where": "Map obtained: Southwest shore, from a skeleton leaning on a palm. Treasure: Salt Lagoon: sand in front of the tallest beach rock.",
+   "gate": "",
+   "reward": "Serpent Figurehead Design Plan, 3000 Reales"
+  },
+  {
+   "name": "#8 Mariguana Island map",
+   "region": "Gibara - Mariguana Island",
+   "where": "Map obtained: Small cave on the north approach; crawl through a tunnel hidden by leaves. Treasure: Andreas Island: small islet to the south.",
+   "gate": "Crouching through tunnel",
+   "reward": "Harpoon Strength Ultimate Plan, 3000 Reales"
+  },
+  {
+   "name": "#9 Great Inagua map",
+   "region": "Gibara - Great Inagua",
+   "where": "Map obtained: Climb trees on the beach to reach a cave. Treasure: Nassau: west edge of town, below a cliff jutting from the mountain.",
+   "gate": "Climbing",
+   "reward": "Elite Sails Design Plan, 3000 Reales"
+  },
+  {
+   "name": "#10 Treasure Map (Great Inagua Manor)",
+   "region": "Gibara - Great Inagua",
+   "where": "Map obtained: Reward for hanging all 11 character portraits in Great Inagua Manor. Treasure: Great Inagua: southern beach below a palm; reachable by ship or on foot.",
+   "gate": "Complete the portrait set",
+   "reward": "The Fortune (Legendary Cutlass)"
+  },
+  {
+   "name": "#11 Salt Lagoon map",
+   "region": "Gibara - Salt Lagoon",
+   "where": "Map obtained: Northeast shore, from a skeleton. Treasure: New Bone: small islet to the north.",
+   "gate": "",
+   "reward": "Maize Deity (art piece), 2500 Reales"
+  },
+  {
+   "name": "#12 Tortuga map",
+   "region": "Punta Guarico - Tortuga",
+   "where": "Map obtained: East shore, from a skeleton. Treasure: Matanzas: southeast corner, left of the Mayan stele behind a waterfall.",
+   "gate": "",
+   "reward": "Mortar Storage Ultimate Plan, 3000 Reales"
+  },
+  {
+   "name": "#13 Petite Caverne map",
+   "region": "Petite Caverne",
+   "where": "Map obtained: From a skeleton inside the cave. Treasure: Tulum: southernmost tip, on the beach behind a shipwreck.",
+   "gate": "",
+   "reward": "Fire Barrel Storage Ultimate Plan, 3000 Reales"
+  },
+  {
+   "name": "#14 Cumberland Bay map",
+   "region": "Punta Guarico - Cumberland Bay",
+   "where": "Map obtained: South shore, from a skeleton. Treasure: Pinos Isle: northwest corner of the viewpoint temple, in the grass.",
+   "gate": "",
+   "reward": "Ivory Wheel Design Plan, 3000 Reales"
+  },
+  {
+   "name": "#15 Cayman Sound map",
+   "region": "Castillo de Jagua - Cayman Sound",
+   "where": "Map obtained: On the beach, from a skeleton. Treasure: Petite Caverne: southern edge, behind rocks and a waterfall at the hutia spot.",
+   "gate": "",
+   "reward": "Heavy Shot Storage Ultimate Plan, 3000 Reales"
+  },
+  {
+   "name": "#16 Pinos Isle map",
+   "region": "Castillo de Jagua - Pinos Isle",
+   "where": "Map obtained: Northern ruins, from a skeleton; enemies present. Treasure: Cayman Sound: northeast shore between palms.",
+   "gate": "",
+   "reward": "4000 Reales"
+  },
+  {
+   "name": "#17 Santanillas map",
+   "region": "Chinchorro - Santanillas",
+   "where": "Map obtained: Small hill, climb via branches. Treasure: San Juan: swim through the underwater tunnel into a cave, just before the wooden scaffold.",
+   "gate": "Swimming; one enemy",
+   "reward": "Fire Barrel Strength Ultimate Plan, 3000 Reales"
+  },
+  {
+   "name": "#18 Ambergris Key map",
+   "region": "Ambergris Key",
+   "where": "Map obtained: Underwater tunnel to a big room with a locked chest and enemies; climb pillars to the upper floor. Treasure: Misteriosa: behind the top level of the Mayan temple, left of a fountain, in grass behind white flowers.",
+   "gate": "Swimming; climbing",
+   "reward": "Heavy Shot Strength Ultimate Plan, 3000 Reales"
+  },
+  {
+   "name": "#19 Corozal map",
+   "region": "Chinchorro - Corozal",
+   "where": "Map obtained: Small northeast islet, from a skeleton. Treasure: Ambergris Key: follow red jellyfish through the underwater tunnel and check the left corner inside.",
+   "gate": "Diving",
+   "reward": "Pirate Captain Outfit (Rare), 2000 Reales"
+  },
+  {
+   "name": "#20 Misteriosa map",
+   "region": "Serranilla - Misteriosa",
+   "where": "Map obtained: Below the viewpoint, from a skeleton in the ruins (climb down). Treasure: Kingston: small southeast beach between two broken boat pieces.",
+   "gate": "",
+   "reward": "Gilded Hull Design Plan, 3000 Reales"
+  },
+  {
+   "name": "#21 Isla Providencia map",
+   "region": "Serranilla - Isla Providencia",
+   "where": "Map obtained: North beach, up a muddy path and a small brown trail between trees. Treasure: Long Bay: sand just south of three huts beside the viewpoint.",
+   "gate": "Long Bay unlocks after Sequence 10, Mission 03",
+   "reward": "Scottish Broadswords (Rare Melee)"
+  },
+  {
+   "name": "#22 Port Royal map",
+   "region": "Navassa - Port Royal",
+   "where": "Map obtained: At a grave, from a skeleton. Treasure: Principe: southeast shore at a palm leaning over the water.",
+   "gate": "Principe unlocks during or after Sequence 09, Mission 02",
+   "reward": "Standard Bearer (art piece), 2500 Reales"
+  },
+  {
+   "name": "#23 Ile a Vache map",
+   "region": "Navassa - Ile a Vache",
+   "where": "Map obtained: Northeast shore, from a skeleton. Treasure: Jiguey: inside the cave's pirate section, swim to the beach with a brute; sand on the right between palms.",
+   "gate": "Swimming; combat",
+   "reward": "Baroque Guitar (art piece), 2500 Reales"
+  },
+  {
+   "name": "#24 Kingston Warehouse map",
+   "region": "Navassa - Kingston",
+   "where": "Map obtained: Loot the warehouse in the southwest. Treasure: Cumberland Bay: sand beside an interactive rowboat.",
+   "gate": "",
+   "reward": "4000 Reales"
+  },
+  {
+   "name": "#25 Blackbeard's Treasure Map",
+   "region": "Story (Sequence 08, Mission 01)",
+   "where": "Map obtained: Given automatically by the cutscene ending Sequence 08, Mission 01. Treasure: Anotto Bay (quest Blackbeard's Treasure): blow two walls past pirate rooms with explosive barrels; treasure is behind the second wall. Turn it in at the chest on Great Inagua.",
+   "gate": "Quest; explosive barrels; underwater entry",
+   "reward": "Blackbeard's Portrait"
+  },
+  {
+   "name": "#26 Restored Weathered Map",
+   "region": "Great Inagua docks (treasure dealer)",
+   "where": "Map obtained: Treasure dealer (available from Sequence 4). Treasure: Mystery Island, eastern half: in a round rock formation beside a haystack.",
+   "gate": "6 Weathered Pieces + 350 Tobacco; pieces are in chests in five caves (keys from pirate leaders), one is bought from the dealer",
+   "reward": "Persian Scimitars; Gargoyle's Breath"
+  },
+  {
+   "name": "#27 Restored Yellowed Map",
+   "region": "Great Inagua docks (treasure dealer)",
+   "where": "Map obtained: Treasure dealer (from Sequence 4). Treasure: Black Island: northeast shore, sand beside a shipwreck.",
+   "gate": "10 Yellowed Pieces + 100 Aloe; pieces are random Kenway's Fleet schooner rewards",
+   "reward": "Obsidian Sails; The Wellerman (shanty); Helm of the Night Owl"
+  },
+  {
+   "name": "#28 Restored Digested Map",
+   "region": "Great Inagua docks (treasure dealer)",
+   "where": "Map obtained: Treasure dealer (from Sequence 4). Treasure: Santanillas: cave under the southern temple, entered from the beach or a well to the south.",
+   "gate": "2 Digested Pieces + 200 Rum; pieces drop from the White Jaguar on Great Inagua (slow respawn); rum from Gibara ships",
+   "reward": "Hunter Outfit (Rare); Hunter's Amulet (Rare)"
+  },
+  {
+   "name": "#29 Restored Tattered Map",
+   "region": "Great Inagua docks (treasure dealer)",
+   "where": "Map obtained: Treasure dealer (from Sequence 4). Treasure: Florida: northern tip, sand below three palms.",
+   "gate": "3 Tattered Pieces + 200 Sugar; pieces from captain's lockboxes on Frigate/Man-o-War hunters (wanted level 3-4); sugar from Gibara ships",
+   "reward": "Elite Wheel; Gilt Lined Sails; Sleek Crew Attire"
+  },
+  {
+   "name": "#30 Restored Preserved Map",
+   "region": "Great Inagua docks (treasure dealer)",
+   "where": "Map obtained: Treasure dealer (from Sequence 4). Treasure: Sacrifice Island: southwest shore, sand under a rock arch.",
+   "gate": "4 Preserved Pieces + 150 Tobacco; pieces from looting the 9 warehouses on a second visit (2-hour cooldown)",
+   "reward": "Shade and Shadow Robes; Wooden Eyeball"
+  }
+ ],
+ "gaps": [
+  "Entry 4: page sentence on where the map is found is cut off mid-phrase."
+ ],
+ "notes": "Each item's region field is where the map is obtained; the buried-treasure location is inside 'where'. The page names each map by inventory name and buried-at name; item names here are short labels from the obtained-at name. Dealer maps 26-30 are made at the Great Inagua docks treasure dealer."
+}

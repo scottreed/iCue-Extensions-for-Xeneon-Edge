@@ -1,0 +1,145 @@
+{
+  "category": "pistols",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-pistol-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 0,
+  "items": [
+    {
+      "name": "Blackbeard's Crimson Pistols",
+      "region": "Not stated",
+      "where": "Crimson Pack pre-order bonus",
+      "gate": "Pre-order only",
+      "reward": "Legendary"
+    },
+    {
+      "name": "Darkworker's Pistols",
+      "region": "Online store",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Master Assassin DLC (also in Deluxe Edition)",
+      "reward": "Legendary"
+    },
+    {
+      "name": "Dragon's Roar Pistols",
+      "region": "Online store",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Dragon Storm DLC",
+      "reward": "Legendary"
+    },
+    {
+      "name": "Diabolist's Pistols",
+      "region": "Online store",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Hellfire DLC",
+      "reward": "Legendary"
+    },
+    {
+      "name": "Fury of the Deep Pistols",
+      "region": "Online store",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Sea Serpent DLC",
+      "reward": "Legendary"
+    },
+    {
+      "name": "Dark Animus Corsair Flintlocks",
+      "region": "Animus rift in ship's cabin",
+      "where": "Reward of the Eye in the Dark project",
+      "gate": "",
+      "reward": "Legendary"
+    },
+    {
+      "name": "Golden Flintlock Pistols",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 18,000 Reales",
+      "gate": "Store upgrade level 3",
+      "reward": "Legendary"
+    },
+    {
+      "name": "Gargoyle's Breath",
+      "region": "Not stated",
+      "where": "Treasure reward from the Restored Weathered Map",
+      "gate": "",
+      "reward": "Legendary"
+    },
+    {
+      "name": "Captain Drake's Flintlocks",
+      "region": "Unmarked island NW of Gibara (550, 638)",
+      "where": "Bought at the secret General Store for 22,000 Reales",
+      "gate": "",
+      "reward": "Legendary"
+    },
+    {
+      "name": "Rustic Flintlocks",
+      "region": "Online store",
+      "where": "Free; claim via the Options button on the map",
+      "gate": "",
+      "reward": "Legendary"
+    },
+    {
+      "name": "Peaceful Means",
+      "region": "Great Inagua docks (Treasure Dealer)",
+      "where": "Bought with 3 Capuchin Monkey Pelt, 4 Iguana Leather, 20 Rum Barrels",
+      "gate": "Build Treasure Dealer shop first (5,000 Reales)",
+      "reward": "Legendary"
+    },
+    {
+      "name": "Cannon-Barrel Pistols",
+      "region": "Jiguey (535, 511)",
+      "where": "Locked underwater chest",
+      "gate": "Key held by the pirate leader on the Jiguey beach, same cave",
+      "reward": "Rare"
+    },
+    {
+      "name": "Captain Morgan's Pistols",
+      "region": "Black Island (917, 616)",
+      "where": "Underwater chest",
+      "gate": "",
+      "reward": "Rare"
+    },
+    {
+      "name": "Captain's Wheellock Pistols",
+      "region": "Great Inagua (823, 448)",
+      "where": "In a chest",
+      "gate": "",
+      "reward": "Rare"
+    },
+    {
+      "name": "Spanish Officer Pistols",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 5,500 Reales",
+      "gate": "Store upgrade level 2",
+      "reward": "Rare"
+    },
+    {
+      "name": "Pirate Blunderbusses",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 6,000 Reales",
+      "gate": "Store upgrade level 2",
+      "reward": "Rare"
+    },
+    {
+      "name": "Baldwin's Golden Pistols",
+      "region": "Salt Key Bank and Great Inagua",
+      "where": "Reward for Lucy's officer quests; third quest is Plantain!",
+      "gate": "Available after Sequence 04, Mission 01; first do A Proper Shipwright (446, 620), then The One With the Gun (818, 445), then Plantain! (818, 445)",
+      "reward": "Rare"
+    },
+    {
+      "name": "Standard Wheellock Pistols",
+      "region": "Any General Store",
+      "where": "Bought for 800 Reales",
+      "gate": "",
+      "reward": "Common"
+    },
+    {
+      "name": "Common Flintlock Pistols",
+      "region": "Story",
+      "where": "Starting pistol, given automatically",
+      "gate": "",
+      "reward": "Common"
+    }
+  ],
+  "gaps": [
+    "Page gives no stats or effects for any pistol; no single stated total (needs at least 12 for Dilettante). Section headings sum to 17 but the list has 19; region for several DLC items not stated."
+  ],
+  "notes": "Count of 19 comes from the list itself."
+}

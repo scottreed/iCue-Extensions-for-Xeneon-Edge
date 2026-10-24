@@ -1,0 +1,110 @@
+{
+  "sequence": 4,
+  "source": "https://www.consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-guide-sequence-4-walkthrough",
+  "retrieved": "2026-10-24",
+  "memories": [
+    {
+      "name": "This Old Cove",
+      "objective": "Edward sets up Kidd's old hideout as a home base, which later grows into Great Inagua.",
+      "steps": [
+        "Follow Kidd to the ancient stone pillars after waking up.",
+        "Use vision to spot the ground markings, then climb the pillars and interact with them to reveal the markings.",
+        "Rotate and shrink each marking until it lines up under its matching pillar.",
+        "Dig at the glowing spot that appears to get the first Mayan Stone.",
+        "Follow Kidd into the manor and interact with the stacked chests near the entrance.",
+        "Go upstairs to the locked cage of Templar armor and use the Templar Key from du Casse.",
+        "Meet the butler to unlock the manor upgrades, side quests and Fleet Planning.",
+        "Talk to Kidd at the docks, then take rations to the Tavern for Adewale.",
+        "Speak with Adewale at the Tavern to unlock Officer Quests and the Dark Animus."
+      ],
+      "optional": [],
+      "tips": [
+        "Interact with the chests before going upstairs.",
+        "Each remaining Templar key is tied to a Templar Hunt, and the page says four more keys are needed."
+      ],
+      "gaps": [
+        "The page does not say where the pillars, the dig spot or the Tavern are on the map.",
+        "No controls given for the marking puzzle beyond rotate and shrink.",
+        "No per-memory optional objectives: the page says Resynced has none."
+      ]
+    },
+    {
+      "name": "Nothing Is True...",
+      "objective": "Edward sails to Tulum in the Conttoyor region and works through the jungle to find Kidd.",
+      "steps": [
+        "Sail southwest of Havana to Tulum and dock the Jackdaw.",
+        "Skip the wooden structure and climb the shipwreck viewpoint.",
+        "Use Observe to tag the patrolling soldiers.",
+        "Kill the beach guard, then a second patrol guard to the south.",
+        "Loop west around the wreck to find a chest in a small opening.",
+        "Go north and lure the group of about four soldiers one at a time from the bushes by whistling.",
+        "Continue west through the ruins, using bush cover; the east route has a gunner.",
+        "Use tree branches to go northwest past the waterfall guards, including a brute.",
+        "Head east along the trees until an Assassin ally deals with the soldiers.",
+        "Talk to Kidd, then follow him into the Mayan Temple."
+      ],
+      "optional": [],
+      "tips": [
+        "Bushes and tree branches give good cover.",
+        "Whistle-luring works well on the group of four."
+      ],
+      "gaps": [
+        "The page does not name the Assassin ally.",
+        "No exact positions or coordinates given for the chest or guards.",
+        "No optional objectives listed."
+      ]
+    },
+    {
+      "name": "The Sage's Buried Secret",
+      "objective": "A mostly platforming and puzzle memory inside a Mayan Temple that ends with Edward receiving the Blowpipe.",
+      "steps": [
+        "Follow Kidd until the bridge collapses.",
+        "Climb the branches on the northern wall, watching where light hits to find handholds.",
+        "At the last branch, jump to the red block and wait for it to lower, then repeat with the blue block to open the door.",
+        "In the next room, rotate the dial so the red section is under the red block, then step on the block to drop it.",
+        "Pass the room with the broken mechanism, dive and swim southeast, breathe at the air pocket, then swim northeast.",
+        "In the final puzzle, use the unmarked counterweight blocks to lift and move the misplaced red and blue blocks.",
+        "Rotate the dial to line up each colour and step on each block to slot it in, finishing with green.",
+        "Take the Blowpipe from Kidd once the door opens."
+      ],
+      "optional": [],
+      "tips": [
+        "Align the dial colour before stepping on a block.",
+        "There is an air pocket in the underwater section."
+      ],
+      "gaps": [
+        "The page does not give exact timing or counts for the dial rotations.",
+        "No optional objectives listed."
+      ]
+    },
+    {
+      "name": "Overrun and Outnumbered",
+      "objective": "Edward frees nine prisoners from a soldier-held camp using the new Blowpipe, then opens the temple door with the Mayan Stone.",
+      "steps": [
+        "Free the first prisoner just north of the temple exit, with Kidd helping to clear nearby soldiers.",
+        "Cross branches east, assassinate the guard below and take out the gunner on a building.",
+        "Cross the northwest branches to reach two guards near two prisoners and use the Blowpipe or stealth.",
+        "Climb a tree to the east and use a rope to reach the guard watching a prisoner by a campfire.",
+        "Climb the southern wall, cross the pillars and drop down to clear the guard between them.",
+        "Double assassinate the two guards holding two more prisoners to the east.",
+        "Climb a nearby building and sync the viewpoint to tag the remaining guards and prisoners.",
+        "Dive into the water to clear guards near two more prisoners, then go northeast to a lone guarded prisoner.",
+        "Sneak through bushes toward the huts to the south to deal with a gunner and two soldiers at a campfire.",
+        "Free the last prisoner to the east with a double assassination of its two guards.",
+        "Find Kidd east of the area near the pigeon coop to unlock Assassin Contracts.",
+        "Return to the temple and place the Mayan Stone from This Old Cove into the door."
+      ],
+      "optional": [],
+      "tips": [
+        "The viewpoint tags enemies and prisoners for the rest of the mission.",
+        "The Blowpipe takes guards out quietly."
+      ],
+      "gaps": [
+        "The page does not list which prisoner is which beyond the nine total.",
+        "Blowpipe controls and dart types are not described.",
+        "No optional objectives listed."
+      ]
+    }
+  ],
+  "notes": "Page says Resynced has no per-mission optional or full-sync objectives, so optional is empty everywhere. Page is not thin (about 3,500 words). Page also has a collectibles table: Great Inagua 1 viewpoint, 5 chests, 2 song sheets, 6 secrets; Tulum 1 viewpoint, 4 chests, 1 secret; some stay locked until later chapters. Completing the Mayan Stone door unlocks the Mayan Mysteries side quest line. Memory name on page is 'Nothing is True...'."
+}

@@ -1,0 +1,33 @@
+{
+  "category": "Ship models",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-ship-model-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 20,
+  "items": [
+    {"name": "Jackdaw", "region": "Not specified", "where": "Your own ship.", "gate": "Automatic story reward", "reward": "One Art Collection slot (Fleet Planning room)"},
+    {"name": "Nosso Senhor da Compreensao", "region": "Not specified", "where": "Not specified.", "gate": "Automatic story reward", "reward": "One Art Collection slot"},
+    {"name": "The Revenge", "region": "Not specified", "where": "Not specified.", "gate": "Automatic story reward", "reward": "One Art Collection slot"},
+    {"name": "The El Dorado", "region": "Not specified", "where": "Not specified.", "gate": "Automatic story reward", "reward": "One Art Collection slot"},
+    {"name": "Queen Anne's Revenge", "region": "Not specified", "where": "Not specified.", "gate": "Automatic story reward", "reward": "One Art Collection slot"},
+    {"name": "Spanish Cutter", "region": "Northern easy-difficulty waters (Dry Tortuga)", "where": "Sink one; these tiny ships cannot be boarded.", "gate": "Sink one", "reward": "One Art Collection slot"},
+    {"name": "Spanish Schooner", "region": "Northern easy waters (Dry Tortuga, Gibara)", "where": "Sink one.", "gate": "Sink one", "reward": "One Art Collection slot"},
+    {"name": "Spanish Brig", "region": "Easy and medium waters (Gibara, Cruz)", "where": "Sink one.", "gate": "Sink one", "reward": "One Art Collection slot"},
+    {"name": "Spanish Frigate", "region": "Southern hard waters (Chinchorro, Serranilla)", "where": "Sink one.", "gate": "Sink one", "reward": "One Art Collection slot"},
+    {"name": "Spanish Man o' War", "region": "Southern hard waters (Chinchorro, Serranilla)", "where": "Sink one.", "gate": "Sink one", "reward": "One Art Collection slot"},
+    {"name": "English Cutter", "region": "Northern easy-difficulty waters (Dry Tortuga)", "where": "Sink one; cannot be boarded.", "gate": "Sink one", "reward": "One Art Collection slot"},
+    {"name": "English Schooner", "region": "Northern easy waters (Dry Tortuga, Gibara)", "where": "Sink one.", "gate": "Sink one", "reward": "One Art Collection slot"},
+    {"name": "English Brig", "region": "Easy and medium waters (Gibara, Cruz)", "where": "Sink one.", "gate": "Sink one", "reward": "One Art Collection slot"},
+    {"name": "English Frigate", "region": "Southern hard waters (Chinchorro, Serranilla)", "where": "Sink one.", "gate": "Sink one", "reward": "One Art Collection slot"},
+    {"name": "English Man o' War", "region": "Southern hard waters (Chinchorro, Serranilla)", "where": "Sink one.", "gate": "Sink one", "reward": "One Art Collection slot"},
+    {"name": "El Impoluto", "region": "Not specified", "where": "Comes from beating this legendary ship.", "gate": "Defeat the legendary ship", "reward": "One Art Collection slot"},
+    {"name": "HMS Prince", "region": "Not specified", "where": "Comes from beating this legendary ship.", "gate": "Defeat the legendary ship", "reward": "One Art Collection slot"},
+    {"name": "La Dama Negra", "region": "Not specified", "where": "Comes from beating this legendary ship.", "gate": "Defeat the legendary ship", "reward": "One Art Collection slot"},
+    {"name": "Brothers in Arms", "region": "Not specified", "where": "Comes from beating the two-ship legendary fight (HMS Fearless and Royal Sovereign).", "gate": "Defeat the legendary ships", "reward": "One Art Collection slot"},
+    {"name": "HMS Ipswich", "region": "Great Inagua", "where": "End of side quest line A World Without Gold (8 steps: That Bastard Maynard, Not Even a Real Captain, What the Devil!, It's a Start, Not Our Natural Allies, I Just Want to Talk, A Cockalorum, A World Without Gold).", "gate": "Unlocks after Sequence 11 Mission 03 (Everything Is Permitted)", "reward": "One Art Collection slot"}
+  ],
+  "gaps": [
+    "Source gives no region or location for the story-reward and legendary-ship models.",
+    "The mapping of 'Brothers in Arms' to the Fearless/Royal Sovereign pair is inferred from the source's listing of it among legendary ship models."
+  ],
+  "notes": "All 20 fill Art Collection slots on the shelf in the Fleet Planning room at Great Inagua Manor, count toward the Dilettante trophy/achievement and show under Codex > Database > Art Collection: Ship Models. Identification: cutters are smallest, schooners small merchants, brigs have a front ram, frigates are medium with no ram, Man o' Wars are the large warships; the spyglass shows ship type."
+}

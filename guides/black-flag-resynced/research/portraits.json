@@ -1,0 +1,87 @@
+{
+  "category": "Character Portraits",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-character-portrait-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 11,
+  "items": [
+    {
+      "name": "Julien Du Casse",
+      "region": "Gibara / Great Inagua",
+      "where": "In Great Inagua Manor, in the room with the weapon display cases.",
+      "gate": "Needs story progress; collect after the story.",
+      "reward": "Portrait"
+    },
+    {
+      "name": "Laureano de Torres",
+      "region": "Dry Tortuga / Havana",
+      "where": "Northwest tower of the castle in northeast Havana; climb in through the open window from above using the wooden boards.",
+      "gate": "Needs story progress.",
+      "reward": "Portrait"
+    },
+    {
+      "name": "El Tiburon",
+      "region": "Dry Tortuga / Havana",
+      "where": "Inside the castle north of Havana; use the scaffold outside the corner to reach the open window. The in-game codex wrongly says Castillo.",
+      "gate": "Needs story progress.",
+      "reward": "Portrait"
+    },
+    {
+      "name": "Commodore Chamberlaine",
+      "region": "Eleuthera / Nassau",
+      "where": "Top floor of the manor in western Nassau, entered through a window.",
+      "gate": "Needs story progress.",
+      "reward": "Portrait"
+    },
+    {
+      "name": "Woodes Rogers",
+      "region": "Navassa / Kingston",
+      "where": "In a manor in central Kingston.",
+      "gate": "Reach Sequence 12 Mission 01.",
+      "reward": "Portrait"
+    },
+    {
+      "name": "Laurens Prins",
+      "region": "Navassa / Kingston",
+      "where": "In the plantation manor in western Kingston.",
+      "gate": "Reach Sequence 05 Mission 03.",
+      "reward": "Portrait"
+    },
+    {
+      "name": "Ben Hornigold",
+      "region": "Chinchorro / Santanillas",
+      "where": "On a shipwreck in the northeast corner of Santanillas.",
+      "gate": "No specific gate beyond story progress is given.",
+      "reward": "Portrait"
+    },
+    {
+      "name": "Bartholomew Roberts",
+      "region": "Principe",
+      "where": "Inside a tent in the northeast; use the P fast-travel icon on the world map and leave via the ship wheel.",
+      "gate": "Region opens at Sequence 09 Mission 02, but the portrait only appears later in Sequence 12.",
+      "reward": "Portrait"
+    },
+    {
+      "name": "Blackbeard",
+      "region": "Reward of side quest \"Blackbeard's Treasure\" (Anotto Bay, then Great Inagua)",
+      "where": "Dive from a damaged diving bell at Anotto Bay to an underwater tunnel, blow up two walls with explosive barrels to reach the treasure, then take it from the chest at Great Inagua.",
+      "gate": "Quest starts after Sequence 08 Mission 01.",
+      "reward": "Portrait"
+    },
+    {
+      "name": "Stede Bonnet",
+      "region": "Reward of side quest \"Captain Stede Bonnet\" (starts at Great Inagua; Mystery Island)",
+      "where": "Go to the stranded schooner on Mystery Island and follow the crewmates through the marked objectives.",
+      "gate": "Quest starts after Sequence 08 Mission 03.",
+      "reward": "Portrait"
+    },
+    {
+      "name": "Robert Maynard",
+      "region": "Reward of the \"A World Without Gold\" questline (Port Royal)",
+      "where": "Portrait shows up in Port Royal below the central viewpoint once you reach \"Maynard's Treasure\".",
+      "gate": "Questline starts after Sequence 11 Mission 03; it has 8 quests and the 4th needs Lucy Baldwin and The Padre recruited.",
+      "reward": "Portrait"
+    }
+  ],
+  "gaps": [],
+  "notes": "Hanging all 11 in Great Inagua Manor unlocks the bronze trophy The Memory of My Enemy. The page says all 11 are needed, though one commenter got it without Maynard."
+}

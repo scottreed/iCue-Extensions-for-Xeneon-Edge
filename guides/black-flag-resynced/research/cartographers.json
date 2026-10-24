@@ -1,0 +1,409 @@
+{
+  "category": "Cartographer (map locations to discover)",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-cartographer-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 57,
+  "items": [
+    {
+      "name": "Cape Bonavista",
+      "region": "Dry Tortuga (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Havana",
+      "region": "Dry Tortuga (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Matanzas",
+      "region": "Dry Tortuga (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Florida",
+      "region": "Dry Tortuga (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Salt Key Bank",
+      "region": "Dry Tortuga (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "San Ignacio Wreck",
+      "region": "Dry Tortuga (Shipwreck)",
+      "where": "Sail to the marker and dive using the Diving Bell.",
+      "gate": "Sequence 6 Mission 1; Diving Bell",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Fort Dry Tortuga",
+      "region": "Dry Tortuga (Fort)",
+      "where": "Sail near the fort until the fast-travel prompt unlocks; no need to destroy it.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Andreas Island",
+      "region": "Eleuthera (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Nassau",
+      "region": "Eleuthera (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Abaco Island",
+      "region": "Eleuthera (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Cat Island",
+      "region": "Eleuthera (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Fort Eleuthera",
+      "region": "Eleuthera (Fort)",
+      "where": "Sail near the fort until the fast-travel prompt unlocks; no need to destroy it.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Jiguey",
+      "region": "Gibara (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Salt Lagoon",
+      "region": "Gibara (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Black Island",
+      "region": "Gibara (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Crooked Island",
+      "region": "Gibara (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Mariguana Island",
+      "region": "Gibara (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Great Inagua",
+      "region": "Gibara (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Antocha Wreck",
+      "region": "Gibara (Shipwreck)",
+      "where": "Sail to the marker and dive using the Diving Bell.",
+      "gate": "Sequence 6 Mission 1; Diving Bell",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Fort Gibara",
+      "region": "Gibara (Fort)",
+      "where": "Sail near the fort until the fast-travel prompt unlocks; no need to destroy it.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Tortuga",
+      "region": "Punta Guarico (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Caracol",
+      "region": "Punta Guarico (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "Its marker is hidden under the officer quest icon",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Petite Caverne",
+      "region": "Punta Guarico (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Cumberland Bay",
+      "region": "Punta Guarico (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Fort Punta Guarico",
+      "region": "Punta Guarico (Fort)",
+      "where": "Sail near the fort until the fast-travel prompt unlocks; no need to destroy it.",
+      "gate": "Sequence 5 Mission 1",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "San Juan",
+      "region": "Cruz (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Grand Cayman",
+      "region": "Cruz (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Devil's Eye Caverns",
+      "region": "Cruz (Shipwreck)",
+      "where": "Sail to the marker and dive using the Diving Bell.",
+      "gate": "Sequence 6 Mission 1; Diving Bell",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Fort Cabo de Cruz",
+      "region": "Cruz (Fort)",
+      "where": "Sail near the fort until the fast-travel prompt unlocks; no need to destroy it.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Cayman Sound",
+      "region": "Castillo de Jagua (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "Its marker is hidden under a quest icon",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Pinos Isle",
+      "region": "Castillo de Jagua (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Arroyos",
+      "region": "Castillo de Jagua (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "The Black Trench",
+      "region": "Castillo de Jagua (Shipwreck)",
+      "where": "Sail to the marker and dive using the Diving Bell.",
+      "gate": "Sequence 6 Mission 1; Diving Bell",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Fort Castillo de Jagua",
+      "region": "Castillo de Jagua (Fort)",
+      "where": "Sail near the fort until the fast-travel prompt unlocks; no need to destroy it.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Sacrifice Island",
+      "region": "Conttoyor (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Tulum",
+      "region": "Conttoyor (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "Northern part needs Sequence 4 Mission 3",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Fort Contoyyor",
+      "region": "Conttoyor (Fort)",
+      "where": "Sail near the fort until the fast-travel prompt unlocks; no need to destroy it.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Santanillas",
+      "region": "Chinchorro (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Corozal",
+      "region": "Chinchorro (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Ambergris Key",
+      "region": "Chinchorro (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "La Concepcion Wreck",
+      "region": "Chinchorro (Shipwreck)",
+      "where": "Sail to the marker and dive using the Diving Bell.",
+      "gate": "Sequence 6 Mission 1; Diving Bell",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Fort Chinchorro",
+      "region": "Chinchorro (Fort)",
+      "where": "Sail near the fort until the fast-travel prompt unlocks; no need to destroy it.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Misteriosa",
+      "region": "Serranilla (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "New Bone",
+      "region": "Serranilla (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Isla Providencia",
+      "region": "Serranilla (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "Sequence 8 Mission 3",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Fort Serranilla",
+      "region": "Serranilla (Fort)",
+      "where": "Sail near the fort until the fast-travel prompt unlocks; no need to destroy it.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Anotto Bay",
+      "region": "Charlotte (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Long Bay",
+      "region": "Charlotte (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "Sequence 10 Mission 3",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "The Blue Hole",
+      "region": "Charlotte (Shipwreck)",
+      "where": "Sail to the marker and dive using the Diving Bell.",
+      "gate": "Sequence 6 Mission 1; Diving Bell",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Fort Charlotte",
+      "region": "Charlotte (Fort)",
+      "where": "Sail near the fort until the fast-travel prompt unlocks; no need to destroy it.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Kingston",
+      "region": "Navassa (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Port Royal",
+      "region": "Navassa (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Ile a Vache",
+      "region": "Navassa (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Mystery Island",
+      "region": "Navassa (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Kabah Ruins",
+      "region": "Navassa (Shipwreck)",
+      "where": "Sail to the marker and dive using the Diving Bell.",
+      "gate": "Sequence 6 Mission 1; Diving Bell",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Fort Navassa",
+      "region": "Navassa (Fort)",
+      "where": "Sail near the fort until the fast-travel prompt unlocks; no need to destroy it.",
+      "gate": "None listed",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    },
+    {
+      "name": "Principe",
+      "region": "Principe (Island)",
+      "where": "Sail near the white question mark until the fast-travel prompt unlocks; no landing needed.",
+      "gate": "Sequence 9 Mission 2",
+      "reward": "Counts toward the Cartographer trophy (no separate reward listed)"
+    }
+  ],
+  "gaps": [],
+  "notes": "Page gives 57 named white question-mark locations: 39 islands including Principe, 11 forts, 7 underwater shipwrecks; visiting all unlocks the Cartographer trophy. Region spellings (Conttoyor, Fort Contoyyor) follow the page."
+}

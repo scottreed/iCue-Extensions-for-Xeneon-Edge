@@ -1,0 +1,608 @@
+{
+ "category": "Chests",
+ "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-chest-locations/",
+ "retrieved": "2026-10-24",
+ "stated_total": 84,
+ "items": [
+  {
+   "name": "Chest 1",
+   "region": "Dry Tortuga - Cape Bonavista",
+   "where": "Northeast of the island near a shipwreck.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 2",
+   "region": "Dry Tortuga - Cape Bonavista",
+   "where": "On a wooden platform next to the lift.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 3",
+   "region": "Dry Tortuga - Havana",
+   "where": "Underwater by the docks next to a broken ship.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 4",
+   "region": "Dry Tortuga - Havana",
+   "where": "In a guarded small building in the southeast.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 5",
+   "region": "Dry Tortuga - Havana",
+   "where": "On the balcony of the main building in the governor's fenced area.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 6",
+   "region": "Dry Tortuga - Havana",
+   "where": "In a small room on that balcony.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 7",
+   "region": "Dry Tortuga - Havana",
+   "where": "In a small alley.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 8",
+   "region": "Dry Tortuga - Havana",
+   "where": "In a small guarded courtyard.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 9",
+   "region": "Dry Tortuga - Havana",
+   "where": "Inside a building, entered through an open window.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 10",
+   "region": "Dry Tortuga - Matanzas",
+   "where": "Middle of the area by the watchtower.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 11",
+   "region": "Dry Tortuga - Matanzas",
+   "where": "Underwater just off the east beach.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 12",
+   "region": "Dry Tortuga - Florida",
+   "where": "Underwater at the west beach, inside a shipwreck.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 13",
+   "region": "Dry Tortuga - Florida",
+   "where": "Underwater at the west beach, inside a shipwreck.",
+   "gate": "",
+   "reward": "Money plus a Gold Locket (quest item)"
+  },
+  {
+   "name": "Chest 14",
+   "region": "Dry Tortuga - Salt Key Bank",
+   "where": "At the east end of the beach, guarded.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 15",
+   "region": "Eleuthera - Andreas Island",
+   "where": "Underwater by small shipwreck debris.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 16",
+   "region": "Eleuthera - Andreas Island",
+   "where": "On the docks, guarded.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 17",
+   "region": "Eleuthera - Nassau",
+   "where": "On a small cliff near a camp, reached by parkour across trees.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 18",
+   "region": "Eleuthera - Nassau",
+   "where": "On the manor balcony.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 19",
+   "region": "Eleuthera - Nassau",
+   "where": "Along the southwest beach.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 20",
+   "region": "Eleuthera - Nassau",
+   "where": "In the northernmost fort tower, entered through a window while climbing.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 21",
+   "region": "Eleuthera - Nassau",
+   "where": "In a small cave on the east beach below the fort.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 22",
+   "region": "Eleuthera - Abaco Island",
+   "where": "Underwater inside a shipwreck.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 23",
+   "region": "Eleuthera - Cat Island",
+   "where": "Beside the warehouse.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 24",
+   "region": "Gibara - Jiguey",
+   "where": "On top of the hill at the end of the cave.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 25",
+   "region": "Gibara - Salt Lagoon",
+   "where": "Inside an underwater shipwreck.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 26",
+   "region": "Gibara - Black Island",
+   "where": "On the second floor of the manor.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Bonus chest (Black Island shipwreck)",
+   "region": "Gibara - Black Island (bonus, not counted by area tracker)",
+   "where": "Underwater inside a shipwreck.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 27",
+   "region": "Gibara - Crooked Island",
+   "where": "On the beach, guarded.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 28",
+   "region": "Gibara - Mariguana Island",
+   "where": "Underwater inside a shipwreck.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 29",
+   "region": "Gibara - Mariguana Island",
+   "where": "Along the side of the rocks.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 30",
+   "region": "Gibara - Great Inagua",
+   "where": "On a wooden platform in the trees.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 31",
+   "region": "Gibara - Great Inagua",
+   "where": "In ruins near the southern beach.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 32",
+   "region": "Gibara - Great Inagua",
+   "where": "On a wooden platform in the trees by the southern beach.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 33",
+   "region": "Punta Guarico - Tortuga",
+   "where": "Directly under the viewpoint.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 34",
+   "region": "Punta Guarico - Tortuga",
+   "where": "On the back side of a house.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 35",
+   "region": "Punta Guarico - Caracol",
+   "where": "Walk up the beam behind the buildings.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 36",
+   "region": "Punta Guarico - Petite Caverne",
+   "where": "West side of the map next to a hut.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 37",
+   "region": "Punta Guarico - Cumberland Bay",
+   "where": "Underwater inside a shipwreck.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 38",
+   "region": "Punta Guarico - Cumberland Bay",
+   "where": "Inside a small enemy camp.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 39",
+   "region": "Cruz - San Juan",
+   "where": "On the right side of a small cave.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 40",
+   "region": "Cruz - Grand Cayman",
+   "where": "Swim through an opening from the water on the southwest side.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 41",
+   "region": "Cruz - Grand Cayman",
+   "where": "In a small enemy camp on the north side.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 42",
+   "region": "Castillo de Jagua - Cayman Sound",
+   "where": "Behind a rock, close to the secret in that area.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 43",
+   "region": "Castillo de Jagua - Pinos Isle",
+   "where": "Underwater in front of the island under rocks.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 44",
+   "region": "Castillo de Jagua - Pinos Isle",
+   "where": "Behind the second Mayan Stelae, guarded by a black jaguar.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 45",
+   "region": "Castillo de Jagua - Pinos Isle",
+   "where": "Right beside the secret chest.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 46",
+   "region": "Castillo de Jagua - Arroyos",
+   "where": "On a small island in the east, three guards.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 47",
+   "region": "Castillo de Jagua - Arroyos",
+   "where": "Underwater between the Naval Contract and the Harbourmaster.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 48",
+   "region": "Castillo de Jagua - Arroyos",
+   "where": "Underwater in the northwest of the map.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 49",
+   "region": "Conttoyor - Sacrifice Island",
+   "where": "In front of the ruins that hold the secret.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 50",
+   "region": "Conttoyor - Sacrifice Island",
+   "where": "Below the northern viewpoint.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 51",
+   "region": "Conttoyor - Tulum",
+   "where": "Underwater near the southern viewpoint.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 52",
+   "region": "Conttoyor - Tulum",
+   "where": "Underwater at the southernmost part of the map.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 53",
+   "region": "Conttoyor - Tulum",
+   "where": "Southwest, around the corner of a watchtower.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 54",
+   "region": "Conttoyor - Tulum",
+   "where": "Behind the Mayan Stelae inside a ruin.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 55",
+   "region": "Chinchorro - Santanillas",
+   "where": "On the south beach.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 56",
+   "region": "Chinchorro - Santanillas",
+   "where": "In a ruins room just below the viewpoint.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 57",
+   "region": "Chinchorro - Corozal",
+   "where": "On a small island east of the main one, a couple of guards.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 58",
+   "region": "Chinchorro - Ambergris Key",
+   "where": "On the floor of the underwater cave at the first opening with jellyfish.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 59",
+   "region": "Serranilla - Misteriosa",
+   "where": "In the guarded northwest ruins room.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 60",
+   "region": "Serranilla - Misteriosa",
+   "where": "Underwater at the island base near a waterfall.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 61",
+   "region": "Serranilla - Misteriosa",
+   "where": "In an alcove below the ruins on the north side of the lake.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 62",
+   "region": "Serranilla - New Bone",
+   "where": "Upstairs room of the southwest house; reach it via the roof.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 63",
+   "region": "Serranilla - Isla Providencia",
+   "where": "In the water below the southern viewpoint.",
+   "gate": "Only during or after Sequence 08, Mission 03",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 64",
+   "region": "Serranilla - Isla Providencia",
+   "where": "Up the path from the southern viewpoint, climbing a broken tree.",
+   "gate": "Only during or after Sequence 08, Mission 03",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 65",
+   "region": "Serranilla - Isla Providencia",
+   "where": "In the ruins at the top of the flooded area.",
+   "gate": "Only during or after Sequence 08, Mission 03",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 66",
+   "region": "Serranilla - Isla Providencia",
+   "where": "In a small ruin by a pile of leaves, reached by jumping from the northern viewpoint.",
+   "gate": "Only during or after Sequence 08, Mission 03",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 67",
+   "region": "Charlotte - Anotto Bay",
+   "where": "In a hall with a shark, past the first left turn.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 68",
+   "region": "Charlotte - Anotto Bay",
+   "where": "In the underwater mines, up a ladder by a bubble stream.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 69",
+   "region": "Charlotte - Long Bay",
+   "where": "In the water directly below the viewpoint.",
+   "gate": "Only during or after Sequence 10, Mission 03",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 70",
+   "region": "Charlotte - Long Bay",
+   "where": "Behind a boarded-up wall near the northern viewpoint; drop down to it from above.",
+   "gate": "Only during or after Sequence 10, Mission 03",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 71",
+   "region": "Charlotte - Long Bay",
+   "where": "On the bottom level, in a side section of the cave between the viewpoints.",
+   "gate": "Only during or after Sequence 10, Mission 03",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 72",
+   "region": "Navassa - Kingston",
+   "where": "At the bottom of Kingston west of the South Warehouse, in a building with several men.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 73",
+   "region": "Navassa - Kingston",
+   "where": "In a small building by the northernmost plantation watchtower, west side.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 74",
+   "region": "Navassa - Kingston",
+   "where": "On raised ground southwest of the North Plantation.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 75",
+   "region": "Navassa - Kingston",
+   "where": "In an alcove just east of the church, surrounded by enemies.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 76",
+   "region": "Navassa - Kingston",
+   "where": "On the east cliff; climb the tree with a barrel beside it on the south side.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 77",
+   "region": "Navassa - Port Royal",
+   "where": "In the southern courtyard of the Restricted Area.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 78",
+   "region": "Navassa - Port Royal",
+   "where": "Underwater near the beach at its northernmost part.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 79",
+   "region": "Navassa - Ile a Vache",
+   "where": "In a small encampment on the south side guarded by British.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 80",
+   "region": "Navassa - Mystery Island",
+   "where": "In a hostile campground.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 81",
+   "region": "Navassa - Mystery Island",
+   "where": "North side next to a shack.",
+   "gate": "",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 82",
+   "region": "Principe - Principe",
+   "where": "In a small hut.",
+   "gate": "Only during or after Sequence 09, Mission 02; return via the white P icon on the right of the main map",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 83",
+   "region": "Principe - Principe",
+   "where": "On top of a small building.",
+   "gate": "Only during or after Sequence 09, Mission 02; return via the white P icon on the right of the main map",
+   "reward": "Money"
+  },
+  {
+   "name": "Chest 84",
+   "region": "Principe - Principe",
+   "where": "Inside one of the tents.",
+   "gate": "Only during or after Sequence 09, Mission 02; return via the white P icon on the right of the main map",
+   "reward": "Money"
+  }
+ ],
+ "gaps": [
+  "Underwater shipwreck chests are not itemised on this page (see shipwrecks.json).",
+  "Tulum entries 51-54 state no gate on the page, but the overview says northern Tulum opens after Sequence 04, Mission 03."
+ ],
+ "notes": "84 numbered chests plus one unnumbered bonus chest at Black Island (underwater shipwreck) that the page says does not count toward the area tracker, so 85 entries. Item names are numbered in page order; the bonus sits between 26 and 27. Every chest rewards money except number 13, which also gives a quest item."
+}

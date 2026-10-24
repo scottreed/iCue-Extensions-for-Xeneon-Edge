@@ -1,0 +1,470 @@
+{
+ "retrieved": "2026-10-24",
+ "sources": [
+  "https://allthings.how/how-naval-combat-works-in-assassin-s-creed-black-flag-resynced/",
+  "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide",
+  "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/",
+  "https://mp1st.com/news/assassins-creed-black-flag-upcoming-update-fixes-outlined-known-issues",
+  "https://mp1st.com/title-updates-and-patches/assassins-creed-black-flag-resynced-first-update-1-0-4-fixes-a-boatload-of-bugs-via-patch-1-003-028",
+  "https://techwiser.com/assassins-creed-black-flag-resynced-fast-travel-viewpoints/",
+  "https://www.gfinityesports.com/article/assassins-creed-black-flag-resynced-beginner-tips-tricks",
+  "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-jackdaw-ship-upgrades/",
+  "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-collectibles-guide-100-completion/",
+  "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-how-to-skip-time/",
+  "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-wiki-strategy-guide/",
+  "https://www.redbull.com/au-en/assassins-creed-black-flag-resynced-guide",
+  "https://www.redbull.com/us-en/assassins-creed-black-flag-resynced-tips-tricks"
+ ],
+ "topics": [
+  {
+   "topic": "Beginner tips",
+   "tips": [
+    {
+     "tip": "Nothing is missable, and you can fast travel anywhere after the story, so there is no need to rush collectibles.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-wiki-strategy-guide/"
+    },
+    {
+     "tip": "Mission replay is gone. Make a manual save at the start of each Sequence; there are 20 manual slots.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-wiki-strategy-guide/"
+    },
+    {
+     "tip": "Resist the Cape Bonavista chests and Havana side activities right at the start.",
+     "source": "https://www.redbull.com/au-en/assassins-creed-black-flag-resynced-guide"
+    },
+    {
+     "tip": "Upgrade the Great Inagua hideout as soon as it opens; it raises passive income and unlocks more Jackdaw upgrades.",
+     "source": "https://www.redbull.com/au-en/assassins-creed-black-flag-resynced-guide"
+    },
+    {
+     "tip": "Aim to have 21,000 reales by Sequence 3 using Assassin missions, early island chests and surplus rum and sugar.",
+     "source": "https://www.redbull.com/au-en/assassins-creed-black-flag-resynced-guide"
+    },
+    {
+     "tip": "Recruit officers once Great Inagua is fully unlocked, through the officer quests in the mission menu.",
+     "source": "https://www.redbull.com/au-en/assassins-creed-black-flag-resynced-guide"
+    },
+    {
+     "tip": "Disable the HUD and sail with no destination for a relaxed look at the open sea.",
+     "source": "https://www.gfinityesports.com/article/assassins-creed-black-flag-resynced-beginner-tips-tricks"
+    },
+    {
+     "tip": "Do not button-mash in melee; parry and perfect dodge instead.",
+     "source": "https://www.gfinityesports.com/article/assassins-creed-black-flag-resynced-beginner-tips-tricks"
+    },
+    {
+     "tip": "Hunt animals in new areas and use pelts to raise carrying capacity; upgrade pistols first.",
+     "source": "https://www.gfinityesports.com/article/assassins-creed-black-flag-resynced-beginner-tips-tricks"
+    },
+    {
+     "tip": "Hold D-Pad Down to throw money; it has no tutorial and draws guards and civilians toward it.",
+     "source": "https://mp1st.com/news/assassins-creed-black-flag-upcoming-update-fixes-outlined-known-issues"
+    }
+   ]
+  },
+  {
+   "topic": "Combat",
+   "tips": [
+    {
+     "tip": "Watch for the blue flash before an enemy swings, then parry with LB/L1 to open them for a counter or instant kill.",
+     "source": "https://www.redbull.com/us-en/assassins-creed-black-flag-resynced-tips-tricks"
+    },
+    {
+     "tip": "A perfect parry breaks defence and sets up a Hidden Blade takedown.",
+     "source": "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/"
+    },
+    {
+     "tip": "The leg sweep skips the stun bar for an instant kill.",
+     "source": "https://www.gfinityesports.com/article/assassins-creed-black-flag-resynced-beginner-tips-tricks"
+    },
+    {
+     "tip": "Near walls or on a boarded ship, kick guards away or pull them in with the rope dart.",
+     "source": "https://www.gfinityesports.com/article/assassins-creed-black-flag-resynced-beginner-tips-tricks"
+    },
+    {
+     "tip": "Chain takedowns can hit up to four nearby enemies, depending on the sword.",
+     "source": "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/"
+    },
+    {
+     "tip": "Brutes and Demolitionists need Quick Shots or the Rope Dart.",
+     "source": "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/"
+    },
+    {
+     "tip": "Against El Tiburon, melee and quick-fired pistol shots will not break his defence; aim the pistol manually.",
+     "source": "https://mp1st.com/news/assassins-creed-black-flag-upcoming-update-fixes-outlined-known-issues"
+    },
+    {
+     "tip": "Carry plenty of Remedies for long fights because checkpoints are sparse.",
+     "source": "https://www.redbull.com/us-en/assassins-creed-black-flag-resynced-tips-tricks"
+    },
+    {
+     "tip": "Mark enemies in Eagle Vision with RT/R2 to keep tracking them afterwards.",
+     "source": "https://www.redbull.com/us-en/assassins-creed-black-flag-resynced-tips-tricks"
+    }
+   ]
+  },
+  {
+   "topic": "Stealth and notoriety",
+   "tips": [
+    {
+     "tip": "Observe from a high safe spot first: tag guards, find alarm bells and patrol routes, and plan your exit before the first kill.",
+     "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide"
+    },
+    {
+     "tip": "Sweep rooftops and towers too, since one untagged gunner can ruin a route.",
+     "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide"
+    },
+    {
+     "tip": "When a guard starts to notice you, stop and break line of sight; pushing on turns suspicion into an alarm.",
+     "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide"
+    },
+    {
+     "tip": "You can crouch anywhere on land. Crouch-walking is far quieter than running at enemies.",
+     "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide"
+    },
+    {
+     "tip": "Darkness lowers detection but does not hide you from close guards.",
+     "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide"
+    },
+    {
+     "tip": "Use the Sleep Dart on a lone blocker and the Berserk Dart on a tough enemy inside a group, then leave.",
+     "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide"
+    },
+    {
+     "tip": "Use a Smoke Bomb when a detection meter is about to fill, then break line of sight rather than fighting in the smoke.",
+     "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide"
+    },
+    {
+     "tip": "Sabotage alarm bells during your scouting sweep. If a guard starts ringing one, interrupt immediately; killing a ringer enables Silence Fool.",
+     "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide"
+    },
+    {
+     "tip": "Three or more civilians around you hide you; leaving the group exposes you at once.",
+     "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide"
+    },
+    {
+     "tip": "Whistle to lure guards off patrol and remove them one at a time.",
+     "source": "https://www.redbull.com/us-en/assassins-creed-black-flag-resynced-tips-tricks"
+    },
+    {
+     "tip": "Tailing is more forgiving than the original: being spotted no longer fails the mission outright.",
+     "source": "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/"
+    },
+    {
+     "tip": "Throwing money costs 10 reales; throw it away from your route.",
+     "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide"
+    },
+    {
+     "tip": "Stealth difficulty (Forgiving, Intended, Hard) can be set separately from other difficulty settings.",
+     "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide"
+    },
+    {
+     "tip": "Dive Anywhere lets you swim under deck-level sightlines; surface somewhere hidden, not under a lookout.",
+     "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-stealth-observe-tools-guide"
+    }
+   ]
+  },
+  {
+   "topic": "Ship combat",
+   "tips": [
+    {
+     "tip": "Upgrade the ship whenever you can; storage upgrades raise ammo capacity.",
+     "source": "https://www.redbull.com/us-en/assassins-creed-black-flag-resynced-tips-tricks"
+    },
+    {
+     "tip": "Check a naval contract's recommended difficulty first; Man-o'-War ships can overwhelm an underpowered Jackdaw.",
+     "source": "https://www.redbull.com/us-en/assassins-creed-black-flag-resynced-tips-tricks"
+    },
+    {
+     "tip": "Fully upgrade the Jackdaw before taking on the four legendary ships.",
+     "source": "https://www.redbull.com/us-en/assassins-creed-black-flag-resynced-tips-tricks"
+    },
+    {
+     "tip": "Once combat starts you cannot leave the wheel or fast travel; fight or sail away.",
+     "source": "https://allthings.how/how-naval-combat-works-in-assassin-s-creed-black-flag-resynced/"
+    },
+    {
+     "tip": "Aim direction picks the weapon: forward chain shot, backward fire barrels, sides broadsides.",
+     "source": "https://allthings.how/how-naval-combat-works-in-assassin-s-creed-black-flag-resynced/"
+    },
+    {
+     "tip": "Firing exposes red weak points; hit them with the Swivel Gun for explosions that quickly drain enemy HP.",
+     "source": "https://allthings.how/how-naval-combat-works-in-assassin-s-creed-black-flag-resynced/"
+    },
+    {
+     "tip": "Press L1+R1 head-on to ram, and check your own hull first.",
+     "source": "https://allthings.how/how-naval-combat-works-in-assassin-s-creed-black-flag-resynced/"
+    },
+    {
+     "tip": "Brace with Square/X before projectiles land to cut damage.",
+     "source": "https://allthings.how/how-naval-combat-works-in-assassin-s-creed-black-flag-resynced/"
+    },
+    {
+     "tip": "Avoid fighting in storms, steer clear of tornadoes, and face rogue waves head-on.",
+     "source": "https://allthings.how/how-naval-combat-works-in-assassin-s-creed-black-flag-resynced/"
+    },
+    {
+     "tip": "Mark ships with the spyglass to see their cargo; boarding takes everything, sinking only part, so sink small fleet ships and board the bigger ones.",
+     "source": "https://allthings.how/how-naval-combat-works-in-assassin-s-creed-black-flag-resynced/"
+    },
+    {
+     "tip": "After boarding choose repair (free, uses captured materials), lower wanted level, or send the ship to Kenway's Fleet.",
+     "source": "https://allthings.how/how-naval-combat-works-in-assassin-s-creed-black-flag-resynced/"
+    },
+    {
+     "tip": "If naval combat is too hard you can lower its difficulty in settings.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-jackdaw-ship-upgrades/"
+    }
+   ]
+  },
+  {
+   "topic": "Money and resources",
+   "tips": [
+    {
+     "tip": "Conquer forts early: they give materials and money and open the sea map for Kenway's Fleet.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-jackdaw-ship-upgrades/"
+    },
+    {
+     "tip": "Send Schooners on fleet missions for money and Brigs for materials.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-jackdaw-ship-upgrades/"
+    },
+    {
+     "tip": "Underwater shipwreck chests give a lot of money.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-jackdaw-ship-upgrades/"
+    },
+    {
+     "tip": "Boarding Man-o-Wars in hard regions and taking the captain's lockbox pays about 5,500 each time.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-jackdaw-ship-upgrades/"
+    },
+    {
+     "tip": "Use the scope to find ships carrying the material you lack.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-jackdaw-ship-upgrades/"
+    },
+    {
+     "tip": "Spend money on ship upgrades rather than costly shop materials.",
+     "source": "https://www.redbull.com/us-en/assassins-creed-black-flag-resynced-tips-tricks"
+    },
+    {
+     "tip": "After the Great Inagua manor opens, assassin and naval contracts give steady income and ship materials.",
+     "source": "https://www.redbull.com/us-en/assassins-creed-black-flag-resynced-tips-tricks"
+    },
+    {
+     "tip": "Total cost for every Jackdaw upgrade is about 315,800 reales, 4,755 metal, 2,750 wood, 550 cloth and 12 Ultimate Plans.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-jackdaw-ship-upgrades/"
+    },
+    {
+     "tip": "Talk to Ade and follow the objective to get the Diving Bell free, saving 5,000 reales.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-jackdaw-ship-upgrades/"
+    },
+    {
+     "tip": "Twelve Ultimate Plans come from shipwrecks (six) and treasure maps (six).",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-jackdaw-ship-upgrades/"
+    }
+   ]
+  },
+  {
+   "topic": "Exploration and map",
+   "tips": [
+    {
+     "tip": "Syncing a viewpoint marks nearby collectibles on the map; portraits only appear when you get near.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-collectibles-guide-100-completion/"
+    },
+    {
+     "tip": "Conquering forts unfogs the sea map; sailing to an island unlocks fast travel there.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-collectibles-guide-100-completion/"
+    },
+    {
+     "tip": "D-Pad Down on the map filters collectibles by type.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-collectibles-guide-100-completion/"
+    },
+    {
+     "tip": "Viewpoint fast travel puts you on the spot; named locations always drop you at their dock; the Jackdaw has its own live fast travel point.",
+     "source": "https://techwiser.com/assassins-creed-black-flag-resynced-fast-travel-viewpoints/"
+    },
+    {
+     "tip": "Hold D-Pad Right while standing still to skip between day and night; it fails near NPCs, combat or restricted areas.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-how-to-skip-time/"
+    },
+    {
+     "tip": "Skipping time does not speed up manor money or Kenway's Fleet cooldowns.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-how-to-skip-time/"
+    },
+    {
+     "tip": "Small out-of-the-way islands hold hidden chests, Mayan Stelae, Animus Fragments and rare materials.",
+     "source": "https://www.redbull.com/us-en/assassins-creed-black-flag-resynced-tips-tricks"
+    },
+    {
+     "tip": "Switch to daytime when hunting collectibles; night and rain make the game dark.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-how-to-skip-time/"
+    }
+   ]
+  },
+  {
+   "topic": "Missables and locked content",
+   "tips": [
+    {
+     "tip": "Underwater wrecks, the Blue Hole and Kabah Ruins open after Sequence 6 Mission 1 (Diving for Medicines).",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-wiki-strategy-guide/"
+    },
+    {
+     "tip": "Northern Tulum opens after Sequence 4 Mission 3 (The Sage's Buried Secret).",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-wiki-strategy-guide/"
+    },
+    {
+     "tip": "Isla Providencia opens during or after Sequence 8 Mission 3 (Marooned).",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-wiki-strategy-guide/"
+    },
+    {
+     "tip": "Principe opens during or after Sequence 9 Mission 2 (Trust is Earned).",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-wiki-strategy-guide/"
+    },
+    {
+     "tip": "Long Bay opens during or after Sequence 10 Mission 3 (The Observatory).",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-wiki-strategy-guide/"
+    },
+    {
+     "tip": "Some viewpoint regions are locked: Serranilla until Sequence 8, Principe until 9, Charlotte until 10.",
+     "source": "https://techwiser.com/assassins-creed-black-flag-resynced-fast-travel-viewpoints/"
+    },
+    {
+     "tip": "Some new missions are saved for after the main story.",
+     "source": "https://www.gfinityesports.com/article/assassins-creed-black-flag-resynced-beginner-tips-tricks"
+    }
+   ]
+  },
+  {
+   "topic": "Differences from the original",
+   "tips": [
+    {
+     "tip": "Collectible locations moved or are new, so older guides' coordinates will not apply.",
+     "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-wiki-strategy-guide/"
+    },
+    {
+     "tip": "Combat is parry-driven and faster than the original's counter system; the Hidden Blade is no longer a selectable weapon.",
+     "source": "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/"
+    },
+    {
+     "tip": "The Rope Dart arrives around Sequence 3 instead of 11.",
+     "source": "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/"
+    },
+    {
+     "tip": "Edward can crouch anywhere, and an optional Advanced Parkour toggle adds side and back ejects.",
+     "source": "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/"
+    },
+    {
+     "tip": "Edward can swim and dive anywhere on the open sea; Legendary Ships are replayable.",
+     "source": "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/"
+    },
+    {
+     "tip": "Multiplayer, the Abstergo office sections and Freedom Cry are gone; modern-day Rifts replace the office sections.",
+     "source": "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/"
+    },
+    {
+     "tip": "Officers tie to ship abilities: the Padre gives ram dash, Lucy Baldwin perfect brace, Deadman Smith a mortar and extra volley.",
+     "source": "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/"
+    },
+    {
+     "tip": "Kenway's Fleet unlocks per region after capturing that region's fort.",
+     "source": "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/"
+    },
+    {
+     "tip": "Added: photo mode, pets on the Jackdaw, and new hideout upgrades.",
+     "source": "https://keengamer.com/articles/guides/assassins-creed-black-flag-resynced-vs-original-all-major-changes/"
+    }
+   ]
+  },
+  {
+   "topic": "Common problems and fixes",
+   "tips": [
+    {
+     "tip": "If PC cutscenes lock to 30 FPS, reset the Overall Preset and avoid setting Raytracing, BVH or Terrain Quality to Ultra High.",
+     "source": "https://mp1st.com/news/assassins-creed-black-flag-upcoming-update-fixes-outlined-known-issues"
+    },
+    {
+     "tip": "Known issue: upgrading the Jackdaw while docked may make it vanish, so avoid doing it mid-quest.",
+     "source": "https://mp1st.com/news/assassins-creed-black-flag-upcoming-update-fixes-outlined-known-issues"
+    },
+    {
+     "tip": "Opening and closing the save menu quickly can strand you on the desynchronization screen.",
+     "source": "https://mp1st.com/news/assassins-creed-black-flag-upcoming-update-fixes-outlined-known-issues"
+    },
+    {
+     "tip": "Desynchronizing and respawning during Devil's Eye Caverns can trap you in the Diving Bell.",
+     "source": "https://mp1st.com/news/assassins-creed-black-flag-upcoming-update-fixes-outlined-known-issues"
+    },
+    {
+     "tip": "Fast travel out of Principe was reported unavailable.",
+     "source": "https://mp1st.com/news/assassins-creed-black-flag-upcoming-update-fixes-outlined-known-issues"
+    },
+    {
+     "tip": "Stray from the path in The One with the Gun and you can get stuck on a branch.",
+     "source": "https://mp1st.com/news/assassins-creed-black-flag-upcoming-update-fixes-outlined-known-issues"
+    },
+    {
+     "tip": "Patches since launch fixed several soft-locks, so install the latest update.",
+     "source": "https://mp1st.com/title-updates-and-patches/assassins-creed-black-flag-resynced-first-update-1-0-4-fixes-a-boatload-of-bugs-via-patch-1-003-028"
+    }
+   ]
+  }
+ ],
+ "mission_order_advice": [
+  "Skip the Cape Bonavista chests and Havana side activities at the very start (Red Bull guide).",
+  "Aim for 21,000 reales by Sequence 3 via Assassin missions, island chests and selling surplus rum and sugar (Red Bull guide).",
+  "Upgrade Great Inagua as soon as it opens, then recruit officers (Red Bull guide).",
+  "Start capturing low-difficulty forts near Great Inagua, Nassau and Salt Key Bank; naval fort capture is available from Sequence 5 Memory 1 (Red Bull guide).",
+  "PowerPyx suggested post-story order: forts, sail to all islands, underwater shipwrecks, remaining cleanup, then legendary ships."
+ ],
+ "unlocks": [
+  {
+   "what": "Jackdaw",
+   "when": "After mission 7, The Treasure Fleet (Red Bull guide)"
+  },
+  {
+   "what": "Fast travel across the map",
+   "when": "After This Tyro Captain, end of Sequence 3 (Techwiser); other guides also say viewpoints/islands unlock it"
+  },
+  {
+   "what": "Rope Dart",
+   "when": "Sequence 3 (ConsolePulse, KeenGamer)"
+  },
+  {
+   "what": "Extra pistol holsters (up to four pistols)",
+   "when": "Craftable after This Tyro Captain; all reachable before end of Sequence 4 (Red Bull guide)"
+  },
+  {
+   "what": "Great Inagua, Harbormaster upgrades, most systems",
+   "when": "After Sequence 4 Mission 1, This Old Cove (mission 15)"
+  },
+  {
+   "what": "Naval fort capture",
+   "when": "Sequence 5 Memory 1 (Red Bull guide)"
+  },
+  {
+   "what": "Diving Bell and shipwreck access",
+   "when": "Sequence 6 Mission 1, Diving for Medicines"
+  },
+  {
+   "what": "Northern Tulum",
+   "when": "After Sequence 4 Mission 3"
+  },
+  {
+   "what": "Isla Providencia",
+   "when": "Sequence 8 Mission 3"
+  },
+  {
+   "what": "Principe",
+   "when": "Sequence 9 Mission 2"
+  },
+  {
+   "what": "Long Bay",
+   "when": "Sequence 10 Mission 3"
+  }
+ ],
+ "gaps": [
+  "Vulkk, Mobalytics and Digital Citizen pages returned HTTP 403; not used for tips.",
+  "ConsolePulse index had no Resynced beginner or mission-order guides; only the stealth guide was used.",
+  "No fetched page described a notoriety/wanted-level system beyond the boarding option 'Lower Wanted Level'.",
+  "Fast travel unlock trigger differs between sources (Tyro Captain vs syncing viewpoints/sailing).",
+  "Patch status of known bugs unverified; mp1st list predates patches."
+ ],
+ "notes": "Tips paraphrased from fetched pages only. Bug list is pre-patch."
+}

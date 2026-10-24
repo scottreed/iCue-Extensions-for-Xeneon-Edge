@@ -1,0 +1,90 @@
+{
+  "category": "Taverns",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-tavern-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 11,
+  "items": [
+    {
+      "name": "Havana Tavern",
+      "region": "Dry Tortuga / Havana",
+      "where": "Visited automatically in the story mission \"Lively Havana\".",
+      "gate": "None; story-driven",
+      "reward": "Unlocks tavern minigames (Nine-Man Morris, Checkers, Fanorona) for earning money; no other reward stated"
+    },
+    {
+      "name": "Salt Key Bank Tavern",
+      "region": "Dry Tortuga / Salt Key Bank",
+      "where": "On a platform on the east side of the area.",
+      "gate": "Talk to the bartender and defeat the enemies",
+      "reward": "Unlocks tavern minigames (Nine-Man Morris, Checkers, Fanorona) for earning money; no other reward stated"
+    },
+    {
+      "name": "Andreas Island Tavern",
+      "region": "Eleuthera / Andreas Island",
+      "where": "Location not detailed on the page.",
+      "gate": "Talk to the bartender, then defeat the enemies",
+      "reward": "Unlocks tavern minigames (Nine-Man Morris, Checkers, Fanorona) for earning money; no other reward stated"
+    },
+    {
+      "name": "Nassau Tavern",
+      "region": "Eleuthera / Nassau",
+      "where": "Visited automatically as part of the main story.",
+      "gate": "None; story-driven",
+      "reward": "Unlocks tavern minigames (Nine-Man Morris, Checkers, Fanorona) for earning money; no other reward stated"
+    },
+    {
+      "name": "Crooked Island Tavern",
+      "region": "Gibara / Crooked Island",
+      "where": "Location not detailed on the page.",
+      "gate": "Talk to the bartender, then defeat the enemies",
+      "reward": "Unlocks tavern minigames (Nine-Man Morris, Checkers, Fanorona) for earning money; no other reward stated"
+    },
+    {
+      "name": "Great Inagua Tavern",
+      "region": "Gibara / Great Inagua",
+      "where": "Just past the docks.",
+      "gate": "Hand 100 reales to the man there",
+      "reward": "Unlocks tavern minigames (Nine-Man Morris, Checkers, Fanorona) for earning money; no other reward stated"
+    },
+    {
+      "name": "Grand Cayman Tavern",
+      "region": "Cruz / Grand Cayman",
+      "where": "Location not detailed on the page.",
+      "gate": "Not stated",
+      "reward": "Unlocks tavern minigames (Nine-Man Morris, Checkers, Fanorona) for earning money; no other reward stated"
+    },
+    {
+      "name": "Arroyos Tavern",
+      "region": "Castillo de Jagua / Arroyos",
+      "where": "Location not detailed on the page.",
+      "gate": "Not stated",
+      "reward": "Unlocks tavern minigames (Nine-Man Morris, Checkers, Fanorona) for earning money; no other reward stated"
+    },
+    {
+      "name": "Corozal Tavern",
+      "region": "Chinchorro / Corozal",
+      "where": "At the tavern itself.",
+      "gate": "Order a drink to trigger a street brawl and win it",
+      "reward": "Unlocks tavern minigames (Nine-Man Morris, Checkers, Fanorona) for earning money; no other reward stated"
+    },
+    {
+      "name": "Kingston Tavern",
+      "region": "Navassa / Kingston",
+      "where": "North of the Harbormaster, at the front counter.",
+      "gate": "Order a drink to trigger a street fight and win it",
+      "reward": "Unlocks tavern minigames (Nine-Man Morris, Checkers, Fanorona) for earning money; no other reward stated"
+    },
+    {
+      "name": "Ile a Vache Tavern",
+      "region": "Navassa / Ile a Vache",
+      "where": "At the tavern marked on the map.",
+      "gate": "Order a drink to trigger a street fight and defeat 5 enemies",
+      "reward": "Unlocks tavern minigames (Nine-Man Morris, Checkers, Fanorona) for earning money; no other reward stated"
+    }
+  ],
+  "gaps": [
+    "Where is not detailed on the page for Andreas Island, Crooked Island, Grand Cayman and Arroyos taverns",
+    "Gate not stated for Grand Cayman and Arroyos"
+  ],
+  "notes": "Names are labelled by location since the page lists taverns by place. Taverns appear on the map after syncing viewpoints; none missable. You can hover an island on the map to see if it has a tavern, or filter by collectible type with D-Pad Down."
+}

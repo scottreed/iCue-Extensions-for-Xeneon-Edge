@@ -226,3 +226,6 @@ Marketplace text and submission checklist: `publish/game-guide/LISTING.md` (list
 
 ## Marketplace listing description limit (2026-10-24)
 The widget submission form's description text area allows at most **4,000 characters**. Keep each `publish/<widget>/LISTING.md` description (section B) under that, aim for about 3,500, and state the count in the file. Game Guide's is 3,473 characters.
+
+## Guides are published in this repo (2026-10-24)
+`guides/` is no longer gitignored. User decision: publish the Black Flag Resynced guide here (with its Ubisoft map picture, chosen despite the flagged takedown risk) and add future guides in the same place. Layout: `guides/<game>.ggp` (packed, committed) + `guides/<game>/` (manifest.json, data.json, assets/, research/, optional build.mjs, outline.md); see `guides/README.md`. Licence on published guides: "All rights reserved; free to use unmodified, not for resale or republishing", attribution says the text is the author's own wording of public facts, sources are credited, game names/artwork belong to their owners. When adding a guide: validate and pack with the skill's CLI, add a row to `guides/README.md` and the README "Guides" table, keep `*.bak` and `node_modules` out. Do not describe published guides as "personal use".

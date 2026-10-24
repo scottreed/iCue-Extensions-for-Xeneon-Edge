@@ -1,0 +1,24 @@
+{
+  "category": "Forts",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-fort-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 11,
+  "items": [
+    {"name": "Punta Guarico", "region": "Not named by source", "where": "Map coords 747, 379. Story fort; hidden on the map until Sequence 05 Mission 01 (The Forts), where it is taken for you.", "gate": "Story only, Sequence 05 Mission 01", "reward": "Money, upgrade materials, ship cosmetics; fast travel and Kenway's Fleet region unlocked"},
+    {"name": "Dry Tortuga", "region": "Not named by source", "where": "Map coords 223, 722. Capture with the general method below.", "gate": "None listed; available from the start", "reward": "Money, upgrade materials, ship cosmetics; fast travel and Kenway's Fleet region unlocked"},
+    {"name": "Eleuthera", "region": "Not named by source", "where": "Map coords 692, 762.", "gate": "None listed", "reward": "Money, upgrade materials, ship cosmetics; fast travel and Kenway's Fleet region unlocked"},
+    {"name": "Gibara", "region": "Not named by source", "where": "Map coords 630, 494.", "gate": "None listed", "reward": "Money, upgrade materials, ship cosmetics; fast travel and Kenway's Fleet region unlocked"},
+    {"name": "Navassa", "region": "Not named by source", "where": "Map coords 701, 194.", "gate": "None listed", "reward": "Money, upgrade materials, ship cosmetics; fast travel and Kenway's Fleet region unlocked"},
+    {"name": "Cabo de Cruz", "region": "Not named by source", "where": "Map coords 537, 362.", "gate": "None listed", "reward": "Money, upgrade materials, ship cosmetics; fast travel and Kenway's Fleet region unlocked"},
+    {"name": "Charlotte", "region": "Not named by source", "where": "Map coords 442, 245.", "gate": "None listed", "reward": "Money, upgrade materials, ship cosmetics; fast travel and Kenway's Fleet region unlocked"},
+    {"name": "Serranilla", "region": "Not named by source", "where": "Map coords 317, 120.", "gate": "None listed", "reward": "Money, upgrade materials, ship cosmetics; fast travel and Kenway's Fleet region unlocked"},
+    {"name": "Castillo de Jagua", "region": "Not named by source", "where": "Map coords 328, 535.", "gate": "None listed", "reward": "Money, upgrade materials, ship cosmetics; fast travel and Kenway's Fleet region unlocked"},
+    {"name": "Chinchorro", "region": "Not named by source", "where": "Map coords 91, 331.", "gate": "None listed", "reward": "Money, upgrade materials, ship cosmetics; fast travel and Kenway's Fleet region unlocked"},
+    {"name": "Conttoyor", "region": "Not named by source", "where": "Map coords 76, 523.", "gate": "None listed", "reward": "Money, upgrade materials, ship cosmetics; fast travel and Kenway's Fleet region unlocked"}
+  ],
+  "gaps": [
+    "Source gives no region names per fort and no per-fort tactics or guard-ship details; only one general method applies to all.",
+    "Per-fort rewards are not itemised; the reward text is the generic one for all forts."
+  ],
+  "notes": "Capturing all 11 unlocks the King of the Castle trophy/achievement. General method (own words): upgrade the ship first; northern forts are easier and southern ones harder, and difficulty can be lowered. Sail in from the side, slowly, and stop to destroy each tower. When red weak spots show during enemy fire, hit them with the swivel gun and use the mortar. Brace while weapons recharge to cut damage a lot. Destroy any guard ships or they may flee after the fort falls. Once the walls are down, go on foot, kill all soldiers inside, and break the door at the top. After capture, send Kenway's Fleet to that region for passive missions (from the captain's cabin or Great Inagua Manor)."
+}

@@ -1,0 +1,208 @@
+{
+  "category": "swords",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-sword-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 0,
+  "items": [
+    {
+      "name": "Lightserver's Blades",
+      "region": "Online store",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Master Assassin DLC (also in Deluxe Edition)",
+      "reward": "Legendary cutlass"
+    },
+    {
+      "name": "Dragon's Fang Swords",
+      "region": "Online store",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Dragon Storm DLC",
+      "reward": "Legendary cutlass"
+    },
+    {
+      "name": "Blades of the Damned",
+      "region": "Online store",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Hellfire DLC",
+      "reward": "Legendary pistol sword"
+    },
+    {
+      "name": "Serpent's Fang Cutlasses",
+      "region": "Online store",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Sea Serpent DLC",
+      "reward": "Legendary cutlass"
+    },
+    {
+      "name": "Altair's Swords",
+      "region": "Animus Exchange (ship's cabin)",
+      "where": "Bought for 1500 Helix Credits",
+      "gate": "",
+      "reward": "Legendary cutlass"
+    },
+    {
+      "name": "Ezio's Swords",
+      "region": "Animus Exchange (ship's cabin)",
+      "where": "Bought for 1500 Helix Credits",
+      "gate": "",
+      "reward": "Legendary cutlass"
+    },
+    {
+      "name": "Naoe's Shadowblade",
+      "region": "Animus Exchange (ship's cabin)",
+      "where": "Bought for 1500 Helix Credits",
+      "gate": "",
+      "reward": "Legendary cutlass"
+    },
+    {
+      "name": "Blackbeard's Crimson Swords",
+      "region": "Not stated",
+      "where": "Pre-order bonus from the Crimson Pack",
+      "gate": "Pre-order bonus",
+      "reward": "Legendary rapier"
+    },
+    {
+      "name": "The Fortune",
+      "region": "Great Inagua",
+      "where": "Reward for finishing the Treasure Map",
+      "gate": "Hang all 11 portraits to get that map",
+      "reward": "Legendary cutlass"
+    },
+    {
+      "name": "Dual Cleavers",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 19,000 Reales",
+      "gate": "Store upgrade level 3",
+      "reward": "Legendary cutlass"
+    },
+    {
+      "name": "Order of Gold",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 29,000 Reales",
+      "gate": "Store upgrade level 3",
+      "reward": "Legendary pistol sword"
+    },
+    {
+      "name": "Blades of Toledo",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 24,000 Reales",
+      "gate": "Store upgrade level 3",
+      "reward": "Legendary cutlass"
+    },
+    {
+      "name": "Persian Scimitars",
+      "region": "Not stated",
+      "where": "Treasure reward from the Restored Weathered Map",
+      "gate": "Find the map",
+      "reward": "Legendary cutlass"
+    },
+    {
+      "name": "Matched Golden Swords",
+      "region": "Great Inagua docks (Treasure Dealer)",
+      "where": "Bought from the Treasure Dealer with 5,000 Reales shop build plus 8 Deer Hide, 12 Crocodile Leather, 20 Sugar",
+      "gate": "Build Treasure Dealer shop",
+      "reward": "Legendary cutlass"
+    },
+    {
+      "name": "Masterwork Blades",
+      "region": "Great Inagua docks (Treasure Dealer)",
+      "where": "Bought from the Treasure Dealer with 6 Wild Pig Hide, 4 Rabbit Pelt, 30 Aloe",
+      "gate": "Build Treasure Dealer shop (5,000 Reales)",
+      "reward": "Legendary rapier"
+    },
+    {
+      "name": "Espada Ancha",
+      "region": "Shipwreck: The Black Trench",
+      "where": "In an underwater chest",
+      "gate": "",
+      "reward": "Rare cutlass"
+    },
+    {
+      "name": "French Court Swords",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 6,500 Reales",
+      "gate": "Store upgrade level 2",
+      "reward": "Rare rapier"
+    },
+    {
+      "name": "Pirate Scimitars",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 11,000 Reales",
+      "gate": "Store upgrade level 2",
+      "reward": "Rare cutlass"
+    },
+    {
+      "name": "British Colonial Cutlasses",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 6,500 Reales",
+      "gate": "Store upgrade level 2",
+      "reward": "Rare cutlass"
+    },
+    {
+      "name": "Scottish Broadswords",
+      "region": "Isla Providencia",
+      "where": "Reward from the Treasure Map there",
+      "gate": "Find the map",
+      "reward": "Rare cutlass"
+    },
+    {
+      "name": "Standard Pistol Swords",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 6,500 Reales",
+      "gate": "Store upgrade level 2",
+      "reward": "Rare pistol sword"
+    },
+    {
+      "name": "Captain Drake's Swords",
+      "region": "Sacrifice Island (15, 550)",
+      "where": "In a chest",
+      "gate": "",
+      "reward": "Rare rapier"
+    },
+    {
+      "name": "Ferraro's Rapiers",
+      "region": "Secret store on unmarked island NW of Gibara (550, 638)",
+      "where": "Bought for 16,000 Reales",
+      "gate": "Find the island",
+      "reward": "Rare rapier"
+    },
+    {
+      "name": "Officer's Rapiers",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 8,500 Reales",
+      "gate": "Store upgrade level 2",
+      "reward": "Rare rapier"
+    },
+    {
+      "name": "British Cutlasses",
+      "region": "Story",
+      "where": "Automatic reward in Sequence 02, Mission 01 (Lively Havana)",
+      "gate": "Story progress",
+      "reward": "Common cutlass"
+    },
+    {
+      "name": "French Dress Swords",
+      "region": "Any General Store",
+      "where": "Bought for 1,200 Reales",
+      "gate": "",
+      "reward": "Common rapier"
+    },
+    {
+      "name": "Spanish Cup-hilt Rapiers",
+      "region": "Havana (205, 607)",
+      "where": "In a chest",
+      "gate": "",
+      "reward": "Common rapier"
+    },
+    {
+      "name": "Officer's Smallswords",
+      "region": "Story",
+      "where": "Starting weapon in Sequence 01",
+      "gate": "",
+      "reward": "Common rapier"
+    }
+  ],
+  "gaps": [
+    "Page gives no stats or effects for any sword; no single stated total (needs at least 18 for Dilettante; categories sum to 28)."
+  ],
+  "notes": "Page says nothing is missable; all obtainable in free roam after the story. Swords 1-8 are DLC/Helix/pre-order and not needed for the trophy. Store swords total 128,200 Reales plus 5,000 for the Treasure Dealer."
+}

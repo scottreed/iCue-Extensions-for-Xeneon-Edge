@@ -1,0 +1,152 @@
+{
+  "retrieved": "2026-10-24",
+  "sources": [
+    "https://consolepulse.com/multiplatform/assassins-creed/guides/all-animus-rifts-walkthrough-ac-black-flag-resynced",
+    "https://www.videogameschronicle.com/guide/ac-black-flag-resynced-dark-animus-locations/",
+    "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/animus-hub/rifts",
+    "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/animus-hub",
+    "https://guides4gamers.com/assassins-creed-black-flag-resynced/pois/rifts/",
+    "https://vandal.elespanol.com/en/assassin-s-creed-black-flag-resynced/assassin-s-creed-black-flag-resynced-all-animus-rifts.html",
+    "https://mapmaster.io/games/assassin-s-creed-black-flag-resynced/guides/Vault%20Data%20File"
+  ],
+  "rifts": [
+    {
+      "name": "Wayward Souls",
+      "unlock": "Opens after Sequence 4 (ending with the mission Overrun and Outnumbered). The game gives no notice; you must visit the spot. One source (Vandal) instead names the main quest This Old Cove as the unlock.",
+      "where": "Southern tip of Great Inagua, map coordinates 825, 429 (VGC, ConsolePulse, GamerGuides). Reachable by sailing the Jackdaw round the south coast, or on foot across the island (large drop at the end; roll before landing). A purple Animus icon shows on the HUD and map on arrival. Another source describes it as an island off the south coast with floating rocks visible from afar.",
+      "steps": [
+        "Go to the marker and start the quest; you may leave it in the log and return later.",
+        "Step through the portal; no gear prep is needed.",
+        "Pick up the treasure chest and keep carrying it; health drains while you are not holding it.",
+        "At each blocked path, put the chest down, jump to the ship wheel (beams of light point at wheels) and turn it, then grab the chest again.",
+        "The second stop needs two wheels; the third stop needs a climb or pond route and a lift plus zipline back to the chest.",
+        "When the floor is covered in spikes, jump forward; a safe platform appears if you trust Ego.",
+        "Choice at the end: trust Ego and wait for the shorter ending, or follow the Eagle into a Leap of Faith for the longer route.",
+        "Longer route: a fast underwater ride; steer left and right early to dodge the jellyfish-like walls, then climb out without the chest while health drains.",
+        "Finish with the Ego dialogue about Edward keeping his promise to Caroline; you return to Great Inagua."
+      ],
+      "tips": [
+        "Follow the beams of light to find the next wheel quickly.",
+        "Keep moving at all times while the chest is not in your hands.",
+        "Start moving sideways as you reach each group of tentacles in the fast section.",
+        "Keys lie along the route to the Rift and count toward the Animus Hub Exchange."
+      ],
+      "reward": "Lock of Hair, a Rare trinket that restores a little health after a Perfect Parry. The Eagle route gives an extra 5,000 Reales (ConsolePulse). Counts toward the 300 Keys bonus for all four Rifts.",
+      "gaps": [
+        "Unlock quest disagrees between sources (Overrun and Outnumbered vs This Old Cove).",
+        "Step order of the wheel sections differs slightly between sources; the list above merges them."
+      ]
+    },
+    {
+      "name": "Wayward Desires",
+      "unlock": "Opens after Sequence 8 (Do Not Go Gently; VGC also calls it Blackbeard's Death). GamerGuides-style source says 'after starting Sequence 8'.",
+      "where": "Small island just north of Nassau, coordinates 604, 784. Noticeable when sailing near Nassau.",
+      "steps": [
+        "Restock pistol ammo and Remedies first.",
+        "Resynchronize at the tomb, then with the figure who comes out, and jump from the ship bow.",
+        "Cross the ships, defeating enemies; shoot ranged enemies first and use swivel guns and red explosive barrels on groups.",
+        "Use ziplines, then land on the cannonballs when you drop to the platform.",
+        "Swim the whirlpool section, steering clear of red barrels; cannon-fire section: dodge shots and avoid danger areas.",
+        "Fight Blackbeard: dodge heavy attacks and punish the recovery; he vanishes after losing about a quarter of health.",
+        "Final arena: thin out his crew with barrels, swivel guns and quick shots, then focus on him; several pistol shots break his guard for a takedown.",
+        "Climb the mast and swap the Jolly Roger for the British flag; resynchronize to finish."
+      ],
+      "tips": [
+        "Ranged attacks are safer because the white setting hides enemy attack indicators.",
+        "Move out of the danger circles at once.",
+        "Blue corpses drop Remedies.",
+        "If the second zipline fails to appear, update the game (Title Update 1.0.4 is said to fix it)."
+      ],
+      "reward": "Legendary Queen Anne's Revenge Wheel for the Jackdaw.",
+      "gaps": [
+        "Unlock wording differs slightly between sources.",
+        "Danger circles are called red or green depending on the source."
+      ]
+    },
+    {
+      "name": "Wayward Minds",
+      "unlock": "Opens after Sequence 11 (named Everything Is Permitted by ConsolePulse, Delirium by Vandal and GamerGuides-style source). The gate may not appear until you come back after more story progress, with no clear notification.",
+      "where": "Northwest tip of Sacrifice Island, coordinates 14, 559. One source places it northwest of Contoy.",
+      "steps": [
+        "Advance and defeat the enemies; at the first gate aim by hand at the visible enemies rather than using automatic quick shots.",
+        "If an enemy carries a musket, shoot him or get close to him.",
+        "Spare the guard beside the climbable wall so the route opens.",
+        "Edward gives up his pistols at a grave and later his swords, turning the Rift into a stealth challenge.",
+        "Do not assassinate the sniper over the final bridge; climb the stairs first.",
+        "Stealth part: avoid guards and floating spotlights (being seen fails the Rift); move between flower beds and reeds as the light passes, using the barn roof and ledges.",
+        "Pass the gate and sprint-jump the narrow last stretch before the spotlight catches up.",
+        "Interact with Mary's silhouette and choose Renounce the Creed."
+      ],
+      "tips": [
+        "Do not kill the guard by the wall or the final sniper; if the route stays shut or resets, reload the checkpoint and spare them.",
+        "Keep two rotating manual saves before this Rift and before True Purpose."
+      ],
+      "reward": "The Don't Forget Your Old Shipmate sea shanty (sheet music).",
+      "gaps": [
+        "Unlock sequence name differs between sources.",
+        "The stealth route steps come from one source only."
+      ]
+    },
+    {
+      "name": "True Purpose",
+      "unlock": "After finishing the story through the Epilogue (Ever a Splinter), plus the first three Rifts per ConsolePulse. Another source says to reload your save after the story ends.",
+      "where": "Island east of Misteriosa and northeast of Fort Serranilla, coordinates 363, 176. Waters are stormy, so repair and resupply the Jackdaw first.",
+      "steps": [
+        "Sail to the island with a repaired, resupplied ship.",
+        "At the theater choice only two options appear and neither progresses; wait through the crow and Eagle dialogue until a third option, Fight Back, shows up and pick it.",
+        "On the rafters, kill ranged enemies first because their shots can knock Edward off.",
+        "Use the hooks to lift stage scenery and reveal the route.",
+        "Collect Remedies before the boss.",
+        "Fight Ego's Emotion Agent in two phases: dodge big attacks, break the guard with pistol quick shots, then take it down in the opening.",
+        "Save Remedies and bullets for the second phase."
+      ],
+      "tips": [
+        "Boss moves: whirlwind (dodge and punish), ground pound (leave the ring), ground fracture (use the gaps), anomaly shield (avoid the four blocks), searing stones (five rocks in phase two), chaos beam (fires three times; wait out the third).",
+        "Pattern that works: dodge, shoot during recovery, takedown, reset distance."
+      ],
+      "reward": "Legendary Dark Animus Corsair Pistol Swords, whose heavy attacks fire free shots. Finishing all four Rifts also gives 300 Animus Keys.",
+      "gaps": [
+        "Route details are sparse; two sources deliberately avoid spoilers.",
+        "Unclear whether the first three Rifts are strictly required (only one source states it)."
+      ]
+    }
+  ],
+  "dark_animus": [
+    {
+      "name": "Dark Animus questline (same four quests as the Rifts)",
+      "where": "Wayward Souls at Great Inagua south (825, 429); Wayward Desires north of Nassau (604, 784); Wayward Minds at Sacrifice Island northwest (14, 559); True Purpose east of Misteriosa (363, 176).",
+      "unlock": "Unlock gradually: after Sequence 4, Sequence 8, Sequence 11 and the Epilogue. A quest only shows on the map once you get near its location.",
+      "steps": [
+        "Take them in order: Wayward Souls, Wayward Desires, Wayward Minds, True Purpose.",
+        "See the individual Rift entries for steps."
+      ],
+      "reward": "Completing all four grants the Dark Animus Corsair Pistol Swords (VGC); ConsolePulse says that comes from True Purpose itself and that all four give 300 Keys.",
+      "gaps": [
+        "VGC says the remake replaces the original modern-day story with this Dark Animus questline.",
+        "No separate Dark Animus quests beyond the four Rifts were found in the sources."
+      ]
+    }
+  ],
+  "animus_hub": [
+    "The Animus Hub holds the Rift quests and an Exchange store that Keys are spent in; the stock of the store was not described.",
+    "Keys can be found in the world, including along the route to Wayward Souls.",
+    "Finishing all four Rifts gives 300 Keys, which must be claimed by hand: Animus Hub, Synchronization section.",
+    "If the all-Rifts goal will not complete, check the four individual rewards are owned, then restart and look again; some players report tracking bugs.",
+    "Animus Projects: a free battle-pass style system that you spend Data Fragments in.",
+    "Data Fragments: a live-service currency earned from timed Anomaly challenges that spawn periodically on the Caribbean Sea map (white Animus icons that turn purple when selected).",
+    "Anomaly types: sinking corrupted ships, opening corrupted chests, defeating corrupted entities.",
+    "Each completed Anomaly gives 700 to 900 Data Fragments; Rifts also give some.",
+    "Project rewards: cosmetics, Animus Keys and exclusive gear, such as Dark Animus Corsair Flintlocks and Corsair Robes from the Eye in the Dark Project.",
+    "The four story Rifts do not need Data Fragments.",
+    "Vault Data Files are separate: about 35 fixed-location modern-day lore collectibles that each unlock an Animus database entry. A few need level gates in the Riptides Animus Project or story progress.",
+    "Fragment sets named by one source: The Journey, The Watchers, Devils of the Caribbean, Ego, Breach."
+  ],
+  "gaps": [
+    "Sources disagree on which story mission unlocks Wayward Souls and Wayward Minds.",
+    "True Purpose has no detailed route; Wayward Minds stealth route and Wayward Desires boss details come from single sources.",
+    "Project structure, levels and full reward lists for Animus Projects were not found.",
+    "The full list of Vault Data File locations was not captured (only a sample of 11).",
+    "GamerGuides animus-hub page and Vandal page had no step or coordinate detail; the Vandal page only gave unlocks and rewards."
+  ],
+  "notes": "All sources fetched successfully (none blocked). Content is paraphrased from the pages; coordinates are the pages' own map coordinates. Mapmaster page supplied Vault Data File and Data Fragment details only."
+}

@@ -1,0 +1,122 @@
+{
+ "category": "Mayan Stelae",
+ "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-mayan-stelae-locations/",
+ "retrieved": "2026-10-24",
+ "stated_total": 16,
+ "items": [
+  {
+   "name": "Stelae #1",
+   "region": "Not stated",
+   "where": "Completed automatically in Sequence 04, Mission 01 (This Old Cove); no action needed.",
+   "gate": "",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #2",
+   "region": "Dry Tortuga region - Cape Bonavista",
+   "where": "Climb the pillar, line the larger circle with the bottom pillar, and scale the pattern down until it fits.",
+   "gate": "",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #3",
+   "region": "Dry Tortuga region - Matanzas",
+   "where": "Climb the pillar and line the larger circle with the tree on the left.",
+   "gate": "",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #4",
+   "region": "Eleuthera region - Cat Island",
+   "where": "Stand on the pillar, line the large circle with the rock on the left, and scale it to fit.",
+   "gate": "",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #5",
+   "region": "Punta Guarico region - Tortuga",
+   "where": "In the western part of the map; the page gives no more detail.",
+   "gate": "",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #6",
+   "region": "Castillo de Jagua region - Pinos Isle",
+   "where": "On top of the wall you see on entering the island.",
+   "gate": "",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #7",
+   "region": "Castillo de Jagua region - Pinos Isle",
+   "where": "On the western part of the island, near the viewpoint.",
+   "gate": "",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #8",
+   "region": "Conttoyor region - Sacrifice Island",
+   "where": "Directly in front of the southern viewpoint.",
+   "gate": "",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #9",
+   "region": "Tulum (region not stated)",
+   "where": "On the western side, in front of a ruin.",
+   "gate": "Northern Tulum opens after Sequence 04, Mission 03 (The Sage's Buried Secret).",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #10",
+   "region": "Chinchorro region - Santanillas",
+   "where": "Find and climb the pillar to reach the puzzle at the stele waypoint.",
+   "gate": "",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #11",
+   "region": "Serranilla region - Misteriosa",
+   "where": "On the sides of the ruins overlooking the island; climb to the top of the pillar and investigate.",
+   "gate": "",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #12",
+   "region": "Serranilla region - Misteriosa",
+   "where": "On the southwest side of the island; climb the pillar and investigate.",
+   "gate": "",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #13",
+   "region": "Serranilla region - New Bone",
+   "where": "In the forest on the east side of the island; climb the pillar and investigate.",
+   "gate": "",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #14",
+   "region": "Isla Providencia (region not stated)",
+   "where": "Below the western viewpoint.",
+   "gate": "Only reachable during or after Sequence 08, Mission 03 (Marooned).",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #15",
+   "region": "Isla Providencia (region not stated)",
+   "where": "On top of the ruins below the northern viewpoint.",
+   "gate": "Only reachable during or after Sequence 08, Mission 03 (Marooned).",
+   "reward": "One Mayan Stone"
+  },
+  {
+   "name": "Stelae #16",
+   "region": "Charlotte region - Long Bay",
+   "where": "In the southern corner of the bay, between large square blocks.",
+   "gate": "Only reachable during or after Sequence 10, Mission 03 (The Observatory).",
+   "reward": "One Mayan Stone"
+  }
+ ],
+ "gaps": [],
+ "notes": "Page lists all 16. Collecting all 16 unlocks the Mayan Outfit at a door in Tulum. Item 5 has minimal detail on the page."
+}

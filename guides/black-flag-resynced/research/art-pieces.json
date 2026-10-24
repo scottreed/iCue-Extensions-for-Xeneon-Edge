@@ -1,0 +1,297 @@
+{
+  "category": "Art Collection Art Pieces",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-art-collection-art-pieces-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 41,
+  "items": [
+    {
+      "name": "Bat-Nosed Figurine",
+      "region": "Any General Store",
+      "where": "Buy at a General Store.",
+      "gate": "Costs 500 Reales",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Deity Figurine",
+      "region": "Nassau",
+      "where": "Local event \"Black Market Shopping\" at (599, 758).",
+      "gate": "Local event",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Eagle Figurine",
+      "region": "Any General Store",
+      "where": "Buy at a General Store.",
+      "gate": "Costs 1,000 Reales",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Earth Monster Relief",
+      "region": "Andreas Island",
+      "where": "Treasure map at (543, 693); dig at Abaco Island (586, 811), by the palm trees near the large shipwreck.",
+      "gate": "Treasure map",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Taino Bust",
+      "region": "Any General Store",
+      "where": "Buy at a General Store.",
+      "gate": "Costs 1,300 Reales",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Bust of a Water Deity",
+      "region": "Corozal",
+      "where": "Underwater chest at (2, 241).",
+      "gate": "",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Jar with Ritual Scene",
+      "region": "Any General Store",
+      "where": "Buy at a General Store.",
+      "gate": "Costs 1,750 Reales",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Maize Deity",
+      "region": "Salt Lagoon",
+      "where": "Treasure map at (723, 608); dig at New Bone (407, 94), on a small island north of New Bone.",
+      "gate": "Treasure map",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Pectoral Disk",
+      "region": "Any General Store",
+      "where": "Buy at a General Store.",
+      "gate": "Costs 2,100 Reales",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Pedestal Bowl",
+      "region": "Cumberland Bay",
+      "where": "Chest inside a tent in the middle of the bay (644, 352).",
+      "gate": "",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Seated Zemi Figure",
+      "region": "Any General Store",
+      "where": "Buy at a General Store.",
+      "gate": "Costs 2,400 Reales",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Standard Bearer",
+      "region": "Port Royal",
+      "where": "Treasure map at (605, 132); dig at Principe (113, 11), at a palm leaning over water on the beach.",
+      "gate": "Treasure map",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Tripod Vessel with Date Glyph",
+      "region": "Cayman Sound",
+      "where": "Underwater chest in the west at (295, 308).",
+      "gate": "",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Triptych",
+      "region": "Kingston",
+      "where": "Chest in a gazebo in the middle of town (618, 173).",
+      "gate": "",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Vulture Vessel",
+      "region": "New Bone",
+      "where": "Chest in the west; climb the pillar at the end of the jungle path (399, 89).",
+      "gate": "",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Baroque Guitar",
+      "region": "Ile a Vache",
+      "where": "Treasure map at (812, 114); dig at Jiguey (534, 510), at the pirate cave on the right side of the beach.",
+      "gate": "Treasure map",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Beaver Pelt",
+      "region": "Santanillas",
+      "where": "Local event \"Divine Secret Kept\" at (182, 217); swim in via the southwest opening or jump from the Mayan temple.",
+      "gate": "Local event",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Bracelet",
+      "region": "Long Bay",
+      "where": "Chest in the upper part of the Mayan cave southeast of Long Bay (507, 223).",
+      "gate": "Story: Sequence 10 Mission 03 (The Observatory)",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Cabinet",
+      "region": "Tulum",
+      "where": "Chest in the north at (37, 392).",
+      "gate": "Story: Sequence 04 Mission 04 (Overrun and Outnumbered)",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Chalice",
+      "region": "Great Inagua",
+      "where": "Chest southeast of the manor (830, 444); the codex wrongly says Havana.",
+      "gate": "",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Clock",
+      "region": "Fleet (West region)",
+      "where": "Random drop from the Brig Piracy mission \"Profitable War\" in the West region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Commode",
+      "region": "Fleet (Southwest region)",
+      "where": "Random drop from the Brig Piracy mission \"Treacherous Isles\" in the Southwest region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Turkish Copper Field Flask",
+      "region": "Nassau",
+      "where": "Local event \"A Moment of Freedom\" at (593, 767).",
+      "gate": "Local event",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Drum",
+      "region": "Fleet (West region)",
+      "where": "Random drop from the Brig Piracy mission \"Sneaky Traders\" in the West region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Goa Stone Container",
+      "region": "Fleet (Northeast region)",
+      "where": "Random drop from the Brig Piracy mission \"Big Mistake\" in the Northeast region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Head of an Oba",
+      "region": "Fleet (Northeast region)",
+      "where": "Random drop from the Brig Piracy mission \"Trespassers\" in the Northeast region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Jar with Four Faces",
+      "region": "Fleet (Southeast region)",
+      "where": "Random drop from the Brig Piracy mission \"Welcome Chaos\" in the Southeast region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Joined Armchair with Cushion",
+      "region": "Fleet (Northwest region)",
+      "where": "Random drop from the Brig Piracy mission \"Sail North\" in the Northwest region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Kast Cupboard",
+      "region": "Fleet (Southeast region)",
+      "where": "Random drop from the Brig Piracy mission \"Helping Hand\" in the Southeast region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Mirror Back",
+      "region": "Fleet (Southeast region)",
+      "where": "Random drop from the Brig Piracy mission \"Easy Profit\" in the Southeast region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Oboe",
+      "region": "Fleet (West region)",
+      "where": "Random drop from the Brig Piracy mission \"Sneaky Traders\" in the West region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Parade Helmet a l'Antique",
+      "region": "Fleet (Southwest region)",
+      "where": "Random drop from the Brig Piracy mission \"Good Deeds\" in the Southwest region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Scherer's 1700 Globe",
+      "region": "Fleet (Northwest region)",
+      "where": "Random drop from the Brig Piracy mission \"Lively Havana\" in the Northwest region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "British Silver Teapot",
+      "region": "Fleet (Southwest region)",
+      "where": "Random drop from the Brig Piracy mission \"Easy Prey\" in the Southwest region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Silver Two-handed Bowl",
+      "region": "Fleet (West region)",
+      "where": "Random drop from the Brig Piracy mission \"Fair Share\" in the West region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Trumpet",
+      "region": "Fleet (Northeast region)",
+      "where": "Random drop from the Brig Piracy mission \"A Pound of Gold\" in the Northeast region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Violoncello",
+      "region": "Fleet (West region)",
+      "where": "Random drop from the Brig Piracy mission \"Fair Share\" in the West region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Whydah Galley-style Bell",
+      "region": "Fleet (Southeast region)",
+      "where": "Random drop from the Brig Piracy mission \"Right in the Middle\" in the Southeast region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Wooden Term Statue of St. Adrian",
+      "region": "Fleet (West region)",
+      "where": "Random drop from the Brig Piracy mission \"Heavy Burden\" in the West region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Wooden Term Statue of St. Livertin",
+      "region": "Fleet (Northeast region)",
+      "where": "Random drop from the Brig Piracy mission \"Easy Prey\" in the Northeast region.",
+      "gate": "Fleet gate: Fleet Planning table (after Sequence 04 Mission 01), at least one fort conquered per region, five Brig Piracy missions run at once, one per region. Drop is random.",
+      "reward": "Art piece"
+    },
+    {
+      "name": "Yoke-Form Vessel",
+      "region": "Grand Cayman",
+      "where": "Chest on the western hill (357, 298); buy 5 drinks at the tavern so you pass out next to the chest.",
+      "gate": "",
+      "reward": "Art piece"
+    }
+  ],
+  "gaps": [],
+  "notes": "Page breakdown: 16 world pickups, 6 General Store purchases, 19 random Fleet rewards (matches the 41 captured). Fleet pieces need the Fleet gate; page advises a manual save before accepting a fleet report and reloading if no art piece drops. All 41 give the Dilettante trophy. Region for fleet rows is Fleet plus the compass region of the Brig Piracy mission."
+}

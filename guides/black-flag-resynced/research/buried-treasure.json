@@ -1,0 +1,214 @@
+{
+ "category": "Buried treasure",
+ "source": [
+  "https://www.gamerguides.com/assassins-creed-black-flag-resynced/checklists/buried-treasure-locations",
+  "https://mapmaster.io/games/assassin-s-creed-black-flag-resynced/guides/Buried%20Treasure%20Chest"
+ ],
+ "retrieved": "2026-10-24",
+ "stated_total": 28,
+ "items": [
+  {
+   "name": "Havana Treasure Map site",
+   "region": "Havana",
+   "where": "Ground under the lighthouse (MapMaster: campfire at the base of the city wall).",
+   "gate": "",
+   "reward": "3,000 Reales; Queen Anne's Figurehead Design Plans; map: Havana Treasure Map"
+  },
+  {
+   "name": "Kingston South Warehouse map site",
+   "region": "Cumberland Bay (matched via MapMaster)",
+   "where": "Sand west of the rowboat on the island's northern tip.",
+   "gate": "",
+   "reward": "Reward not stated here (MapMaster: 4,000 Reales); map: Kingston South Warehouse map"
+  },
+  {
+   "name": "Isla Providencia (Nassau Warehouse map)",
+   "region": "Isla Providencia",
+   "where": "Sand south of the southeast viewpoint.",
+   "gate": "Loot the Nassau Warehouse first; main story progress",
+   "reward": "Governor's Outfit; 2,000 Reales; map: Nassau Warehouse map"
+  },
+  {
+   "name": "Cape Bonavista",
+   "region": "Cape Bonavista",
+   "where": "Small pool at the back of a cave; go north from the rowboat beach and follow the cave left.",
+   "gate": "Quests 'Edward Kenway' and 'This Tyro Captain' plus fast travel unlocked (MapMaster)",
+   "reward": "1,500 Reales; map: Cape Bonavista Treasure Map"
+  },
+  {
+   "name": "Abaco Island",
+   "region": "Abaco Island",
+   "where": "Dig spot near the shipwreck northeast of the island.",
+   "gate": "",
+   "reward": "Earth Monster Relief (art piece); 2,500 Reales; map: Abaco Island Treasure Map (MapMaster says Andreas Island map)"
+  },
+  {
+   "name": "Petite Caverne map site",
+   "region": "Tulum (matched via MapMaster)",
+   "where": "Just south of the watchtower; the dig prompt shows when close.",
+   "gate": "",
+   "reward": "3,000 Reales; Fire Barrel Storage Ultimate Plan; map: Petite Caverne Treasure Map"
+  },
+  {
+   "name": "Salt Lagoon map site",
+   "region": "Salt Lagoon",
+   "where": "Shore northwest of the island.",
+   "gate": "",
+   "reward": "Serpent Figurehead Design Plan; 3,000 Reales; map: Salt Lagoon map (from Abaco Island)"
+  },
+  {
+   "name": "Petite Caverne (Cayman Sound map)",
+   "region": "Petite Caverne",
+   "where": "In the cave past the large room, behind large rocks.",
+   "gate": "",
+   "reward": "Heavy Shot Storage Ultimate Plan; 3,000 Reales; map: Petite Caverne map from Cayman Sound"
+  },
+  {
+   "name": "Cayman Sound",
+   "region": "Cayman Sound",
+   "where": "Northeastern shore.",
+   "gate": "",
+   "reward": "4,000 Reales; Ivory Wheel Design Plan (checklist); map: Cayman Sound map (from Pinos Isle)"
+  },
+  {
+   "name": "Misteriosa Treasure Map site (first)",
+   "region": "Kingston (matched via MapMaster)",
+   "where": "Near barrels by a wrecked boat.",
+   "gate": "",
+   "reward": "Not stated (MapMaster: 3,000 Reales; Gilded Hull Design Plan); map: Misteriosa Treasure Map"
+  },
+  {
+   "name": "Isla Providencia Treasure Map site",
+   "region": "Unconfirmed",
+   "where": "Sand just south of the huts.",
+   "gate": "",
+   "reward": "Not stated; map: Isla Providencia Treasure Map"
+  },
+  {
+   "name": "Ile a Vache Treasure Map site",
+   "region": "Jiguey",
+   "where": "Smugglers' cave, between a palm tree and a white shelter.",
+   "gate": "",
+   "reward": "Not stated (MapMaster: Baroque Guitar art piece; 2,000 Reales); map: Ile a Vache Treasure Map"
+  },
+  {
+   "name": "Ambergris Key map site",
+   "region": "Ambergris Key",
+   "where": "Dirt patch surrounded by skeletons (MapMaster: small cave on the stairs of the smuggler den).",
+   "gate": "",
+   "reward": "2,000 Reales; Pirate Captain Outfit; map: Ambergris Key map (from Corozal)"
+  },
+  {
+   "name": "Andreas Island Treasure Map site",
+   "region": "Andreas Island",
+   "where": "Under palm trees on a tiny island south of Andreas Island.",
+   "gate": "",
+   "reward": "3,000 Reales; Harpoon Strength Ultimate Plan; map: Andreas Island Treasure Map"
+  },
+  {
+   "name": "Havana Warehouse Treasure Map site",
+   "region": "Anotto Bay (matched via MapMaster)",
+   "where": "Dirt patch with an explosive barrel in front of it.",
+   "gate": "",
+   "reward": "2,000 Reales; Crimson Cloak; map: Havana Warehouse Treasure Map"
+  },
+  {
+   "name": "Salt Lagoon Treasure Map site",
+   "region": "New Bone (matched via MapMaster)",
+   "where": "Sand on a small island.",
+   "gate": "",
+   "reward": "2,500 Reales; Maize Deity; map: Salt Lagoon Treasure Map"
+  },
+  {
+   "name": "Great Inagua Treasure Map site",
+   "region": "Nassau (matched via MapMaster)",
+   "where": "Grass under the large rocky platform.",
+   "gate": "",
+   "reward": "3,000 Reales; Elite Sails Design Plan; map: Great Inagua Treasure Map"
+  },
+  {
+   "name": "Tortuga Treasure Map site",
+   "region": "Matanzas (matched via MapMaster)",
+   "where": "Walk through the waterfall.",
+   "gate": "",
+   "reward": "3,000 Reales; Mortar Storage Ultimate Plan; map: Tortuga Treasure Map"
+  },
+  {
+   "name": "Santanillas Treasure Map site",
+   "region": "San Juan (matched via MapMaster)",
+   "where": "Through the San Juan cave, buried in dirt.",
+   "gate": "",
+   "reward": "3,000 Reales; Fire Barrel Strength Ultimate Plan; map: Santanillas Treasure Map"
+  },
+  {
+   "name": "Pinos Isle Treasure Map site",
+   "region": "Pinos Isle",
+   "where": "Through the ruins, near shrubbery.",
+   "gate": "",
+   "reward": "3,000 Reales; Ivory Wheel Design Plan; map: Pinos Isle Treasure Map"
+  },
+  {
+   "name": "Misteriosa Treasure Map site (second)",
+   "region": "Misteriosa",
+   "where": "Shrubbery just before the waterfall.",
+   "gate": "",
+   "reward": "3,000 Reales; Heavy Shot Strength Ultimate Plan; map: Misteriosa Treasure Map"
+  },
+  {
+   "name": "Restored Digested Map",
+   "region": "Santanillas (matched via MapMaster)",
+   "where": "Travel through ruins on the coast to the dig site (MapMaster: cave under the Mayan ruin).",
+   "gate": "Map from the Great Inagua Treasure Dealer (MapMaster)",
+   "reward": "Not stated (MapMaster: Hunter Outfit; Hunter's Amulet Trinket); map: Restored Digested Map"
+  },
+  {
+   "name": "Restored Preserved Map",
+   "region": "Unconfirmed",
+   "where": "Coast dig site.",
+   "gate": "Treasure Dealer map (assumed)",
+   "reward": "Not stated; map: Restored Preserved Map"
+  },
+  {
+   "name": "Portraits Treasure Map site",
+   "region": "Unconfirmed",
+   "where": "Sand just beyond the coast.",
+   "gate": "",
+   "reward": "Not stated; map: Portraits Treasure Map"
+  },
+  {
+   "name": "Restored Tattered Map",
+   "region": "Florida (matched via MapMaster)",
+   "where": "Dig spot on the shore (MapMaster: northwest tip among skeletons).",
+   "gate": "Dealer map; Treasure Dealer fully restored in 'Former Glories' (MapMaster)",
+   "reward": "Gilt Lined Sails; Elite Wheel; Sleek Crew Attire; map: Restored Tattered Map"
+  },
+  {
+   "name": "Restored Weathered Map",
+   "region": "Unconfirmed",
+   "where": "Dirt in the middle of a small island.",
+   "gate": "Treasure Dealer map (assumed)",
+   "reward": "Persian Scimitars; Gargoyle's Breath; map: Restored Weathered Map"
+  },
+  {
+   "name": "Restored Yellowed Map",
+   "region": "Unconfirmed",
+   "where": "Near trees in the middle of a forest.",
+   "gate": "Treasure Dealer map (assumed)",
+   "reward": "Not stated; map: Restored Yellowed Map"
+  },
+  {
+   "name": "Principe Treasure Map site",
+   "region": "Principe",
+   "where": "Sand on the coast.",
+   "gate": "",
+   "reward": "1,000 Reales; Standard Bearer (art piece); map: Principe Treasure Map"
+  }
+ ],
+ "gaps": [
+  "The 28 rows are the checklist rows (name, map, where, reward as it gives them). Regions come from MapMaster by matching rewards, because the checklist gives none; this matching is inferred and could be wrong for rows marked 'matched via MapMaster'.",
+  "Regions unconfirmed for 6 rows (Isla Providencia huts, Restored Preserved, Portraits, Restored Weathered, Restored Yellowed).",
+  "MapMaster lists extra chests not clearly in the checklist: Blackbeard's chest at Anotto Bay (Blackbeard's Treasure quest; Blackbeard's Portrait) and an underwater Dry Tortuga chest on a half-sunken ship (Havana map #2, found during the 'Smelly Sailors' event; Guardian Beast Trinket). The Portraits site may be Blackbeard's.",
+  "Maps leading to sites disagree between sources in places."
+ ],
+ "notes": "Checklist (gamerguides) says 28 Buried Treasure locations on the Caribbean Sea map. MapMaster calls them Buried Treasure Chests: intro says 22 dig sites, its table lists 24. PC Gamer headline says 26 treasure maps."
+}

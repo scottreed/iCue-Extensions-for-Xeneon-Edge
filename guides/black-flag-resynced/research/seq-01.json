@@ -1,0 +1,47 @@
+{
+  "sequence": 1,
+  "source": "https://www.consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-guide-sequence-1-walkthrough",
+  "retrieved": "2026-10-24",
+  "memories": [
+    {
+      "name": "Edward Kenway",
+      "objective": "Survive the opening sea battle off Cape Bonavista, wash ashore, defeat the false Brotherhood man Duncan Walpole, and sail out toward Havana.",
+      "steps": [
+        "Take the wheel of the ship (the helmsman is dead) and learn naval combat.",
+        "Aim the cannons at the five enemy vessels and sink them all.",
+        "After being thrown overboard, swim southeast toward the wreckage until the cutscene.",
+        "Chase the fleeing man southeast into the island: climb the tree and cross the broken bridge.",
+        "Head east to the tall wooden tower (the Viewpoint), climb it and synchronize.",
+        "Follow the trail south past the waterfall platform and another broken bridge, then past the southern huts.",
+        "Drop into the stream and catch up with Walpole.",
+        "Win the duel using lock-on, attacks, parry and dodge; a perfect parry allows a quick takedown.",
+        "Take Walpole's robes and the Glass Cube, and read the letter on his body.",
+        "After the second Viewpoint, head southwest and free the merchant by clearing the five soldiers (stealth, combat or both).",
+        "Swim to the waiting boat to start the sailing tutorial and sail out of the bay toward Havana."
+      ],
+      "optional": [
+        "Loot huts along the climb and the skeleton beside the main path.",
+        "Dive east near the second Viewpoint to find an easily missed underwater chest.",
+        "Island collectibles listed: 2 Viewpoints, 1 Chest, 2 Song Sheets or Shanties, 3 Secrets (some stay locked until a later chapter).",
+        "Loot the area before swimming to the boat; the island is locked off later in the story."
+      ],
+      "tips": [
+        "Aim at the hull for the most damage in naval combat.",
+        "Lowering speed tightens the turning radius and helps close distance.",
+        "There is no sprint timer in the chase, so you can explore the island.",
+        "Holding the focus button highlights nearby loot and points of interest even before Eagle Vision is unlocked.",
+        "Synchronizing the Viewpoint reveals nearby collectibles on the map.",
+        "Melee: lock on, keep attacking until a blue spark shows a broken guard, parry timed to the spark, dodge, repeat.",
+        "Stealth toolkit: Eagle Vision outlines enemies, the focus button tags them, crouch in bushes, whistle to lure enemies.",
+        "Sailing: one press opens the sails partway, a second opens them fully, and the lower-sails button slows you down."
+      ],
+      "gaps": [
+        "The page has no formal objective or optional-objective list; steps were summarised from its stage descriptions.",
+        "Exact positions of the Song Sheets, Secrets and the single chest are not given.",
+        "How long the window to loot the island stays open is not stated.",
+        "Controls are given only for PlayStation/Xbox style pads, no keyboard or mouse bindings."
+      ]
+    }
+  ],
+  "notes": "Page fully fetched in one call and appeared complete. It is organised as six unnamed stages (opening, swim and chase, first Viewpoint, Walpole duel, merchant rescue, sailing) rather than separate named memories, so all of it is folded into the single memory Edward Kenway. The page also lists a short cast (Edward, Walpole, Torres) and says Walpole's robes matter later."
+}

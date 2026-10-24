@@ -1,0 +1,94 @@
+{
+  "category": "Paintings",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-paintings-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 12,
+  "items": [
+    {
+      "name": "Map of the World",
+      "region": "Tortuga",
+      "where": "Loot the Tortuga Warehouse; the key is in a banana crate just west of the plantation centre (first raid).",
+      "gate": "Warehouse key",
+      "reward": "Painting"
+    },
+    {
+      "name": "Vanitas Still-life",
+      "region": "Kingston (North)",
+      "where": "Loot the Kingston North Warehouse; an enemy patrolling the manor in the northeast of the warehouse area holds the key.",
+      "gate": "Warehouse key",
+      "reward": "Painting"
+    },
+    {
+      "name": "An English Ship in Action with Barbary Vessels",
+      "region": "New Bone",
+      "where": "Loot the New Bone Warehouse; an enemy at the Mayan Stelae in the northwest corner holds the key.",
+      "gate": "Warehouse key",
+      "reward": "Painting"
+    },
+    {
+      "name": "Harbor Scene at Sunset",
+      "region": "Nassau",
+      "where": "Loot the Nassau Warehouse; an enemy on the southwest beach holds the key, and nearby guards hint at it.",
+      "gate": "Warehouse key",
+      "reward": "Painting"
+    },
+    {
+      "name": "Merry Company",
+      "region": "Matanzas",
+      "where": "Loot the Matanzas Warehouse; the key is on a body behind the crocodile pond on a small corner island in the southwest.",
+      "gate": "Warehouse key",
+      "reward": "Painting"
+    },
+    {
+      "name": "Nymphs By A Fountain",
+      "region": "Kingston (South)",
+      "where": "Loot the Kingston South Warehouse; an enemy directly north of the big barn holds the key.",
+      "gate": "Warehouse key",
+      "reward": "Painting"
+    },
+    {
+      "name": "Saint Jerome as Cardinal",
+      "region": "Havana",
+      "where": "Loot the Havana Warehouse; an enemy in the northwest corner of the plantation holds the key.",
+      "gate": "Warehouse key",
+      "reward": "Painting"
+    },
+    {
+      "name": "The Burning of the Royal James",
+      "region": "Cat Island",
+      "where": "Given automatically; no warehouse looting needed.",
+      "gate": "Granted in Sequence 03 Mission 05 (Sugarcane and Its Yields)",
+      "reward": "Painting"
+    },
+    {
+      "name": "The Flight into Egypt",
+      "region": "Black Island",
+      "where": "Loot the Black Island Warehouse; a soldier at a campfire on the path to the southwest beach holds the key. Can bug out; suggested fix is to finish Lucy's 2nd officer quest then wait 2 real hours for enemies to respawn.",
+      "gate": "Warehouse key",
+      "reward": "Painting"
+    },
+    {
+      "name": "Der Liederliche Student",
+      "region": "Unmarked island at map coordinates (550, 638)",
+      "where": "Buy from the secret general store there.",
+      "gate": "2,000 Reales",
+      "reward": "Painting"
+    },
+    {
+      "name": "Vanitas Still-life (Pieter Cleasz)",
+      "region": "Unmarked island at map coordinates (550, 638)",
+      "where": "Buy from the secret general store there; counts as separate from the warehouse Vanitas painting.",
+      "gate": "2,000 Reales",
+      "reward": "Painting"
+    },
+    {
+      "name": "Harbour Scene at Sunset (Claude Lorrin)",
+      "region": "Unmarked island at map coordinates (550, 638)",
+      "where": "Buy from the secret general store there; counts as separate from the Nassau painting.",
+      "gate": "2,000 Reales",
+      "reward": "Painting"
+    }
+  ],
+  "gaps": [],
+  "notes": "Nine come from warehouses and three from a merchant; only 9 are needed for the Dilettante art collection. All can be hung in Great Inagua Manor. The three bought ones list under Strange Paintings in the Codex. A commenter says those three did not appear for them; no fix given. A reply says at least one more painting is needed to fully decorate the manor, but the platinum is still possible without it."
+}

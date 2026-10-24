@@ -1,0 +1,278 @@
+{
+  "category": "outfits",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-outfit-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 0,
+  "items": [
+    {
+      "name": "Master Assassin Robes",
+      "region": "Online store (DLC)",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Master Assassin DLC (in Deluxe Edition)",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Master Assassin Outfit",
+      "region": "DLC",
+      "where": "Deluxe Edition or Master Assassin Character Pack",
+      "gate": "Own the DLC or Deluxe Edition",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Dragonscale Armor",
+      "region": "Online store (DLC)",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Dragon Storm DLC",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Hellion Armor",
+      "region": "Online store (DLC)",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Hellfire DLC",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Stormfury Shroud",
+      "region": "Online store (DLC)",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Sea Serpent DLC",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Blackbeard's Crimson Outfit",
+      "region": "DLC",
+      "where": "Crimson Pack pre-order bonus",
+      "gate": "Crimson Pack",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Altair Ibn-La'Ahad's Robes",
+      "region": "Animus Exchange (captain's cabin rift)",
+      "where": "Bought for 3000 Keys",
+      "gate": "Keys",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Connor's Outfit",
+      "region": "Animus Exchange (captain's cabin rift)",
+      "where": "Bought for 3000 Keys",
+      "gate": "Keys",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Ezio Auditore's Robes",
+      "region": "Animus Exchange (captain's cabin rift)",
+      "where": "Bought for 3000 Keys",
+      "gate": "Keys",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Dark Animus Corsair Robes",
+      "region": "Animus project Eye in the Dark (captain's cabin rift)",
+      "where": "Project reward",
+      "gate": "Animus project",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Naoe's Robes",
+      "region": "Animus project Riptides (captain's cabin rift)",
+      "where": "Project reward",
+      "gate": "Animus project",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Yasuke's Yoroi",
+      "region": "Animus project Undertow (captain's cabin rift)",
+      "where": "Project reward",
+      "gate": "Animus project",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Edward the Legend",
+      "region": "Great Inagua (821, 445)",
+      "where": "Finish side quest Former Glories, then talk to the butler",
+      "gate": "Side quest",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Captain Morgan's Redingote",
+      "region": "Black Island (915, 618)",
+      "where": "In a chest",
+      "gate": "",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Captain Drake's Outfit",
+      "region": "Sacrifice Island (23, 552)",
+      "where": "In a chest",
+      "gate": "",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Shade and Shadow Robes",
+      "region": "Restored Preserved Map",
+      "where": "Solve the treasure map",
+      "gate": "Treasure map",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Nomad's Bronze Ensemble",
+      "region": "In-game store",
+      "where": "Free; claim via the Options button on the map",
+      "gate": "",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Stede Bonnet's Attire",
+      "region": "Mystery Island (913, 123)",
+      "where": "In a chest",
+      "gate": "",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Haytham Kenway's Overcoat",
+      "region": "Great Inagua Manor",
+      "where": "Hang all 11 character portraits",
+      "gate": "11 portraits",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Templar Armor",
+      "region": "Great Inagua Manor",
+      "where": "Finish all Templar Hunt missions, then use their 5 keys",
+      "gate": "All Templar Hunts, 5 keys",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Mayan Outfit",
+      "region": "Tulum (secret door)",
+      "where": "Finish all 16 Mayan Stelae, then use the Tulum waypoint",
+      "gate": "16 Mayan Stelae",
+      "reward": "Legendary, cosmetic"
+    },
+    {
+      "name": "Hunter Outfit",
+      "region": "Restored Digested Map",
+      "where": "Solve the treasure map",
+      "gate": "Treasure map",
+      "reward": "Rare, cosmetic"
+    },
+    {
+      "name": "Governor's Outfit",
+      "region": "Nassau Warehouse map (Isla Providencia)",
+      "where": "Solve the map",
+      "gate": "Treasure map",
+      "reward": "Rare, cosmetic"
+    },
+    {
+      "name": "Politician's Outfit",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 3000 Reales",
+      "gate": "Store upgrade level 2",
+      "reward": "Rare, cosmetic"
+    },
+    {
+      "name": "Crimson Cloak",
+      "region": "Havana Warehouse map (Anotto Bay)",
+      "where": "Solve the map",
+      "gate": "Treasure map",
+      "reward": "Rare, cosmetic"
+    },
+    {
+      "name": "Privateer Outfit",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 3000 Reales",
+      "gate": "Store upgrade level 2",
+      "reward": "Rare, cosmetic"
+    },
+    {
+      "name": "Merchant Outfit",
+      "region": "Great Inagua General Store",
+      "where": "Bought for 3000 Reales",
+      "gate": "Store upgrade level 2",
+      "reward": "Rare, cosmetic"
+    },
+    {
+      "name": "Pirate Captain Outfit",
+      "region": "Corozal map (Ambergris Key)",
+      "where": "Solve the map",
+      "gate": "Treasure map",
+      "reward": "Rare, cosmetic"
+    },
+    {
+      "name": "Officer's Outfit",
+      "region": "Principe (116, 11)",
+      "where": "In a chest",
+      "gate": "Sequence 09, Mission 02 Trust is Earned; fast travel via the P on the map (939, 415)",
+      "reward": "Rare, cosmetic"
+    },
+    {
+      "name": "Stealth Outfit",
+      "region": "Assassin Contracts",
+      "where": "Complete 15 Assassin Contracts",
+      "gate": "15 contracts",
+      "reward": "Rare, cosmetic"
+    },
+    {
+      "name": "Feline Pelt Outfit",
+      "region": "Great Inagua docks (Treasure Dealer)",
+      "where": "Bought from the Treasure Dealer",
+      "gate": "Build his shop for 5000 Reales",
+      "reward": "Rare, cosmetic"
+    },
+    {
+      "name": "Whaler Outfit",
+      "region": "Great Inagua docks (Treasure Dealer)",
+      "where": "Bought from the Treasure Dealer",
+      "gate": "Build his shop for 5000 Reales",
+      "reward": "Rare, cosmetic"
+    },
+    {
+      "name": "Shark-Hunter Outfit",
+      "region": "Great Inagua docks (Treasure Dealer)",
+      "where": "Bought from the Treasure Dealer",
+      "gate": "Build his shop for 5000 Reales",
+      "reward": "Rare, cosmetic"
+    },
+    {
+      "name": "Pirate Cloak",
+      "region": "Any General Store",
+      "where": "Bought for 600 Reales",
+      "gate": "",
+      "reward": "Common, cosmetic"
+    },
+    {
+      "name": "Duncan Walpole's Robes",
+      "region": "Story",
+      "where": "Unlocked automatically in the Sequence 01 prologue",
+      "gate": "",
+      "reward": "Common, cosmetic"
+    },
+    {
+      "name": "Brown Cloak",
+      "region": "Havana (204, 573)",
+      "where": "In a chest",
+      "gate": "",
+      "reward": "Common, cosmetic"
+    },
+    {
+      "name": "Edward Kenway's Robes",
+      "region": "Story",
+      "where": "Unlocked automatically",
+      "gate": "",
+      "reward": "Common, cosmetic"
+    },
+    {
+      "name": "Foreign Diplomat Disguise",
+      "region": "Story",
+      "where": "Unlocked automatically in Sequence 12, Mission 01 A Governor No Longer",
+      "gate": "",
+      "reward": "Common, cosmetic"
+    }
+  ],
+  "gaps": [
+    "Page states no single total (section headings sum to 38, matching the list); no stats for any outfit."
+  ],
+  "notes": "Page says all outfits are cosmetic and none are needed for trophies. A reader comment mentions an unlisted Explorer outfit near (28, 292); unverified and excluded."
+}

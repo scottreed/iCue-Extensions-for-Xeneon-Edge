@@ -1,0 +1,220 @@
+{
+  "category": "Assassin Contracts",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-assassin-contract-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 30,
+  "items": [
+    {
+      "name": "Beach Bonfire",
+      "region": "Dry Tortuga / Havana",
+      "where": "Take it at the southern pigeon coop; the target stands near the middle of the camp.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill with an explosive"
+    },
+    {
+      "name": "Unlicensed Dealer",
+      "region": "Dry Tortuga / Havana",
+      "where": "Take it at the southern coop; the target wanders the middle of the area.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from a hiding spot"
+    },
+    {
+      "name": "The Spanish Captain",
+      "region": "Dry Tortuga / Havana",
+      "where": "Take it at the central coop; the target wanders the middle of the area.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill with the rope dart"
+    },
+    {
+      "name": "A Shipment of Powder",
+      "region": "Dry Tortuga / Havana",
+      "where": "Take it at the central coop, then head to the target.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill with an explosive"
+    },
+    {
+      "name": "No More Taxes",
+      "region": "Dry Tortuga / Havana",
+      "where": "Take it at the northern coop; the target is in the middle of the area.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from a hiding spot"
+    },
+    {
+      "name": "A Botched Escape",
+      "region": "Dry Tortuga / Havana",
+      "where": "Take it at the northern coop; two targets are in the middle of the area.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill both with a double assassination"
+    },
+    {
+      "name": "The Informant",
+      "region": "Dry Tortuga / Salt Key Bank",
+      "where": "Take it at the coop; the target is an enemy on patrol.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: aerial assassination"
+    },
+    {
+      "name": "Shady Business",
+      "region": "Dry Tortuga / Salt Key Bank (target in Cape Bonavista)",
+      "where": "Take it at the coop; the target stands in the middle of Cape Bonavista.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill while in a stalking zone"
+    },
+    {
+      "name": "A Slaver's Business",
+      "region": "Eleuthera / Andreas Island",
+      "where": "Take it at the coop; the target is an enemy chatting with slaves.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from a stalking zone"
+    },
+    {
+      "name": "The Poachers",
+      "region": "Eleuthera / Andreas Island (target on Abaco Island)",
+      "where": "Take it at the coop; the target is an enemy standing by a dog.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from a hiding spot"
+    },
+    {
+      "name": "The Pirate Captain",
+      "region": "Eleuthera / Nassau",
+      "where": "Take it at the coop; the target is hitting a wooden post.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from a stalking zone"
+    },
+    {
+      "name": "The Outlaws",
+      "region": "Eleuthera / Nassau",
+      "where": "Take it at the coop; the target is a bigger enemy walking about.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill with the rope dart"
+    },
+    {
+      "name": "The Dreaded Pirate",
+      "region": "Gibara / Crooked Island",
+      "where": "Take it at the coop; the target is a large enemy roaming a ship.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from above"
+    },
+    {
+      "name": "The Deserter",
+      "region": "Gibara / Crooked Island (target on Salt Lagoon)",
+      "where": "Take it at the coop; the target roams the beach.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from above"
+    },
+    {
+      "name": "The Twin Dilemma",
+      "region": "Cruz / Grand Cayman",
+      "where": "Take it at the western coop; two targets stand in front of the tavern.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill both with a double assassination"
+    },
+    {
+      "name": "The Smuggler's Squat",
+      "region": "Cruz / Grand Cayman (San Juan cave)",
+      "where": "Take it at the western coop; the target walks around inside the cave.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: hang him with the rope dart"
+    },
+    {
+      "name": "A Last Drink For The Road",
+      "region": "Castillo de Jagua / Arroyos",
+      "where": "Take it at the northern coop; the target is close to the tavern.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from above"
+    },
+    {
+      "name": "Tomb Raiders",
+      "region": "Castillo de Jagua / Arroyos (target on Pinos Isle)",
+      "where": "Take it at the northern coop; the target walks among the ruins.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill with an explosive"
+    },
+    {
+      "name": "The Unworthy Brother",
+      "region": "Chinchorro / Corozal",
+      "where": "Take it at the coop on the south end; the target is the pirate captain at the tavern.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: hang him with the rope dart"
+    },
+    {
+      "name": "The Outlaw's Cave",
+      "region": "Chinchorro / Corozal (Ambergris Key Cave)",
+      "where": "Take it at the south coop; the target is in the ruins beyond the underwater cave. Finishes once he and every other enemy there is dead.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from above"
+    },
+    {
+      "name": "Renegade",
+      "region": "Serranilla / New Bone",
+      "where": "Take it at the east coop; the target is a fugitive at an eastern camp. Kill him and the rest of the men there.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from a stalking zone"
+    },
+    {
+      "name": "The Treasure Hunter",
+      "region": "Serranilla / New Bone (target on Misteriosa Island)",
+      "where": "Take it at the east coop; the target is the Spanish leader near the top of the ruins.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from above using the rope dart"
+    },
+    {
+      "name": "The Weapons Smugglers",
+      "region": "Navassa / Kingston",
+      "where": "Take it at the coop south of the church; the target is in a courtyard east of the church. Kill him and the others there.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill with an explosive"
+    },
+    {
+      "name": "The British Captain",
+      "region": "Navassa / Kingston",
+      "where": "Take it at the coop south of the church; the target is on the south shore. Kill him and the others there.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from above"
+    },
+    {
+      "name": "The Plantation Master",
+      "region": "Navassa / Kingston",
+      "where": "Take it at the coop north of the church near the General Store; the target is outside his heavily guarded northern plantation house. Kill him, then flee or kill the guards.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from a stalking zone such as crouched in brush"
+    },
+    {
+      "name": "The Guard Post",
+      "region": "Navassa / Kingston",
+      "where": "Take it at that same coop; the target is a Templar captain on high ground southwest of the northern plantation. Kill him and nearby enemies.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill while hanging from a ledge"
+    },
+    {
+      "name": "The Judge",
+      "region": "Navassa / Port Royal",
+      "where": "Take it at the east coop; the target is a judge knocking on doors of a building in the island centre.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from above (described as optional)"
+    },
+    {
+      "name": "The Arms Deal",
+      "region": "Navassa / Port Royal",
+      "where": "Take it at the east coop; an arms dealer and a Templar buyer are in the northern Restricted Area. Kill both.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill both at the same moment"
+    },
+    {
+      "name": "The Slave Master",
+      "region": "Navassa / Ile a Vache",
+      "where": "Take it at the central coop; the target paces the beach at the southern camp.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill from a stalking zone such as tall grass"
+    },
+    {
+      "name": "The Expedition",
+      "region": "Navassa / Ile a Vache (Cumberland Bay)",
+      "where": "Take it at the central coop; the target is the privateer leader in the middle of Cumberland Bay.",
+      "gate": "Contracts show up after Sequence 05 Mission 01 (The Forts) and get revealed by syncing viewpoints; none are missable.",
+      "reward": "Reales payout (base amount not stated); +500 Reales bonus: kill with an explosive"
+    }
+  ],
+  "gaps": [],
+  "notes": "Each optional bonus condition adds 500 Reales. Page gives no base payout. Some entries name a region and a different island (e.g. Shady Business, The Poachers, The Deserter, Tomb Raiders, The Treasure Hunter); both are recorded as the page states them."
+}

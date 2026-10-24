@@ -1,0 +1,66 @@
+{
+ "category": "Friendly animals",
+ "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-friendly-animal-locations/",
+ "retrieved": "2026-10-24",
+ "stated_total": 8,
+ "items": [
+  {
+   "name": "Monkey",
+   "region": "Havana (unlock); pet it at Great Inagua manor or in the Jackdaw captain cabin",
+   "where": "Finish the local event Monkey Business, marked south of Havana town; then equip the monkey from the inventory (6th slot under the outfit) and pet it.",
+   "gate": "Complete Monkey Business",
+   "reward": "Equippable monkey companion; no other reward stated"
+  },
+  {
+   "name": "Turtle",
+   "region": "Abaco Island",
+   "where": "On the beach at (584, 807).",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Dog",
+   "region": "Kingston",
+   "where": "At the docks where you land and appear on fast travel, (617, 167).",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Pig",
+   "region": "Kingston",
+   "where": "Head right along the beach from the docks to the general store; it is in the fenced area beside it, (617, 167).",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Chicken",
+   "region": "Kingston",
+   "where": "Wanders around town, including near the pig.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Cow",
+   "region": "Kingston (east side)",
+   "where": "In a fenced area between the Monkey and Harbourmaster map icons, (627, 161).",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Cat",
+   "region": "Kingston",
+   "where": "Roams the central market square, the street north of the central viewpoint and other spots.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Parrot",
+   "region": "Havana, or Great Inagua as alternative",
+   "where": "Caged at the Havana market square (211, 586); alternatively a caged parrot appears outside the Great Inagua general store (818, 440).",
+   "gate": "Great Inagua option needs the store fully upgraded, which needs Sequence 04, Mission 02 (Nothing Is True)",
+   "reward": ""
+  }
+ ],
+ "gaps": [],
+ "notes": "Pet or interact with each animal. The page says the trophy text mentions 7 animals but there are 8; completing all gives the Friend To All trophy. None are missable and all can be done after the story. Some animals roam or flee in combat. If one fails to spawn, fast travel away, skip to morning (hold D-Pad Right) and fast travel back."
+}

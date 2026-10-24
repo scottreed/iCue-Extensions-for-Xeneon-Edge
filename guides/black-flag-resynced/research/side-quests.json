@@ -1,0 +1,407 @@
+{
+  "retrieved": "2026-10-24",
+  "quests": [
+    {
+      "name": "Former Glories",
+      "group": "Great Inagua hideout (Manor and village)",
+      "start": "Added to the quest log once Great Inagua becomes your hideout; the butler Bernard Woodhouse introduces the rebuilding.",
+      "unlock": "Finish the main mission This Old Cove.",
+      "steps": [
+        "Capture Great Inagua so the hideout and manor become yours.",
+        "Restore the 7 village buildings: General Store, Tavern, Harbourmaster, Brothel, Campfire, Treasure Dealer, Fisherman's Wharf.",
+        "Buy all 3 Manor upgrades: Facade, Tower and Garden, Guesthouse.",
+        "Return to Bernard Woodhouse on the hill above the settlement to end the quest."
+      ],
+      "tips": [
+        "Only the first tier of the General Store and Harbourmaster counts toward the requirement; tiers II and III can wait.",
+        "Costs per one source (Reales): General Store 500/2,500/5,000; Tavern 100; Harbourmaster 500/2,500/5,000; Brothel 6,000; Campfire 6,000; Treasure Dealer 5,000; Fisherman's Wharf 5,000; Facade 4,000; Tower and Garden 8,000; Guesthouse 20,000.",
+        "Tier-one buildings plus the Manor come to about 55,100 Reales (one source's own sum).",
+        "Tavern first, since some buildings unlock only after others (Gamer Guides checklist).",
+        "Naval contract income helps pay for upgrades (Techwiser)."
+      ],
+      "reward": "Edward the Legend outfit (cosmetic only). Mapmaster lists the final butler meeting as a separate stage named A Finished Home, needing Former Glories plus all three Art Lover parts.",
+      "source": "https://guides4gamers.com/assassins-creed-black-flag-resynced/quests/former-glories/",
+      "gaps": [
+        "Sources disagree on whether the Manor costs also need materials or trade goods.",
+        "Mapmaster says the final butler meeting also requires Art Lover to be finished; Guides4Gamers does not."
+      ]
+    },
+    {
+      "name": "Damn Fine Gear",
+      "group": "Great Inagua hideout (Manor); tied to Templar Hunts",
+      "start": "A gated room with five locks in the Great Inagua manor (study, by the globe table); Kidd shows it and Edward opens one lock with a key taken from Julien du Casse.",
+      "unlock": "Finish the main mission This Old Cove.",
+      "steps": [
+        "Finish This Old Cove so the quest and the Templar Hunts appear.",
+        "Complete the four Templar Hunts in any order; each ends with killing a Templar who carries a key.",
+        "Collect the key from each hunt.",
+        "Return to the five-lock gate in the manor and open it with the four hunt keys plus du Casse's key.",
+        "Take the Templar Armor from the room behind the gate."
+      ],
+      "tips": [
+        "Start with whichever hunt is nearest your route to cut backtracking.",
+        "The 10,000 Reales can fund hideout upgrades.",
+        "The Templar Cross is described as good for melee play.",
+        "One source says the Kingston chain for Anto may be gated by story progress."
+      ],
+      "reward": "Templar Armor outfit, Templar Cross trinket (less melee damage taken), 10,000 Reales, 45 Bones.",
+      "source": "https://techwiser.com/assassins-creed-black-flag-resynced-damn-fine-gear/",
+      "gaps": [
+        "Hunt target names differ by source: Upton Travers vs Rhys, alongside Rhona Dinsmore, Anto, Opia Apito. Hunts are handled elsewhere.",
+        "Sources differ on where du Casse's key is obtained (a cutscene, or after killing him on his ship).",
+        "Armor room location described as the gate at the back of the main room by one source and Edward's second-floor quarters by another."
+      ]
+    },
+    {
+      "name": "Art Lover",
+      "group": "Art Collection (Great Inagua, Bernard Woodhouse)",
+      "start": "Follow James Kidd to the manor during This Old Cove; Bernard Woodhouse hands you the quest.",
+      "unlock": "Finish the main mission This Old Cove (cannot be missed).",
+      "steps": [
+        "Accept the quest from Bernard Woodhouse at the manor.",
+        "Collect art pieces from chests (including submerged and secret ones), warehouse raids, General Store purchases, treasure maps, first-time ship sinkings or captures (ship models), local events and main-story gifts.",
+        "Hand in 15 pieces to Bernard at the watermill.",
+        "Hand in 25 pieces to Bernard in the manor lounge.",
+        "Hand in 30 pieces to Bernard in the cave under the manor."
+      ],
+      "tips": [
+        "More than 30 pieces exist, so not all are needed.",
+        "English and Spanish ship variants count as separate models.",
+        "Raid each warehouse once and fight varied ship types.",
+        "Famous ships such as The Revenge arrive automatically through the story."
+      ],
+      "reward": "15 pieces: Found Coin, Le Bourgeoys Blades. 25 pieces: Aquila Figurehead, Aquila's Sails, Aquila's Wheel. 30 pieces: 4,000 Reales, Master Assassin Outfit, Obsidian Hull (Mapmaster adds Paddy Layback Shanty).",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/side-quests/art-lover-where-to-find-all-art-pieces",
+      "gaps": [
+        "Techwiser says 25 items needed; Gamer Guides and Mapmaster say 30 (three tiers).",
+        "Per-piece locations not captured here; PowerPyx lists 41 art pieces, 12 paintings and 20 ship models on separate pages.",
+        "Gamer Guides marks its page as still being updated."
+      ]
+    },
+    {
+      "name": "Mayan Mysteries",
+      "group": "Mayan Mysteries (Tulum)",
+      "start": "James Kidd guides you through the first stele on Great Inagua; the sealed door is at Tulum.",
+      "unlock": "Gamer Guides: finish This Old Cove. Techwiser and Mapmaster: finish Overrun and Outnumbered.",
+      "steps": [
+        "Find the stelae (16 in total) around the Caribbean, starting with the one on Great Inagua.",
+        "For each: climb the tallest totem, line the glowing outline up with nearby landmarks, and the buried stele location is revealed.",
+        "Gated stelae: Tulum (after Nothing is True), Isla Providencia (2, after Marooned), Long Bay (after The Observatory).",
+        "Return to the sealed door at Tulum that Kidd showed you.",
+        "Place all the stelae in the door to open the deeper ruins.",
+        "Do easy platforming to the far chamber and claim the rewards."
+      ],
+      "tips": [
+        "None of the gated stelae are missable; Providencia can be revisited later.",
+        "Listed areas: Great Inagua, Cape Bonavista, Matanzas, Cat Island, Tortuga, New Bone, Pinos Isle (2), Misteriosa (2), Santanillas, Sacrifice Island, Tulum, Isla Providencia (2), Long Bay."
+      ],
+      "reward": "Mayan Outfit (cosmetic), Yax Tun Pendant (reportedly absorbs gunshots).",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/side-quests/mayan-mysteries-all-mayan-stelae-locations",
+      "gaps": [
+        "Unlock mission differs between sources (This Old Cove vs Overrun and Outnumbered).",
+        "Exact stele coordinates not captured; PowerPyx has a 16 Mayan Stelae page."
+      ]
+    },
+    {
+      "name": "Blackbeard's Treasure",
+      "group": "Standalone treasure (Anotto Bay)",
+      "start": "A cutscene after Do Not Go Gently gives you the map; no quest-log marker, check the Codex. The map points north of Kingston, Anotto Bay.",
+      "unlock": "Finish the Sequence 8 mission Do Not Go Gently (formerly Do Not Go Quietly).",
+      "steps": [
+        "Sail round the east side of Kingston toward the pathfinder marker, staying close to the island if the fort is not yet taken.",
+        "Win the ship battle near the site: sink small boats, board to repair, wear down the largest ship, then dock at the bay.",
+        "Assassinate the searching pirates or fight them openly.",
+        "Dive and follow the jellyfish into the underwater cavern, dodging the shark.",
+        "In the first big room defeat the pirates, carry the powder keg to the rubble blocking the doorway, step back and shoot it.",
+        "In the next cave with a sloped floor defeat pirates, carry the keg up the slope to the rubble and shoot it open.",
+        "Open the treasure chest inside; a cutscene plays at Great Inagua."
+      ],
+      "tips": [
+        "Keep the Jackdaw's health high; the fort and pirate battle are the hardest parts.",
+        "Use small boats to repair mid-battle.",
+        "Stealth takedowns stop the searchers from starting a fight.",
+        "To skip the treasure hunt (Gamer Guides): fast travel to Kingston and plot a course to coordinates 591,243.",
+        "Another source says a Smuggler's Den chest at Anotto Bay opens with a key from a pirate when you return after finishing."
+      ],
+      "reward": "Blackbeard's Portrait. One source also mentions 4,962 Reales and a Weather Map Piece from the nearby chest.",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/side-quests/blackbeards-treasure-where-to-find-thatchs-treasure",
+      "gaps": [
+        "Coordinates differ slightly (591,243 vs 590,245).",
+        "Techwiser says it unlocks after This Old Cove; other sources say Do Not Go Gently."
+      ]
+    },
+    {
+      "name": "Captain Stede Bonnet",
+      "group": "Standalone story (Mystery Island)",
+      "start": "A letter from Bonnet arrives at the Great Inagua manor, then a quest marker appears.",
+      "unlock": "Finish the Sequence 8 mission Marooned (Ubisoft says it opens at the start of Sequence 9).",
+      "steps": [
+        "Read the letter at Great Inagua, which suggests Bonnet is jailed in Charles-Towne and asks Edward to check on his crew and gold.",
+        "Sail to Mystery Island, aiming for The Revenge at coordinates 906,122 rather than the vague marker.",
+        "Find the grounded ship with nobody aboard and investigate the deck.",
+        "Pirates appear and explain a crew mutiny over the key to Bonnet's gold; fight the mutineers beside Bonnet's loyal crew.",
+        "Fight the British Navy when it arrives hunting the treasure.",
+        "Return to the Revenge, unlock the hold and enter Bonnet's quarters.",
+        "Read the letter pinned to the desk with Stede's dagger, which says he is to hang the next day.",
+        "Hang the received portrait at the small shrine in the Great Inagua manor basement to finish."
+      ],
+      "tips": [
+        "Approach Mystery Island from the north or west; sailing too far south can meet a Legendary Ship (one source).",
+        "One source warns a battle can freeze the loyalists if scripts misfire; make manual saves first.",
+        "Not missable; can be done later."
+      ],
+      "reward": "Stede Bonnet's Portrait; Stede Bonnet's Dagger and a sea shanty per Techwiser and Mapmaster. Gamer Guides lists no gameplay rewards.",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/side-quests/captain-stede-bonnet-what-happened-to-the-gentleman-pirate",
+      "gaps": [
+        "Sources disagree whether the dagger is a usable weapon.",
+        "Unlock timing differs (end of Sequence 8 vs start of Sequence 9)."
+      ]
+    },
+    {
+      "name": "Cat Distribution System",
+      "group": "Ship pets (Great Inagua)",
+      "start": "Quest marker on Great Inagua.",
+      "unlock": "Finish This Old Cove.",
+      "steps": [
+        "Go to the Great Inagua docks and follow the road south.",
+        "Find the small plain house left of the road near the tree line.",
+        "Climb onto the roof where Soot the Cat sits.",
+        "Approach until the interact prompt shows, then interact; Edward picks the cat up.",
+        "Equip Soot from your inventory to have the cat on the Jackdaw."
+      ],
+      "tips": [
+        "The prompt is finicky; try approaching from the cat's side or another angle."
+      ],
+      "reward": "Soot the Cat, a cosmetic pet for the Jackdaw.",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/side-quests/cat-distribution-system-find-soot-the-cat",
+      "gaps": [
+        "Not in the user's named groups; appears only in Gamer Guides' side-quest list, not in Techwiser or Mapmaster.",
+        "Gamer Guides gives no explicit group; 'Ship pets' is my label."
+      ]
+    },
+    {
+      "name": "Monkey Business",
+      "group": "Ship pets (Havana)",
+      "start": "Marker at the southeastern edge of Havana, off the docks, pointing at an anchored Spanish ship.",
+      "unlock": "Finish This Old Cove.",
+      "steps": [
+        "Go to the southeast edge of Havana by the docks.",
+        "Listen to dock workers discussing the monkey to confirm the spot.",
+        "Swim to the Spanish ship.",
+        "Deal with the deck guards, including a heavy and a tougher captain, by fighting or stealth.",
+        "Once the deck is clear, interact with the monkey mid-deck."
+      ],
+      "tips": [
+        "Cling to the hull and pull stragglers over the edge to thin the numbers.",
+        "Taking out the heavy and the captain before boarding is recommended."
+      ],
+      "reward": "Albert the Monkey, a cosmetic pet for the Jackdaw.",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/side-quests/monkey-business-find-albert-the-monkey",
+      "gaps": [
+        "Same caveat as Cat Distribution System: only seen on Gamer Guides.",
+        "Group label is mine."
+      ]
+    },
+    {
+      "name": "A Proper Shipwright",
+      "group": "Officer quests - Lucy Baldwin (Shipwright)",
+      "start": "After This Old Cove, Adewale mentions Lucy, a shipwright held near Salt Key Bank; quest marker at about 465,608.",
+      "unlock": "Finish This Old Cove.",
+      "steps": [
+        "Fast travel to the marker at 465,608.",
+        "Spot the prison ship near the docks with the spyglass, swim to it and climb aboard.",
+        "Defeat the guards on deck.",
+        "Follow the green marker into the hold and defeat the guards there.",
+        "Watch the cutscene; Lucy accepts help escaping.",
+        "Sink the British fleet that appears when you leave the hold.",
+        "Share a drink; Lucy joins the crew."
+      ],
+      "tips": ["The fleet is weak and no cannon duels are required."],
+      "reward": "Lucy joins as Shipwright officer.",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/officer-quests/lucy-baldwin-shipwright-quests",
+      "gaps": ["Mapmaster says no reward listed."]
+    },
+    {
+      "name": "The One With the Gun",
+      "group": "Officer quests - Lucy Baldwin (Shipwright)",
+      "start": "Meet Lucy having a drink in the Great Inagua tavern.",
+      "unlock": "Finish A Proper Shipwright.",
+      "steps": [
+        "Carry the crate of plantain through town to the manor while Lucy tells her backstory.",
+        "Sail to Black Island using the marker at 913,611.",
+        "Sink the three schooners (the Baldwin fleet) until Lucy splits off.",
+        "Search the manor for the Barrister's Letter (ground floor) and the Last Will and Testament (first floor).",
+        "Rush to the barn when you hear a commotion.",
+        "Watch Lucy and her father fight, and him get shot.",
+        "Explore the island or return to the Jackdaw."
+      ],
+      "tips": [
+        "When the Perfect Brace prompt shows, brace just as enemy fire lands; the three schooners are good practice."
+      ],
+      "reward": "Perfect Brace ship ability (greatly cuts incoming ship damage when timed well); ConsolePulse also lists Black Ship's Sails.",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/officer-quests/lucy-baldwin-shipwright-quests",
+      "gaps": ["The Gamer Guides page puts the crate carrying inside this quest, while Mapmaster places the plantain-themed race in Plantain!."]
+    },
+    {
+      "name": "Plantain!",
+      "group": "Officer quests - Lucy Baldwin (Shipwright)",
+      "start": "At the Great Inagua tavern; Edward and Lucy talk and Lucy starts a race to the manor.",
+      "unlock": "Finish The One With the Gun.",
+      "steps": [
+        "Dock at Great Inagua and meet Lucy at the tavern.",
+        "Race Lucy to the manor.",
+        "Watch the short cutscene."
+      ],
+      "tips": ["Winning the race is not required to progress."],
+      "reward": "Baldwin's Golden Pistols (equip from inventory); described as better than the starting pistols but weaker than Deluxe or later weapons.",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/officer-quests/lucy-baldwin-shipwright-quests",
+      "gaps": ["Only a short step list is available; Mapmaster says to follow Lucy to the villa."]
+    },
+    {
+      "name": "Big Wig",
+      "group": "Officer quests - Lucy Baldwin (Shipwright)",
+      "start": "Lucy asks you to follow her to her grandfather's old cabin in Havana, where the Barrister may hide gold.",
+      "unlock": "Finish Plantain!",
+      "steps": [
+        "Fight the enemies near the overturned rowboat.",
+        "Stand by the rowboat facing the sea, turn right and follow the sandy path up.",
+        "Dig up the buried treasure (it appears by itself if you take too long).",
+        "Watch the scene where Lucy finds her mother's locket."
+      ],
+      "tips": ["The rowboat and sandy path directions find the treasure fast."],
+      "reward": "Completes her questline; ConsolePulse lists the Neatly Folded Letter.",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/officer-quests/lucy-baldwin-shipwright-quests",
+      "gaps": ["Mapmaster says a letter is retrieved and the Barrister and henchmen are fought; Gamer Guides does not mention the Barrister fight."]
+    },
+    {
+      "name": "A Second Chance",
+      "group": "Officer quests - The Padre (Master-at-Arms)",
+      "start": "Punta del Caracol at 918,340; Adewale asks Edward to find a Shipwright and a Master-at-Arms.",
+      "unlock": "Finish This Old Cove and make Great Inagua your hideout.",
+      "steps": [
+        "Sail to Punta del Caracol and dock.",
+        "Follow the path into the village and find the green marker with Eagle Sense; Padre is roasting meat.",
+        "After the cutscene, tell three villagers their food is ready (near a large tree on the hill, one on the beach).",
+        "Return to Padre, who asks you to carry meat to another person.",
+        "Return again; Padre asks you to check on the Jackdaw after rumours about du Casse's men."
+      ],
+      "tips": ["Eagle Sense or observe mode helps spot the marker."],
+      "reward": "Starts his recruitment chain; no item named.",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/officer-quests/abel-padre-galvao-master-at-arms-questline",
+      "gaps": ["Mapmaster says the meat is delivered to Dinah."]
+    },
+    {
+      "name": "Loyalty, Discipline, and Courage",
+      "group": "Officer quests - The Padre (Master-at-Arms)",
+      "start": "Begins right after A Second Chance.",
+      "unlock": "Finish A Second Chance.",
+      "steps": [
+        "Sail to Cumberland Bay at 648,348.",
+        "Dock and look for guards around a campsite by the fire glow.",
+        "Defeat everyone, enter the camp and read the note on the barrel.",
+        "Sail back to Punta del Caracol, which has been burned; Padre vows revenge and offers to join the crew."
+      ],
+      "tips": ["Groups of du Casse's men on the island can be killed for clues."],
+      "reward": "Ram Dash ship ability (charge into enemies, has a cooldown); upgradeable at the Great Inagua Harbormaster. Padre is recruited.",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/officer-quests/abel-padre-galvao-master-at-arms-questline",
+      "gaps": []
+    },
+    {
+      "name": "If Thy Right Hand Offend Thee",
+      "group": "Officer quests - The Padre (Master-at-Arms)",
+      "start": "A marker appears at Cape Bonavista, west of Havana.",
+      "unlock": "Later in the game; ConsolePulse says it is available during Diving for Medicines (Sequence 6), Mapmaster says after Loyalty, Discipline, and Courage.",
+      "steps": [
+        "Sail to Cape Bonavista, dock and swim ashore.",
+        "Use a shipwreck to reach high ground where six of du Casse's men wait; kill them.",
+        "Meet Padre deeper in; he mentions more foes in a cave nearby.",
+        "Hunt with Padre; kill six more enemies in the cave.",
+        "Check three marked clue spots: a firearms crate by a dying fire, a note on a tree, wine bottles on crates.",
+        "Stop Padre from forcing information out of a captured pirate; the quest ends with the decision to kill the bishop."
+      ],
+      "tips": ["Padre is called of dubious utility in combat."],
+      "reward": "None listed.",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/officer-quests/abel-padre-galvao-master-at-arms-questline",
+      "gaps": ["Unlock timing differs between sources."]
+    },
+    {
+      "name": "The Other Cheek",
+      "group": "Officer quests - The Padre (Master-at-Arms)",
+      "start": "Marker near the docks in Kingston.",
+      "unlock": "Finish If Thy Right Hand Offend Thee.",
+      "steps": [
+        "Meet Padre near the Kingston docks and hear the night mission.",
+        "Gather intel with snoop: a notice board inland, pickpocket the marked civilian after two dock civilians split, snoop on the pair at the pier end.",
+        "Report to Padre, who leads you to the forest edge.",
+        "Kill four of the bishop's minions and pass through foliage to his camp.",
+        "Defeat the roughly six goons and speak to the bishop.",
+        "Watch the closing scene."
+      ],
+      "tips": ["Assassinating the bishop from above the crucifix is optional."],
+      "reward": "Small Goblet trinket (one caption calls it Small Chalice).",
+      "source": "https://www.gamerguides.com/assassins-creed-black-flag-resynced/guide/walkthrough/officer-quests/abel-padre-galvao-master-at-arms-questline",
+      "gaps": ["Mapmaster lists an extra Padre quest, Between Heaven and Hell (not in the quest log); steps only: speak to villagers on Great Inagua then Padre on the Jackdaw. Not counted in the 11."]
+    },
+    {
+      "name": "No Box Dark Enough",
+      "group": "Officer quests - Tobias 'Deadman' Smith (Master Gunner)",
+      "start": "Petite Caverne at 876,244 (ConsolePulse); Keengamer places the start at Great Inagua.",
+      "unlock": "Deadman must have joined in It's A Start, part of A World Without Gold (after Everything Is Permitted, Sequence 11, with Lucy and Padre recruited).",
+      "steps": [
+        "Sail to Petite Caverne, swim ashore and wait for Deadman.",
+        "Fight through the British soldiers in the cavern with Deadman.",
+        "Go to the encampment at the far end.",
+        "Use Eagle Vision on the far side of the cliff to find the commander among three guards by a tent.",
+        "Defeat the commander; Deadman boxes him up, ending the quest."
+      ],
+      "tips": [],
+      "reward": "None listed for this quest.",
+      "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-deadman-officer-quests-guide",
+      "gaps": ["Single-source walkthrough; start location conflicts with Keengamer."]
+    },
+    {
+      "name": "All Love Must End",
+      "group": "Officer quests - Tobias 'Deadman' Smith (Master Gunner)",
+      "start": "Crooked Island, Deadman's home, under British attack.",
+      "unlock": "Finish No Box Dark Enough.",
+      "steps": [
+        "Sail to Crooked Island.",
+        "Clear the British soldiers occupying the village.",
+        "Free the four captured villagers.",
+        "Visit Deadman's house to finish."
+      ],
+      "tips": [],
+      "reward": "None listed; his house unlocks the final quest.",
+      "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-deadman-officer-quests-guide",
+      "gaps": ["Single-source walkthrough."]
+    },
+    {
+      "name": "Very Little, But Something",
+      "group": "Officer quests - Tobias 'Deadman' Smith (Master Gunner)",
+      "start": "Great Inagua; speak with Tobias.",
+      "unlock": "Finish All Love Must End.",
+      "steps": [
+        "Return to Great Inagua and speak with Tobias to unlock the Cohort Mortar.",
+        "Sail to the mission marker for a big naval battle.",
+        "Defeat the British fleet."
+      ],
+      "tips": [
+        "Weaken ships enough to board rather than sink them; boarding restores Jackdaw health.",
+        "Extra Salvo keeps you in the line of fire longer, so be careful against frigates and Men O' War."
+      ],
+      "reward": "Deadman's Cohort Mortar (faster, manually aimed mortar mode with a trail effect). Extra Salvo is granted earlier when he joins.",
+      "source": "https://consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-deadman-officer-quests-guide",
+      "gaps": ["Single-source walkthrough; Berkeley (unreliable) claims the mortar needs only the third quest."]
+    }
+  ],
+  "stated_total": 31,
+  "gaps": [
+    "No source gave a side-quest list that explains the public count of 20 Side Quest entries. Gamer Guides' checklist has 20 map entries but they include split stages (Former Glories x2, A World Without Gold chapter missions listed twice) and the A World Without Gold chain, which is a main-story-adjacent chapter (8 missions, Deadman recruited in it), not captured here.",
+    "The 11 Officer Quest entries most plausibly equal Lucy 4 + Padre 4 + Deadman 3 (No Box Dark Enough, All Love Must End, Very Little But Something). This is my inference from matching counts; no page says so. ConsolePulse counts 15 by also including four A World Without Gold missions, and Mapmaster lists a fifth Padre quest.",
+    "The user-named 'personal quests tied to Milo van der Graff' are naval contracts (he issues them at Great Inagua docks/manor); handled elsewhere and not captured.",
+    "A World Without Gold missions (That Bastard Maynard, Not Even a Real Captain, What the Devil!, It's a Start, I Just Want to Talk, Not Our Natural Allies, A Cockalorum, A World Without Gold) were not written up as quests; ConsolePulse (https://consolepulse.com/multiplatform/assassins-creed/guides/ac-black-flag-resynced-a-world-without-gold-walkthrough) has an outline if needed.",
+    "Cat Distribution System and Monkey Business appear only on Gamer Guides. Mapmaster also lists Dark Animus Rifts as a questline (rifts, handled elsewhere).",
+    "Not verified: whether Gamer Guides' page is for Resynced; its URLs say black-flag-resynced so it is."
+  ],
+  "notes": "Group names were not assigned by sources except Damn Fine Gear, Former Glories, Art Lover, Mayan Mysteries (Red Bull/search summary); Blackbeard's Treasure and Captain Stede Bonnet are the other two standard Side Quests (Red Bull, Techwiser, Gamer Guides list six: Art Lover, Blackbeard's Treasure, Captain Stede Bonnet, Damn Fine Gear, Former Glories, Mayan Mysteries). Cat Distribution System and Monkey Business are extra pet quests from Gamer Guides. Walkthroughs are paraphrased from Gamer Guides (Resynced) and ConsolePulse, techwiser, guides4gamers and Mapmaster. Mobalytics, Vulkk and redbull fetches failed or returned empty. Berkeleyhistoricalsociety ignored as instructed."
+}

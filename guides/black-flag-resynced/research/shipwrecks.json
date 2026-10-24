@@ -1,0 +1,62 @@
+{
+ "category": "Underwater shipwreck treasure chests",
+ "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-underwater-shipwreck-treasure-chests-locations/",
+ "retrieved": "2026-10-24",
+ "stated_total": 68,
+ "items": [
+  {
+   "name": "San Ignacio Wreck",
+   "region": "Not stated per wreck (see secrets.json for the area each wreck sits in)",
+   "where": "7 regular chests plus 1 secret chest; individual positions are only on map images.",
+   "gate": "Sequence 06, Mission 01 (Diving for Medicines); Diving Bell needed to enter",
+   "reward": "About 1,000 Reales per regular chest; secret chest gives Hull Armor Ultimate Plan"
+  },
+  {
+   "name": "Antocha Wreck",
+   "region": "Not stated per wreck (see secrets.json for the area each wreck sits in)",
+   "where": "Furthest north-east chest: swim outside to the back of the ship where a wall section is missing. 7 regular chests plus 1 secret chest; individual positions are only on map images.",
+   "gate": "Sequence 06, Mission 01 (Diving for Medicines); Diving Bell needed to enter",
+   "reward": "About 1,000 Reales per regular chest; secret chest gives Mortars Ultimate Plan"
+  },
+  {
+   "name": "The Black Trench Wreck",
+   "region": "Not stated per wreck (see secrets.json for the area each wreck sits in)",
+   "where": "7 regular chests plus 1 secret chest; individual positions are only on map images.",
+   "gate": "Sequence 06, Mission 01 (Diving for Medicines); Diving Bell needed to enter",
+   "reward": "About 1,000 Reales per regular chest; secret chest gives Espada Ancha (rare cutlass)"
+  },
+  {
+   "name": "La Concepcion Wreck",
+   "region": "Not stated per wreck (see secrets.json for the area each wreck sits in)",
+   "where": "9 regular chests plus 1 secret chest; individual positions are only on map images.",
+   "gate": "Sequence 06, Mission 01 (Diving for Medicines); Diving Bell needed to enter",
+   "reward": "About 1,000 Reales per regular chest; secret chest gives Ram Ultimate Plan"
+  },
+  {
+   "name": "Devil's Eye Caverns",
+   "region": "Not stated per wreck (see secrets.json for the area each wreck sits in)",
+   "where": "10 regular chests plus 1 secret chest; individual positions are only on map images.",
+   "gate": "Sequence 06, Mission 01 (Diving for Medicines); Diving Bell needed to enter",
+   "reward": "About 1,000 Reales per regular chest; secret chest gives Swivel Guns Ultimate Plan"
+  },
+  {
+   "name": "The Blue Hole",
+   "region": "Not stated per wreck (see secrets.json for the area each wreck sits in)",
+   "where": "10 regular chests plus 1 secret chest; individual positions are only on map images.",
+   "gate": "Sequence 06, Mission 01 (Diving for Medicines); Diving Bell needed to enter",
+   "reward": "About 1,000 Reales per regular chest; secret chest gives Broadside Cannons Number Ultimate Plan"
+  },
+  {
+   "name": "Kabah Ruins",
+   "region": "Not stated per wreck (see secrets.json for the area each wreck sits in)",
+   "where": "The two furthest-east chests are not marked on the map but still count and are required; they show a white dot when holding L2/LT. 11 regular chests plus 1 secret chest; individual positions are only on map images.",
+   "gate": "Sequence 06, Mission 01 (Diving for Medicines); Diving Bell needed to enter",
+   "reward": "About 1,000 Reales per regular chest; secret chest gives Round Shot Strength Ultimate Plan"
+  }
+ ],
+ "gaps": [
+  "Page gives only counts per wreck, no per-chest text locations (they are map images).",
+  "Region/island of each wreck is not stated on this page."
+ ],
+ "notes": "Counts per wreck: 7+7+7+9+10+10+11 = 61 regular chests, plus 7 secret chests = 68. So items here are 7 wrecks, not 68 individual chests. Chests show a white dot when holding L2/LT and nearby ones are marked on the map. Air barrels or pockets restore breath; for sharks, dodge sideways when a white glint shows on the mouth."
+}

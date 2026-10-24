@@ -1,0 +1,19 @@
+{
+  "category": "Legendary ships",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-legendary-ship-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 5,
+  "items": [
+    {"name": "El Impoluto", "region": "Not named by source", "where": "Map coords 117, 841. It rams head-on, then circles just outside your cannon range.", "gate": "No level gate; a fully upgraded ship and all officers are recommended", "reward": "Money and a legendary ship cosmetic. How to beat: copy its pattern - ram it back, fire Burning Shot before leaving its range, use the mortar while out of range, then ram again; brace to soak damage."},
+    {"name": "La Dama Negra", "region": "Not named by source", "where": "Map coords 240, 72. Relies on mortar barrages; generally the easiest legendary ship.", "gate": "No level gate; fully upgraded ship and all officers recommended", "reward": "Money and a legendary ship cosmetic. How to beat: stay close, fire Heated Shot broadsides and brace right after; fire your own mortar when it stops to set up its mortar."},
+    {"name": "HMS Prince", "region": "Not named by source", "where": "Map coords 854, 55. Has three health phases and hides in fog between them.", "gate": "No level gate; fully upgraded ship and all officers recommended", "reward": "Money and a legendary ship cosmetic. How to beat: at close-to-medium range use Heated Shot and brace while it reloads. After each phase it vanishes in fog and mortars you for one to two minutes - sail in circles and brace when needed. When it returns, ram head-on (Ram-Dash, needs The Padre), then stay in range for Burning Shot."},
+    {"name": "HMS Fearless", "region": "North-east corner (per source)", "where": "Map coords 811, 858, fought together with Royal Sovereign: two Man-o-Wars, one black-sailed and one white-sailed, moving as a pair.", "gate": "No level gate; fully upgraded ship and all officers recommended", "reward": "Money and legendary ship cosmetics (source does not split rewards between the two). How to beat: fire the mortar while they turn, Ram-Dash one ship, brace against its cannons and hit its back with Burning Shot; swivel gun on red weak spots. Do not chase them (they throw barrels). When one sinks the other turns more aggressive. Each has about half the health of a single legendary ship but the fight is hardest as both fire at you; neither can be boarded to repair."},
+    {"name": "Royal Sovereign", "region": "North-east corner (per source)", "where": "Same encounter and coordinates as HMS Fearless (811, 858).", "gate": "No level gate; fully upgraded ship and all officers recommended", "reward": "Money and legendary ship cosmetics (shared with HMS Fearless). Same tactics as HMS Fearless."}
+  ],
+  "gaps": [
+    "Source never names regions except calling the Fearless/Royal Sovereign fight north-east.",
+    "Source gives no separate rewards for the two Man-o-War ships.",
+    "Source counts 5 ships, with the last two as one fight."
+  ],
+  "notes": "Beating all legendary ships unlocks the Devil of the Caribbean trophy/achievement."
+}

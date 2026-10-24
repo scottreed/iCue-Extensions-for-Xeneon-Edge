@@ -1,0 +1,180 @@
+{
+  "category": "trinkets",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-trinket-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 0,
+  "items": [
+    {
+      "name": "Brass Bird Trinket",
+      "region": "Online store",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Master Assassin DLC (in Deluxe Edition)",
+      "reward": "Legendary: shorter Rope Dart cooldown"
+    },
+    {
+      "name": "Fortunate Circle Charm",
+      "region": "Online store",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Dragon Storm DLC",
+      "reward": "Legendary: brief invulnerability after a Perfect Dodge"
+    },
+    {
+      "name": "Demon-forged Pendant",
+      "region": "Online store",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Hellfire DLC",
+      "reward": "Legendary: berserk darts also ignite enemies"
+    },
+    {
+      "name": "Abyssal Pendant",
+      "region": "Online store",
+      "where": "Paid DLC (online store, 9.99 USD)",
+      "gate": "Sea Serpent DLC",
+      "reward": "Legendary: kills restore some health"
+    },
+    {
+      "name": "Blackbeard's Trinket",
+      "region": "Online store",
+      "where": "Crimson Pack pre-order bonus",
+      "gate": "Pre-order bonus",
+      "reward": "Legendary: kills lower enemy morale further"
+    },
+    {
+      "name": "Obsidian Monolith",
+      "region": "Animus rift in ship's cabin",
+      "where": "Complete the Eye in the Dark project",
+      "gate": "",
+      "reward": "Legendary: Perfect Dodge easier to perform"
+    },
+    {
+      "name": "Wooden Eyeball",
+      "region": "Restored Preserved Map",
+      "where": "Solve the treasure map",
+      "gate": "Treasure map",
+      "reward": "Legendary: quick shooting instantly kills Brutes"
+    },
+    {
+      "name": "Guardian Beast Trinket",
+      "region": "Dry Tortuga (356, 701)",
+      "where": "Underwater chest on an unmarked island; map comes from the Havana event Smelly Sailors (225, 573)",
+      "gate": "Solve the Map of Shipwreck",
+      "reward": "Legendary: health slowly regenerates out of combat"
+    },
+    {
+      "name": "Hidden Ones Sigil",
+      "region": "Assassin Contracts",
+      "where": "Reward",
+      "gate": "Complete 15 of the 30 Assassin Contracts",
+      "reward": "Legendary: enemies take longer to detect you while crouched"
+    },
+    {
+      "name": "Black Pearl",
+      "region": "Great Inagua docks (Treasure Dealer)",
+      "where": "Bought with 60 Wine, 40 Spice, 30 Tobacco, 20 Aloe",
+      "gate": "Build his shop for 5,000 Reales",
+      "reward": "Legendary: takedowns can chain to one more enemy"
+    },
+    {
+      "name": "Shark Teeth",
+      "region": "Great Inagua General Store",
+      "where": "Purchased",
+      "gate": "Store upgrade level 3 (25,000 Reales)",
+      "reward": "Legendary: Brutes cannot deny Chain Takedowns"
+    },
+    {
+      "name": "Cross Pendant",
+      "region": "Kingston (616, 178)",
+      "where": "Local event Tithes Paid",
+      "gate": "",
+      "reward": "Rare: less damage from British soldiers"
+    },
+    {
+      "name": "Exotic Sea Shells",
+      "region": "Havana (214, 568)",
+      "where": "In a chest",
+      "gate": "",
+      "reward": "Rare: more wildlife products when skinning animals"
+    },
+    {
+      "name": "Jackdaw Totem",
+      "region": "Side questline A World Without Gold",
+      "where": "Quest reward",
+      "gate": "Available after Sequence 11, Mission 03",
+      "reward": "Rare: no fall damage from heights"
+    },
+    {
+      "name": "Folded Palm",
+      "region": "Havana (225, 589)",
+      "where": "Local event Spiteful Soldier",
+      "gate": "",
+      "reward": "Rare: gain Reales after each takedown"
+    },
+    {
+      "name": "Hunter's Amulet",
+      "region": "Restored Digested Map",
+      "where": "Solve the treasure map",
+      "gate": "Treasure map",
+      "reward": "Rare: shrinks animals' detection range"
+    },
+    {
+      "name": "Bloody Spanish Medal",
+      "region": "Kingston (594, 175)",
+      "where": "In a chest",
+      "gate": "",
+      "reward": "Rare: less damage from Spanish soldiers"
+    },
+    {
+      "name": "Anchor Medallion",
+      "region": "Sacrifice Island (16, 544)",
+      "where": "In a chest",
+      "gate": "",
+      "reward": "Rare: bigger reward from floating loot"
+    },
+    {
+      "name": "Lodestone",
+      "region": "Great Inagua General Store",
+      "where": "Purchased",
+      "gate": "Store upgrade level 2 (7,000 Reales)",
+      "reward": "Rare: auto-loots nearby corpses and curios"
+    },
+    {
+      "name": "Found Coin",
+      "region": "Great Inagua (830, 444)",
+      "where": "Reward for side quest Art Lover",
+      "gate": "Complete the quest",
+      "reward": "Rare: more Reales gained"
+    },
+    {
+      "name": "Small Goblet",
+      "region": "Caracol (446, 620)",
+      "where": "Reward for finishing all of the Padre's officer quests, starting with A Second Chance",
+      "gate": "Available after Sequence 04, Mission 01",
+      "reward": "Rare: food, drink and remedies heal more"
+    },
+    {
+      "name": "Rabbit's Foot",
+      "region": "Templar Hunt Opia Apito (304, 311)",
+      "where": "Hunt reward",
+      "gate": "Complete the Templar Hunt",
+      "reward": "Common: chance to stagger enemies after a successful parry"
+    },
+    {
+      "name": "Diamond Trinket",
+      "region": "Cape Bonavista (151, 586)",
+      "where": "In a chest",
+      "gate": "",
+      "reward": "Common: oxygen drains slower when diving"
+    },
+    {
+      "name": "Gold Earring",
+      "region": "Salt Key Bank (465, 602)",
+      "where": "In a chest",
+      "gate": "",
+      "reward": "Common: piracy raises Wanted Level less"
+    }
+  ],
+  "gaps": [
+    "Page states no single total; 24 is the list count (3 store, 5 story/quest, 10 world, 6 online/DLC by headings). A reader comment about a cursed trinket from a Nassau local event is unverified and excluded."
+  ],
+  "notes": ""
+}

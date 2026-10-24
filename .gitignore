@@ -40,5 +40,6 @@ publish/src/
 # Skill eval workspaces
 skills/*-workspace/
 
-# Generated guide folders (may contain material derived from third-party sources)
-guides/
+# Guide folders are published; keep editor/back-up leftovers out
+guides/**/*.bak
+guides/**/node_modules/

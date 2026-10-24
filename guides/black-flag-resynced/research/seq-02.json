@@ -1,0 +1,158 @@
+{
+  "sequence": 2,
+  "source": "https://www.consolepulse.com/multiplatform/assassins-creed/guides/assassins-creed-black-flag-resynced-guide-sequence-2-walkthrough",
+  "retrieved": "2026-10-24",
+  "memories": [
+    {
+      "name": "Lively Havana",
+      "objective": "Follow Stede through Havana, survive a tavern brawl and shake off the guards.",
+      "steps": [
+        "Follow Stede through the streets (auto-follow can be cancelled to explore).",
+        "At the weapon shop, get a British Cutlass for 800 Reales; Stede pays.",
+        "Climb the nearest church and synchronize the Viewpoint, which also reveals a southwest Viewpoint.",
+        "Leap of Faith into the haystacks.",
+        "Chase and loot the pickpocket to get Stede's coin back; dodge his attack when it flashes red.",
+        "Go to the tavern and win the brawl, using a sweep and a kick once each.",
+        "When guards arrive, drop a Smoke Bomb, run, and hide in a haystack or get far enough away."
+      ],
+      "optional": [],
+      "tips": [
+        "Sweep is R2 + X/A and kick is R2 + square/X; after using each once you can fight freely.",
+        "Some Havana Viewpoints and buildings unlock here and matter later."
+      ],
+      "gaps": [
+        "No optional or full sync objectives listed.",
+        "Location of the weapon shop, tavern and pickpocket is not described.",
+        "No detail on how far is far enough to lose the guards."
+      ]
+    },
+    {
+      "name": "...And My Sugar?",
+      "objective": "Find Stede near the docks and get back his seized sugar shipment and Edward's belongings.",
+      "steps": [
+        "Eavesdrop on the two guards marked with a green ear icon, crouching behind crates or barrels.",
+        "After the bell rings, go to the new objective in northeast Havana.",
+        "At the gallows, listen in on another conversation to learn that Captain Mendoza carries a key.",
+        "Tail Mendoza through the crowd without being spotted.",
+        "Skip the front gate; go around the northwest and climb the wooden structure and brickwork to the fort top.",
+        "Work through the guards as suggested: split the talking pair, whistle one over and knock him out, then take the second.",
+        "Clear the guard watching the water, grab the chest below the white wall, and climb back up.",
+        "Hide in the haystack by the Viewpoint, deal with the returning guard, and synchronize the Viewpoint.",
+        "Head southeast and pickpocket or knock out the Captain, then clear the last guard to the northeast.",
+        "Enter the room, turn right outside it and take the zipline down to Stede, then talk to him."
+      ],
+      "optional": [],
+      "tips": [
+        "Eavesdropping: crouch and hold the interact button (triangle/Y); at the gallows hold L2/LT.",
+        "Losing Mendoza in the crowd leads to a large group of soldiers.",
+        "The northwest route is the cleanest approach."
+      ],
+      "gaps": [
+        "The page says there is no hidden stealth checklist, so no optional objectives.",
+        "Where exactly the key is used is not described.",
+        "Not stated what the shipment or belongings look like or where they end up."
+      ]
+    },
+    {
+      "name": "Mister Walpole, I Presume?",
+      "objective": "Keep up Edward's disguise as Duncan Walpole in front of the Templars Woodes Rogers and Julien du Casse.",
+      "steps": [
+        "Go to the house in southwest Havana, speak with the guards outside and go upstairs to meet Rogers and du Casse.",
+        "Take Rogers' pistol test: equip pistols, aim and hit all five targets within 30 seconds.",
+        "Take du Casse's assassination drills: haystack, wall corner, rush and air assassination in the order prompted.",
+        "Meet Torres once the tests are passed.",
+        "Torres wants to meet the next day; with no room at the tavern, sleep on the rooftop bench north of it to end the memory."
+      ],
+      "optional": [
+        "Pickpocket the three nearby Templars for extra Reales.",
+        "Look at the diagram linked to an Observatory.",
+        "Read the Wanted Poster for Bartholomew Roberts."
+      ],
+      "tips": [
+        "Missing the 30 second pistol timer does not fail the mission.",
+        "Walking near the training mannequins can trigger the next drill prompt.",
+        "Pistols are equipped with L2/LT + D-pad up, aimed with L2/LT and fired with R2/RT.",
+        "Edward also picks up a Curious Schematic."
+      ],
+      "gaps": [
+        "The page notes the original game tied pickpocketing to an optional objective; here it only gives loot.",
+        "Rewards for passing the tests are not stated.",
+        "No exact map spot for the house or the rooftop bench."
+      ]
+    },
+    {
+      "name": "A Man They Call the Sage",
+      "objective": "Escort Torres and the prisoner Roberts (the Sage) toward Torres' residence while fending off rival Assassins.",
+      "steps": [
+        "Go northeast to the docks, where Rogers introduces Torres questioning Roberts.",
+        "Escort the group toward the residence; rival Assassins ambush you.",
+        "Kill attackers with the hidden blade after a perfect parry or a broken guard.",
+        "Keep pistols ready for threats on rooftops.",
+        "In the last wave the Assassins grab Roberts and flee; chase him to a dead end.",
+        "Land a perfect parry for an instant takedown.",
+        "With Roberts back in custody, accept Torres' invitation to watch the interrogation."
+      ],
+      "optional": [],
+      "tips": [
+        "Shooting the Sage instead of tackling him carries no penalty."
+      ],
+      "gaps": [
+        "No optional objectives listed.",
+        "Number of waves and enemy counts are not stated.",
+        "Route to the residence is not described."
+      ]
+    },
+    {
+      "name": "Claiming What's Due",
+      "objective": "Sneak into Torres' guarded estate at night and reach the prison in the northwest corner.",
+      "steps": [
+        "Meet Stede at the southern tavern and share a drink to bring on nightfall.",
+        "Throw a Smoke Bomb and slip through the fence gap west of the tavern.",
+        "Tag guards with Eagle Vision and assassinate the one nearest the gap.",
+        "Separate the two patrol guards with a whistle and lure isolated guards into grass or haystacks.",
+        "Double assassinate the pair near the pigs and the well.",
+        "Climb to the manor roof to avoid a big cluster of soldiers, and take the rooftop chest and the Viewpoint.",
+        "Wait for the Warden to pass the northern edge, drop on him with an air assassination and take his key.",
+        "Read du Casse's letter near the northern table.",
+        "Go to the west side, vault the wall and unlock the prison door to trigger the next memory."
+      ],
+      "optional": [],
+      "tips": [
+        "The roof route avoids the large group of soldiers."
+      ],
+      "gaps": [
+        "The page says stealth and no-combat objectives from the original are not tracked in this version.",
+        "Contents of du Casse's letter are not summarised.",
+        "The rooftop chest's contents are not stated."
+      ]
+    },
+    {
+      "name": "The Treasure Fleet",
+      "objective": "Escape captivity with Adewale, free captured pirates, take a Brig and command a ship through a storm chase.",
+      "steps": [
+        "Free yourself, meet Adewale and clear the deck guards together; recover your gear after knocking out the nearby guard.",
+        "Move from ship to ship, taking down soldiers and freeing pirates.",
+        "On the last ship go below deck; double assassinate the first pirate pair, take the other two guards one at a time and free the last prisoners.",
+        "Jump to the smaller vessel and assassinate its captain to take command.",
+        "In the storm chase, aim explosive barrels, launch them and detonate them.",
+        "Brace against damage, steer straight into rogue waves, and avoid lightning and tornadoes.",
+        "Head east; Adewale becomes quartermaster as the memory ends."
+      ],
+      "optional": [],
+      "tips": [
+        "Barrels: aim with L2/LT, launch with R2/RT, detonate with R1/RB; brace with square/X.",
+        "Each ship can be done stealthily or openly, but Adewale is not always nearby.",
+        "Holding attack makes a heavy attack.",
+        "Heavy guards appear for the first time here.",
+        "Being spotted on one ship does not alert the others.",
+        "Climbing the rigging lets you drop onto guards below."
+      ],
+      "gaps": [
+        "No optional objectives listed.",
+        "Number of ships and prisoners is not given.",
+        "The page ties the Edward's-ship-becomes-Jackdaw line only loosely; how the ship is renamed is not explained."
+      ]
+    }
+  ],
+  "notes": "Page fully fetched, appeared complete (about 5000 words), all six memories present with the expected names. The page states this remake replaced per-mission full synchronization with trophies and map completion. Progress tracker on page: Lively Havana trophy (finish memory 1), A Poxy Bird trophy (finish memory 6), map completion (sync all Havana Viewpoints, loot chests incl. the rooftop one in Claiming What's Due, collect Song Sheets, Shanties and Secrets), Cartographer trophy (visit every location). Skipped Havana collectibles can be collected later. Adewale spelled without accent in the strings."
+}

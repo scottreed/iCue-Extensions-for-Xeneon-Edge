@@ -1,0 +1,28 @@
+{
+  "category": "Naval contracts",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-naval-contract-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 15,
+  "items": [
+    {"name": "A Spanish Plague", "region": "Gibara region - Great Inagua", "where": "Take it from Milo at the docks; sink 3 ships at the marked spot.", "gate": "First contract; offered after Sequence 04 Mission 01 (This Old Cove)", "reward": "Money (Reales)"},
+    {"name": "Eye For An Eye", "region": "Gibara region - Great Inagua", "where": "Take it from Milo at the docks; board the San Lorenzo frigate.", "gate": "", "reward": "Money; bonus 900 Reales for incapacitating it without mortars"},
+    {"name": "Blind Justice", "region": "Gibara region - Great Inagua", "where": "Take it from Milo at the docks; board the British Man O' War.", "gate": "", "reward": "Money; bonus 900 Reales for sinking its 3 escorts before boarding"},
+    {"name": "Papers, Please", "region": "Gibara region - Great Inagua", "where": "Take it from Milo in town; sink the HMS Courage.", "gate": "", "reward": "Money; bonus 1200 Reales if you board it instead"},
+    {"name": "The Final Contract", "region": "Gibara region - Great Inagua", "where": "Take it from Milo by the manor; protect the Hollander and sink all 10 attacking ships.", "gate": "Requires finishing all other naval contracts", "reward": "Handsome Devils Crew Attire (Rare) and Black Skull Sails (Legendary)"},
+    {"name": "A Personal Matter", "region": "Gibara region - Crooked Island", "where": "Take it from the man at the docks; sink the frigate HMS Defiance.", "gate": "", "reward": "Money; bonus 900 Reales if you board it"},
+    {"name": "The Law Of The Ocean", "region": "Dry Tortuga region - Havana", "where": "Take it from the man at the docks; wait for the ambush, then board and take over the Hercules.", "gate": "", "reward": "Money; bonus 900 Reales for sinking a ship with fire barrels"},
+    {"name": "Silk On The Waves", "region": "Dry Tortuga region - Salt Key Bank", "where": "Take it from the man at the docks; sink or plunder ships to gather 30 cloth (cloth already carried does not count), then return.", "gate": "", "reward": "Money"},
+    {"name": "Driftwood", "region": "Eleuthera region - Andreas Island", "where": "Take it from the man at the docks; sink or plunder ships to gather 60 wood (already-carried wood does not count), then return.", "gate": "", "reward": "Money"},
+    {"name": "Weathering The Storm", "region": "Eleuthera region - Nassau", "where": "Take it from the man at the docks; sink the 5-ship British fleet.", "gate": "", "reward": "Money; bonus 600 Reales for sinking 2 of them with mortars"},
+    {"name": "The Realities Of War", "region": "Cruz region - Grand Cayman", "where": "Take it from the man at the docks; sink all Spanish ships.", "gate": "", "reward": "Money; bonus 1200 Reales for sinking one Spanish ship with a mortar"},
+    {"name": "Contraband", "region": "Castillo de Jagua region - Arroyos", "where": "Take it from the man at the docks; sink all smuggler ships.", "gate": "", "reward": "Money"},
+    {"name": "Private Escort", "region": "Chinchorro region - Corozal", "where": "Take it from the man beside the Harbourmaster; escort the Neptuno through waves of small ships and one medium ship to open water near Serranilla.", "gate": "", "reward": "Money; bonus 1200 Reales if the Neptuno ends with at least 50% health"},
+    {"name": "Smuggler's Den", "region": "Navassa region - Kingston", "where": "Take it from the man on the dock where you moor the Jackdaw; destroy the 3-ship Spanish blockade, crippling the small ships first so they cannot hit you.", "gate": "", "reward": "Money; extra Reales (amount not stated) for sinking the medium frigate with a mortar"},
+    {"name": "Hunter Gatherer", "region": "Navassa region - Ile a Vache", "where": "Take it from the man on the dock where you moor the Jackdaw; sink 2 Hunter ships (red sails, pirate icon).", "gate": "Needs Wanted Level 1 or more for Hunter ships to appear; they can find you anywhere", "reward": "Money; bonus for sinking one Hunter ship with a mortar (aim, then fire when the ship shows the Board prompt)"}
+  ],
+  "gaps": [
+    "Source gives base rewards only as 'money'; no base amounts.",
+    "Source does not say whether any contract is tied to a trophy."
+  ],
+  "notes": "Nothing is missable and all locations stay reachable after the story. Contracts show on the map after syncing viewpoints; the map filter can show only naval contracts. Readers report Hunter Gatherer and Contraband sometimes stay open on the map after completion (not addressed by the guide)."
+}

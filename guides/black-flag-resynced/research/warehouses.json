@@ -1,0 +1,73 @@
+{
+  "category": "Warehouses",
+  "source": "https://www.powerpyx.com/assassins-creed-4-black-flag-resynced-all-warehouse-locations/",
+  "retrieved": "2026-10-24",
+  "stated_total": 9,
+  "items": [
+    {
+      "name": "Matanzas Warehouse",
+      "region": "Matanzas",
+      "where": "Southwest corner of the plantation near the crocodile icon; the key lies on a body behind the crocodile pond on a small corner island.",
+      "gate": "Warehouse key (randomised after the first raid; 2-hour cooldown, repeatable)",
+      "reward": "Painting: Merry Company"
+    },
+    {
+      "name": "Cat Island Warehouse",
+      "region": "Cat Island",
+      "where": "Looted for you during Sequence 03 Mission 05; afterwards the key is random, usually carried by an enemy.",
+      "gate": "Key (automatic during the story)",
+      "reward": "Painting: The Burning of the Royal James (automatic)"
+    },
+    {
+      "name": "Black Island Warehouse",
+      "region": "Black Island",
+      "where": "Overhear two NPCs near the warehouse, then find the soldier with the key at a campfire on the path to the southwest beach. Key may fail to spawn; page suggests finishing Lucy's 2nd officer quest and waiting 2 real hours, which commenters say did not work for everyone.",
+      "gate": "Warehouse key (randomised after the first raid; 2-hour cooldown, repeatable)",
+      "reward": "Painting: The Flight into Egypt"
+    },
+    {
+      "name": "Tortuga Warehouse",
+      "region": "Tortuga",
+      "where": "Loot a banana crate slightly west of the plantation centre.",
+      "gate": "Warehouse key (randomised after the first raid; 2-hour cooldown, repeatable)",
+      "reward": "Painting: Map of the World"
+    },
+    {
+      "name": "New Bone Warehouse",
+      "region": "New Bone",
+      "where": "Defeat the enemy at the Mayan Stelae in the northwest corner of the island.",
+      "gate": "Warehouse key (randomised after the first raid; 2-hour cooldown, repeatable)",
+      "reward": "Painting: An English Ship in Action with Barbary Vessels"
+    },
+    {
+      "name": "Havana Warehouse",
+      "region": "Havana",
+      "where": "Defeat the enemy in the northwest corner of the plantation.",
+      "gate": "Warehouse key (randomised after the first raid; 2-hour cooldown, repeatable)",
+      "reward": "Painting: Saint Jerome as Cardinal"
+    },
+    {
+      "name": "Nassau Warehouse",
+      "region": "Nassau",
+      "where": "Defeat the enemy on the beach southwest of the warehouse area; two guards at the warehouse hint he has the key.",
+      "gate": "Warehouse key (randomised after the first raid; 2-hour cooldown, repeatable)",
+      "reward": "Painting: Harbor Scene at Sunset"
+    },
+    {
+      "name": "Kingston South Warehouse",
+      "region": "Kingston",
+      "where": "Defeat the enemy directly north of the big barn.",
+      "gate": "Warehouse key (randomised after the first raid; 2-hour cooldown, repeatable)",
+      "reward": "Painting: Nymphs By A Fountain"
+    },
+    {
+      "name": "Kingston North Warehouse",
+      "region": "Kingston",
+      "where": "Defeat the patrolling enemy around the manor in the northeast of the warehouse area.",
+      "gate": "Warehouse key (randomised after the first raid; 2-hour cooldown, repeatable)",
+      "reward": "Painting: Vanitas Still-life"
+    }
+  ],
+  "gaps": [],
+  "notes": "Each warehouse gives a painting needed for the Dilettante trophy."
+}

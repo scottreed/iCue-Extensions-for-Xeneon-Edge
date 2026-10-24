@@ -1,0 +1,228 @@
+{
+ "category": "Data files",
+ "source": [
+  "https://www.gamerguides.com/assassins-creed-black-flag-resynced/checklists/data-file-locations",
+  "https://mapmaster.io/games/assassin-s-creed-black-flag-resynced/guides/Vault%20Data%20File",
+  "https://vandal.elespanol.com/en/assassin-s-creed-black-flag-resynced/assassin-s-creed-black-flag-resynced-all-data-files.html"
+ ],
+ "retrieved": "2026-10-24",
+ "stated_total": 30,
+ "items": [
+  {
+   "name": "Devil's Marketing Plan / Digitized Diary Page",
+   "region": "Unconfirmed",
+   "where": "Sits at the end of a pier (checklist entry 1).",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Devils Movie Trailer",
+   "region": "Nassau",
+   "where": "Behind the tavern, outside it.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Extract, Junko's Sketchbook",
+   "region": "Kingston",
+   "where": "On top of a cross at the east edge of the central church roof.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Leaked Message Chain",
+   "region": "Port Royal",
+   "where": "On the upper wall of Fort Charles' central courtyard.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Screengrab, Breaking News",
+   "region": "Petite Caverne",
+   "where": "On a wooden platform edge halfway up the cave in the big pirate camp.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Animus Fragment",
+   "region": "Cape Bonavista",
+   "where": "At the top of the large waterfall, north of the Mayan Stele.",
+   "gate": "Return after the quest 'This Tyro Captain'; not collectable during the tutorial",
+   "reward": ""
+  },
+  {
+   "name": "Surveillance Footage",
+   "region": "Ile a Vache",
+   "where": "South side at the water's edge by a small enemy camp, floating above bodies.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Warning From Ego",
+   "region": "Sacrifice Island",
+   "where": "On top of the Mayan temple, south side.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Surveillance Transcript",
+   "region": "Unconfirmed",
+   "where": "On rocks overlooking a boxing ring.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Echo Three",
+   "region": "Island east of New Bone",
+   "where": "Floating above a rock on the island's north side.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Encrypted Report",
+   "region": "Island east of Andreas Island",
+   "where": "Floating above a mass grave, near a shack.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Leaked Abstergo Email",
+   "region": "Island southwest of Cumberland Bay",
+   "where": "Gallows at the island's highest point on the south side, by skeleton cages.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Echo Zero_FIRSTRULE",
+   "region": "Unconfirmed island",
+   "where": "Inside a small cave among corpses.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Encrypted Chat Transcript",
+   "region": "San Juan",
+   "where": "In the cavern inside San Juan, by the pirates' fire.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Echo Two",
+   "region": "Isla Providencia",
+   "where": "Floating above the tip of the half-sunken ship on the southeast beach.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Echo One",
+   "region": "Florida",
+   "where": "End of the broken ship's mast on the western beach of Florida island.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Devils Release Poster",
+   "region": "Salt Key Bank",
+   "where": "On the porch of a house at the southeast of the fishing village.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Encrypted Blog Post",
+   "region": "Great Inagua",
+   "where": "On the manor roof, north side.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Diary of Robert Jimenez",
+   "region": "Mariguana Island",
+   "where": "On the upper pier, north side.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Diary of Rob",
+   "region": "New Bone",
+   "where": "On the warehouse roof.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Digitized Journal Entry",
+   "region": "Pinos Isle",
+   "where": "On a mountain edge behind the camp; visit the northwest ruins first, then backtrack.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Devils Podcast Fragment (first listed)",
+   "region": "Unconfirmed",
+   "where": "On a tavern roof (checklist entry 22).",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Intercepted Comms Chain",
+   "region": "Tulum",
+   "where": "Roof of the northernmost Mayan tower in the far north ruins.",
+   "gate": "Main story progress",
+   "reward": ""
+  },
+  {
+   "name": "Digital Artefact",
+   "region": "Fort Gibara",
+   "where": "Top of the middle of three cage posts opposite the fort's main doors.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Devils Podcast Fragment (second listed)",
+   "region": "Santanillas (tentative)",
+   "where": "Climb a fallen stone pillar, then jump to nearby trees; MapMaster puts a podcast fragment on the eastern upper plateau reached by climbing southern palms.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Devils Movie Review (it's bad)",
+   "region": "Unnamed island",
+   "where": "Top of a wrecked ship's bow.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Guided Meditation Audio",
+   "region": "Island northeast of Fort Gibara",
+   "where": "Use a fallen tree on arrival to reach the vantage platform at the path's end.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Manifesto, the Mentor",
+   "region": "Island northwest of Abaco",
+   "where": "Beach above a wrecked boat on a small island.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Retrieved Audio",
+   "region": "Grand Cayman",
+   "where": "Inside a Spanish tent at a small camp northeast of Grand Cayman village.",
+   "gate": "",
+   "reward": ""
+  },
+  {
+   "name": "Leaked Image",
+   "region": "Long Bay (one source only)",
+   "where": "Climb the building's side then go to the center for the roof; Vandal says on ruins near the Mayan Stela.",
+   "gate": "",
+   "reward": ""
+  }
+ ],
+ "gaps": [
+  "Regions unconfirmed for entries 1, 9, 13 and the first Devils Podcast Fragment: the checklist gives no region for any entry; regions were taken by matching names against MapMaster.",
+  "No source states a reward beyond unlocking an Animus lore entry.",
+  "MapMaster also lists 5 Riptides Animus Project unlocks (levels 4, 8, 11, 15, 19), which are not in the 30-item checklist and are not included. MapMaster's Havana 'Vault Data File' (end of southern dock) probably equals entry 1 but is unconfirmed."
+ ],
+ "notes": "Backbone is the gamerguides checklist, which calls them Data Files. MapMaster calls the same collectibles Vault Data Files / Data Files (33 entries: 28 on the map plus 5 Riptides unlocks) and separately mentions Data Fragments, a currency from Anomaly challenges that is not a collectible. Vandal uses different titles and puts 8 of its 30 behind Animus Projects or Rifts; used only to resolve Leaked Image. MapMaster's Devils Marketing Plan is on a Corozal tavern roof, which may match checklist entry 22 or 1."
+}
