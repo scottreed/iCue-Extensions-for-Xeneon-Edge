@@ -1,6 +1,6 @@
 # Game Guide: Marketplace listing (version 1.0.0)
 
-Everything below is ready to paste or tick. Section B is the only part meant to be pasted as plain text.
+Everything below is ready to paste or tick. Section B (inside the code block) is the only part meant to be pasted as plain text, and it must stay under 4,000 characters.
 
 ## A. Basics
 
@@ -14,53 +14,42 @@ Everything below is ready to paste or tick. Section B is the only part meant to 
 
 ## B. DESCRIPTION (paste-ready)
 
+**Limit: the Marketplace description field allows at most 4,000 characters. The text below is 3,473 characters (counted with plain line breaks, spaces included). If you edit it, keep it under 4,000.**
+
+```
 WHAT GAME GUIDE IS
-Game Guide turns the whole XENEON EDGE screen into a reader for game guides: walkthroughs, collectible checklists, interactive maps and skill trees, right beside your game. It does not come with guides for specific games. You import guide files (.ggp), and you can keep as many as you like. A small sample guide for a fictional game is installed the first time so you can try every feature straight away.
+Game Guide turns the whole XENEON EDGE screen into a reader for game guides: walkthroughs, collectible checklists, interactive maps and skill trees, right beside your game. It comes with no guides for specific games. You import guide files (.ggp) and keep as many as you like. A small sample guide for a fictional game is installed on first run so you can try everything.
 
-IMPORTING GUIDES
-Tap Library, then Import guide, and choose a .ggp file. The file chooser opens on the Edge. If you import a newer version of a guide you already have, it is updated and your progress is kept.
+GETTING GUIDES IN
+Tap Library, then Import guide, and choose a .ggp file (the chooser opens on the Edge). Importing a newer version of a guide updates it and keeps your progress. In the library, Open starts a guide, Hide and Show move it in and out of the quick switcher, and Delete (tap twice) removes it and its progress. Tap the guide title at the top to switch guides.
 
-THE LIBRARY
-Each guide shows as a card with its version, number of pages, progress and size. Open starts a guide. Hide takes a guide out of the quick switcher (it moves to a Hidden guides section and Show brings it back). Delete removes a guide and its progress; tap it twice to confirm. Inside a guide, tap the guide title at the top to switch quickly to another guide, or choose Manage guides to return to the library.
-
-PAGES AND LISTS
-The list on the left shows the guide's contents, with folders you can open and close. Pages can contain text, headings, numbered steps, callouts (tips, warnings, missable items and bosses), pictures, galleries, tables and key facts. Links inside pages jump to other pages, checklists or maps.
+READING
+The list on the left shows the contents. Pages mix text, numbered steps, callouts (tips, warnings, missables, bosses), pictures, tables and key facts, and links jump to other pages, checklists, maps or skill trees. Tap any picture to see it full screen.
 
 CHECKLISTS
-Tick items off with a tap. Items can be grouped, and each group shows its own count. Items can carry a Missable tag and a Needs line that names what you must do first. Walkthrough steps can be tied to a checklist item, so you can tick them as you read. The top bar shows overall progress, and Hide completed removes finished items so only what is left remains. Progress is saved per guide.
+Tick items off with a tap. Groups show counts, the top bar shows overall progress, and Hide completed removes finished items. Items can carry Missable and Needs notes, and walkthrough steps can tick a checklist item. Progress is saved per guide.
 
 MAPS
-Drag to move a map and pinch with two fingers to zoom, or use the plus and minus buttons. Fit shows the whole map again. Colour-coded pins open a card with a description; if the pin belongs to a checklist item you can mark it found right there, and the checklist ticks too. Checklist items have a Map button that jumps straight to their pin. Legend chips and layer chips show or hide kinds of pins, and Hide found clears the ones you have already collected. Routes and regions are drawn over the map and can be tapped for details. Full screen gives the map the whole widget; tap Close to return. Skill trees have Full screen too.
+Drag to move, pinch with two fingers (or use + and -) to zoom, and Fit to see the whole map. Pins open a card and can be marked found, which also ticks the checklist item. Checklist items have a Map button that jumps to their pin. Legend and layer chips hide or show pins, Hide found clears collected ones, and routes and regions are drawn on top. Full screen gives a map the whole widget.
 
 SKILL TREES
-Tap a skill, then plus or minus to spend or take back points. A skill stays locked until the skills it needs have a point, and you cannot remove a point from a skill that another one still depends on. Preset builds can be loaded with one tap, Reset clears the tree, and your points are remembered.
-
-PICTURES
-Tap any picture in a page to see it full screen, then drag and pinch to look closer.
+Tap a skill, then + or - to spend points. Skills stay locked until the ones they need have a point, and you cannot remove a point another skill depends on. Load preset builds with one tap; your points are remembered.
 
 TWO PANES
-Two panes splits the screen into two equal halves, and each half can show anything: a page, a checklist, a table, a map or a skill tree. Above the list is an Open in chooser (Left or Right) that decides where the next thing you tap opens, and small L and R badges show what each half is showing. A link inside a half opens in that same half, except links to a map or a skill tree, which open in the other half so you can keep reading. One pane goes back to a single pane, and Two panes again brings back what each half was showing.
+Two panes splits the screen into two equal halves that can each show a page, checklist, table, map or skill tree. Open in Left / Right above the list decides where the next tap opens. Links open in the same half, except map and skill tree links, which open in the other half so you keep reading. Each pane has a Back button that remembers its last 10 steps, including scroll position.
 
-BACK BUTTON
-Each pane has its own Back button at the top right. It returns to what that pane showed before, including how far you had scrolled, and remembers the last 10 steps for each pane.
+YOUR LOOK
+Text, accent and background colour and transparency follow your Edge page theme, or use Custom Style for your own. Only the background fades.
 
-CREDITS
-The Credits button shows who made the guide, its version, language, licence, the tool it was made with, and the sources it drew on.
+OFFLINE AND PRIVATE
+Works fully offline with no account. Guides and progress are stored inside the widget, survive iCUE restarts, and are lost if you delete the widget. Nothing is sent anywhere. No permissions or plugins are needed.
 
-PERSONALIZATION
-Text Color, Accent Color, Background Color and Background Transparency are available in the widget settings, and the widget follows your Edge page theme unless you switch on Custom Style. Only the background fades with transparency; text, maps and buttons stay solid.
+REQUIREMENTS AND LIMITS
+XENEON EDGE, iCUE 5.47 or newer, Windows, Extra Large slot only. Guide files up to 60 MB. The screen supports two touches at once. Maps show pins only where the guide author supplied coordinates.
 
-OFFLINE, STORAGE AND PRIVACY
-Game Guide works completely offline and needs no account, no sign-in and no internet connection. Guides and your progress are stored inside the widget, so they survive restarts of iCUE. They are lost if you delete the widget from the Edge page. Nothing is sent anywhere.
-
-REQUIREMENTS AND PERMISSIONS
-XENEON EDGE with iCUE 5.47 or newer on Windows. The widget is made for the Extra Large slot only, because it needs the full screen, and it is designed for touch. It asks for no permissions and uses no plugins.
-
-LIMITATIONS
-Extra Large slot only. Guides can be up to 60 MB as a file, with up to 5 MB of guide data and images up to 4096 pixels on a side. The touch screen supports two fingers at once, so you cannot press two buttons at the same moment. Maps show pins only where the guide author has supplied coordinates.
-
-HOW GUIDES ARE MADE
-A guide is a .ggp file: a zip containing a manifest, a data file and images. You can make your own with the open-source ggp-guide-builder skill for Claude Code, found in the project repository (folder skills/ggp-guide-builder). It aims for comprehensive guides: it turns your notes, wiki text, checklists, map coordinates and skill-tree data into a validated .ggp with full step-by-step walkthroughs, every collectible type, areas, tips and trophies where the sources allow, writes in its own words, records credits and sources, and never guesses map coordinates. It includes a command-line checker (validate, pack, inspect, init). To install it, copy the folder to ~/.claude/skills/ggp-guide-builder and run npm install inside it once. Then ask Claude something like: Make a Game Guide for [game] from these notes, with a checklist of every collectible.
+MAKE YOUR OWN GUIDES
+A guide is a .ggp file (a zip with a manifest, data and images). The open-source ggp-guide-builder skill for Claude Code, in the project repository, builds comprehensive guides from your notes, wiki text, checklists and map data: step-by-step walkthroughs, collectibles, areas and tips, validated, with credits and sources, written in its own words and never guessing map coordinates. Copy skills/ggp-guide-builder to ~/.claude/skills/ and run npm install inside it once, then ask Claude: Make a Game Guide for [game] from these notes.
+```
 
 ## C. What's new in 1.0.0
 

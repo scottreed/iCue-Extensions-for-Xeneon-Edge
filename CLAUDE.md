@@ -223,3 +223,6 @@ Marketplace text and submission checklist: `publish/game-guide/LISTING.md` (list
 
 ## Black Flag Resynced guide v0.2.0 final contents (2026-10-24)
 `guides/black-flag-resynced.ggp` (865 KB, gitignored, validates clean): 157 pages, 32 trackers, 879 items, ~1,040 step rows, 79 source credits, 1 map picture (PowerPyx image, personal use, no pins). Added after the first comprehensive pass: Templar hunts (4 hunts, 16 missions), side quests (19, with steps), officer quests, rifts (4 + Animus hub), data files (30), buried treasure (28). Known gaps (listed on the in-guide "Known gaps" page): A World Without Gold (8-mission officer chapter), per-chest shipwreck positions, regions of many data files / buried treasure inferred, no per-memory optional objectives (Resynced removed them), thin upgrade/gear stats, conflicting source counts. Regenerate with `node guides/black-flag-resynced/build.mjs` then `ggp pack`.
+
+## Marketplace listing description limit (2026-10-24)
+The widget submission form's description text area allows at most **4,000 characters**. Keep each `publish/<widget>/LISTING.md` description (section B) under that, aim for about 3,500, and state the count in the file. Game Guide's is 3,473 characters.
